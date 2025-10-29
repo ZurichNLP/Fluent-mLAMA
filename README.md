@@ -1,7 +1,7 @@
 # Fluent-mLAMA
 Repository with code and data for the ["Measuring the Effect of Disfluency in Multilingual Knowledge Probing Benchmarks" paper](https://arxiv.org/pdf/2510.15115), presented at EMNLP-2025.
 
-The code and the data will be presented at the conference date.
+You can also find a [poster](poster.pdf) and a short [video presentation](https://www.youtube.com/watch?v=i_ceK35VS1g) of this work. 
 
 ## 0. Pre-requisites
 
