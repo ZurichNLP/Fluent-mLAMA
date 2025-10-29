@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Boise is the capital of Idaho .
+        Subject translation: Бойсе
+        Object translation: Айдахо
+        Translation: Бойсе — столиця Айдахо.
+        
+        Source sentence: Dodoma is the capital of Tanzania .
+        Subject translation: Додома
+        Object translation: Танзанія
+        Translation: Додома - столиця Танзанії.
+        
+        Source sentence: Niamey is the capital of Niger .
+        Subject translation: Ніамей
+        Object translation: Нігер
+        Translation: Ніамей — столиця Нігеру.
+        
+        Source sentence: Quebec City is the capital of Quebec .
+        Subject translation: Квебек
+        Object translation: Квебек
+        Translation: Квебек — столиця Квебеку.
+        
+        Source sentence: Lisbon is the capital of Portugal .
+        Subject translation: Лісабон
+        Object translation: Португалія
+        Translation: Лісабон — столиця Португалії.
+        
+        Source sentence: Zaragoza is the capital of Aragon .
+        Subject translation: Сарагоса
+        Object translation: Арагон
+        Translation: Сарагоса — столиця Арагону.
+        
+        Source sentence: Aylesbury is the capital of Buckinghamshire .
+        Subject translation: Айлзбері
+        Object translation: Бакінгемшир
+        Translation: Айлзбері — столиця Бакінгемширу.
+        
+        Source sentence: Munich is the capital of Munich .
+        Subject translation: Мюнхен
+        Object translation: Мюнхен
+        Translation: Мюнхен — столиця Мюнхену.
+        
+        Source sentence: Huacho is the capital of Lima .
+        Subject translation: Уачо
+        Object translation: Ліма
+        Translation: Уачо — столиця Ліми.
+        
+        Source sentence: Aden is the capital of Yemen .
+        Subject translation: Аден
+        Object translation: Ємен
+        Translation: Аден — столиця Ємену.
+        
+        Source sentence: Dijon is the capital of Burgundy .
+        Subject translation: Діжон
+        Object translation: Бургундія
+        Translation: Діжон — столиця Бургундії.
+        
+        Source sentence: Tashkent is the capital of Uzbekistan .
+        Subject translation: Ташкент
+        Object translation: Узбекистан
+        Translation: Ташкент — столиця Узбекистану.
+        
+        Source sentence: Hartford is the capital of Connecticut .
+        Subject translation: Гартфорд
+        Object translation: Коннектикут
+        Translation: Гартфорд — столиця Коннектикуту.
+        
+        Source sentence: Vergina is the capital of Macedonia .
+        Subject translation: Вергіна
+        Object translation: Стародавня Македонія
+        Translation: Вергіна — столиця Стародавньої Македонії.
+        
+        Source sentence: Zagreb is the capital of Croatia .
+        Subject translation: Загреб
+        Object translation: Хорватія
+        Translation: Загреб — столиця Хорватії.
+        
+        Source sentence: Porto-Novo is the capital of Benin .
+        Subject translation: Порто-Ново
+        Object translation: Бенін
+        Translation: Порто-Ново — столиця Беніну.
+        
+        Source sentence: Ljubljana is the capital of Slovenia .
+        Subject translation: Любляна
+        Object translation: Словенія
+        Translation: Любляна — столиця Словенії.
+        
+        Source sentence: Apia is the capital of Samoa .
+        Subject translation: Апіа
+        Object translation: Самоа
+        Translation: Апіа — столиця Самоа.
+        
+        Source sentence: Nairobi is the capital of Kenya .
+        Subject translation: Найробі
+        Object translation: Кенія
+        Translation: Найробі — столиця Кенії.
+        
+        Source sentence: Tokyo is the capital of Japan .
+        Subject translation: Токіо
+        Object translation: Японія
+        Translation: Токіо — столиця Японії.
+        

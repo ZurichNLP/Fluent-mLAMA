@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The headquarter of Beijing Guoan F.C. is in Beijing .
+        Subject translation: Бейцзін Сінобо Гоань
+        Object translation: Пекін
+        Translation: Штаб-квартира Бейцзін Сінобо Гоань знаходиться в Пекіні.
+        
+        Source sentence: The headquarter of Nortel is in Toronto .
+        Subject translation: Nortel Networks
+        Object translation: Торонто
+        Translation: Штаб-квартира Nortel Networks знаходиться в Торонто.
+        
+        Source sentence: The headquarter of St Patrick's Athletic F.C. is in Dublin .
+        Subject translation: Сент-Патрікс Атлетік
+        Object translation: Дублін
+        Translation: Штаб-квартира Сент-Патрікс Атлетік знаходиться в Дубліні.
+        
+        Source sentence: The headquarter of Republican Left of Catalonia is in Barcelona .
+        Subject translation: Республіканська лівиця Каталонії
+        Object translation: Барселона
+        Translation: Штаб-квартира Республіканської лівиці Каталонії знаходиться в Барселоні.
+        
+        Source sentence: The headquarter of Croatian National Bank is in Zagreb .
+        Subject translation: Хорватський народний банк
+        Object translation: Загреб
+        Translation: Штаб-квартира Хорватського народного банку знаходиться в Загребі.
+        
+        Source sentence: The headquarter of Rolex is in Geneva .
+        Subject translation: Rolex
+        Object translation: Женева
+        Translation: Штаб-квартира Rolex знаходиться в Женеві.
+        
+        Source sentence: The headquarter of Ross Stores is in Dublin .
+        Subject translation: Ross Stores
+        Object translation: Дублін
+        Translation: Штаб-квартира Ross Stores знаходиться в Дубліні.
+        
+        Source sentence: The headquarter of ARM Holdings is in Cambridge .
+        Subject translation: ARM Ltd.
+        Object translation: Кембридж
+        Translation: Штаб-квартира ARM Ltd. знаходиться в Кембриджі.
+        
+        Source sentence: The headquarter of Germanwings is in Cologne .
+        Subject translation: Germanwings
+        Object translation: Кельн
+        Translation: Штаб-квартира Germanwings знаходиться в Кельні.
+        
+        Source sentence: The headquarter of Interpol is in Lyon .
+        Subject translation: Інтерпол
+        Object translation: Ліон
+        Translation: Штаб-квартира Інтерполу знаходиться в Ліоні.
+        
+        Source sentence: The headquarter of United Nations Observer Mission in Georgia is in Tbilisi .
+        Subject translation: Місія ООН у Грузії
+        Object translation: Тбілісі
+        Translation: Штаб-квартира Місії ООН у Грузії знаходиться в Тбілісі.
+        
+        Source sentence: The headquarter of UniCredit is in Milan .
+        Subject translation: UniCredit
+        Object translation: Мілан
+        Translation: Штаб-квартира UniCredit знаходиться в Мілані.
+        
+        Source sentence: The headquarter of Teo LT is in Vilnius .
+        Subject translation: TEO LT
+        Object translation: Вільнюс
+        Translation: Штаб-квартира Teo LT знаходиться у Вільнюсі.
+        
+        Source sentence: The headquarter of Plaid Cymru is in Cardiff .
+        Subject translation: Плайд Кімру
+        Object translation: Кардіфф
+        Translation: Штаб-квартира Плайд Кімру знаходиться в Кардіффі.
+        
+        Source sentence: The headquarter of Alligator Records is in Chicago .
+        Subject translation: Alligator Records
+        Object translation: Чикаго
+        Translation: Штаб-квартира Alligator Records знаходиться в Чикаго.
+        
+        Source sentence: The headquarter of FK Daugava (2003) is in Riga .
+        Subject translation: Даугава
+        Object translation: Рига
+        Translation: Штаб-квартира Даугави знаходиться в Ризі.
+        
+        Source sentence: The headquarter of Standard Chartered is in London .
+        Subject translation: Standard Chartered
+        Object translation: Лондон
+        Translation: Штаб-квартира Standard Chartered знаходиться в Лондоні.
+        
+        Source sentence: The headquarter of Scarborough F.C. is in Scarborough .
+        Subject translation: Скарборо
+        Object translation: Скарборо
+        Translation: Штаб-квартира Скарборо знаходиться в Скарборо.
+        
+        Source sentence: The headquarter of Oratory of Saint Philip Neri is in Rome .
+        Subject translation: Ораторіанці
+        Object translation: Рим
+        Translation: Штаб-квартира Ораторіанців знаходиться в Римі.
+        
+        Source sentence: The headquarter of IF Brommapojkarna is in Stockholm .
+        Subject translation: ІФ Броммапойкарна
+        Object translation: Стокгольм
+        Translation: Штаб-квартира ІФ Броммапойкарна знаходиться в Стокгольмі.
+        

@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The official language of Republic of Adygea is Russian .
+        Subject translation: Адыгея
+        Object translation: русский язык
+        Translation: Официальный язык Адыгеи — русский.
+        
+        Source sentence: The official language of Alicante is Spanish .
+        Subject translation: Аликанте
+        Object translation: испанский язык
+        Translation: Официальный язык Аликанте — испанский.
+        
+        Source sentence: The official language of Akrotiri and Dhekelia is English .
+        Subject translation: Акротири и Декелия
+        Object translation: английский язык
+        Translation: Официальный язык Акротири и Декелии — английский.
+        
+        Source sentence: The official language of Somaliland is Somali .
+        Subject translation: Сомалиленд
+        Object translation: сомалийский язык
+        Translation: Официальный язык Сомалиленда — сомалийский.
+        
+        Source sentence: The official language of Canada is French .
+        Subject translation: Канада
+        Object translation: французский язык
+        Translation: Официальный язык Канады — французский.
+        
+        Source sentence: The official language of Lucknow is Hindi .
+        Subject translation: Лакхнау
+        Object translation: хинди
+        Translation:  Официальный язык Лакхнау — хинди.
+        
+        Source sentence: The official language of North Dakota is English .
+        Subject translation: Северная Дакота
+        Object translation: английский язык
+        Translation: Официальный язык Северной Дакоты — английский.
+        
+        Source sentence: The official language of Qing dynasty is Tibetan .
+        Subject translation: империя Цин
+        Object translation: тибетский язык
+        Translation: Официальный язык империи Цин — тибетский.
+        
+        Source sentence: The official language of Congress Poland is Polish .
+        Subject translation: Царство Польское
+        Object translation: польский язык
+        Translation: Официальный язык Царства Польского - польский.
+        
+        Source sentence: The official language of European Union is Estonian .
+        Subject translation: Европейский союз
+        Object translation: эстонский язык
+        Translation: Официальный язык Европейского Союза — эстонский.
+        
+        Source sentence: The official language of Azad Kashmir is English .
+        Subject translation: Азад Кашмир
+        Object translation: английский язык
+        Translation: Официальный язык Азад Кашмира - английский.
+        
+        Source sentence: The official language of Lohja is Finnish .
+        Subject translation: Лохья
+        Object translation: финский язык
+        Translation: Официальный язык Лохьи — финский.
+        
+        Source sentence: The official language of Dominican Republic is Spanish .
+        Subject translation: Доминиканская Республика
+        Object translation: испанский язык
+        Translation: Официальный язык Доминиканской Республики — испанский.
+        
+        Source sentence: The official language of Liestal is German .
+        Subject translation: Листаль
+        Object translation: немецкий язык
+        Translation: Официальный язык Листаля — немецкий.
+        
+        Source sentence: The official language of Cape Verde is Portuguese .
+        Subject translation: Кабо-Верде
+        Object translation: португальский язык
+        Translation: Официальный язык Кабо-Верде — португальский.
+        
+        Source sentence: The official language of East Timor is Portuguese .
+        Subject translation: Восточный Тимор
+        Object translation: португальский язык
+        Translation: Официальный язык Восточного Тимора — португальский.
+        
+        Source sentence: The official language of Aragon is Catalan .
+        Subject translation: Арагон
+        Object translation: каталанский язык
+        Translation: Официальный язык Арагона — каталанский.
+        
+        Source sentence: The official language of Cebu is Filipino .
+        Subject translation: Себу
+        Object translation: филиппинский язык
+        Translation: Официальный язык Себу — филиппинский.
+        
+        Source sentence: The official language of Czech Republic is Czech .
+        Subject translation: Чехия
+        Object translation: чешский язык
+        Translation:  Официальный язык Чехии — чешский.
+        
+        Source sentence: The official language of South Korea is Korean .
+        Subject translation: Республика Корея
+        Object translation: корейский язык
+        Translation: Официальный язык Республики Кореи — корейский.
+        

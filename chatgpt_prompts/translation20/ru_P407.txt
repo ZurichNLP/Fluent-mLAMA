@@ -1,0 +1,105 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Trouw was written in Dutch .
+        Subject translation: Trouw
+        Object translation: нидерландский язык
+        Translation: Trouw был написан на нидерландском языке.
+        
+        Source sentence: Henry Fool was written in English .
+        Subject translation: Генри Фул
+        Object translation: английский язык
+        Translation: «Генри Фул» был написан на английском языке.
+        
+        Source sentence: Illustrious Corpses was written in Italian .
+        Subject translation: Сиятельные трупы
+        Object translation: итальянский язык
+        Translation: «Сиятельные трупы» были написаны на итальянском языке.
+        
+        Source sentence: Mlada was written in Russian .
+        Subject translation: Млада
+        Object translation: русский язык
+        Translation: «Млада» была написана на русском языке.
+        
+        Source sentence: Du gamla, du fria was written in Swedish .
+        Subject translation: Гимн Швеции
+        Object translation: шведский язык
+        Translation: Гимн Швеции был написан на шведском языке.
+        
+        Source sentence: The Pirate Bay was written in Spanish .
+        Subject translation: The Pirate Bay
+        Object translation: испанский язык
+        Translation: The Pirate Bay был написан на испанском языке.
+        
+        Source sentence: wuxia was written in Chinese .
+        Subject translation: уся
+        Object translation: китайский язык
+        Translation: Уся был написан на китайском языке.
+        
+        Source sentence: Kladderadatsch was written in German .
+        Subject translation: Kladderadatsch
+        Object translation: немецкий язык
+        Translation: Kladderadatsch был написан на немецком языке.
+        
+        Source sentence: Life was written in English .
+        Subject translation: Life
+        Object translation: английский язык
+        Translation: Life был написан на английском языке.
+        
+        Source sentence: L'Officiel was written in French .
+        Subject translation: L’Officiel
+        Object translation: французский язык
+        Translation: L'Officiel была написана на французском языке.
+        
+        Source sentence: Tygodnik Ilustrowany was written in Polish .
+        Subject translation: Tygodnik Ilustrowany
+        Object translation: польский язык
+        Translation: Tygodnik Ilustrowany был написан на польском языке.
+        
+        Source sentence: Masoretic Text was written in Hebrew .
+        Subject translation: Масоретский текст
+        Object translation: иврит
+        Translation: Масоретский текст был написан на иврите.
+        
+        Source sentence: Principia Mathematica was written in English .
+        Subject translation: Principia Mathematica
+        Object translation: английский язык
+        Translation: Principia Mathematica была написана на английском языке.
+        
+        Source sentence: Amor prohibido (Albúm 1994) was written in Spanish .
+        Subject translation: Amor Prohibido
+        Object translation: испанский язык
+        Translation: Amor Prohibido был написан на испанском языке.
+        
+        Source sentence: Hybrid Theory was written in English .
+        Subject translation: Hybrid Theory
+        Object translation: английский язык
+        Translation: Hybrid Theory был написан на английском языке.
+        
+        Source sentence: Krokodil was written in Russian .
+        Subject translation: Крокодил
+        Object translation: русский язык
+        Translation: «Крокодил» был написан на русском языке.
+        
+        Source sentence: Jokela school shooting was written in Finnish .
+        Subject translation: Массовое убийство в Йокела
+        Object translation: финский язык
+        Translation: «Массовое убийство в Йокела» было написано на финском языке.
+        
+        Source sentence: Moby-Dick was written in English .
+        Subject translation: Моби Дик
+        Object translation: английский язык
+        Translation: Моби Дик был написан на английском языке.
+        
+        Source sentence: Treaty of Versailles was written in French .
+        Subject translation: Версальский договор
+        Object translation: французский язык
+        Translation: Версальский договор был написан на французском языке.
+        
+        Source sentence: Europa Plus was written in Russian .
+        Subject translation: Европа плюс
+        Object translation: русский язык
+        Translation: «Европа Плюс» была написана на русском языке.

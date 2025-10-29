@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Robin Gibb is represented by music label EMI .
+        Subject translation: Робін Ґібб
+        Object translation: EMI
+        Translation: Робіна Ґібба представляє музичний лейбл EMI.
+        
+        Source sentence: Loretta Lynn is represented by music label Decca .
+        Subject translation: Лоретта Лін
+        Object translation: Decca Records
+        Translation: Лоретту Лінн представляє музичний лейбл Decca Records.
+        
+        Source sentence: The Who is represented by music label Decca .
+        Subject translation: The Who
+        Object translation: Decca Records
+        Translation: The Who представляє музичний лейбл Decca Records.
+        
+        Source sentence: Francesco Guccini is represented by music label EMI .
+        Subject translation: Франческо Гуччіні
+        Object translation: EMI
+        Translation: Франческо Гуччіні представляє музичний лейбл EMI.
+        
+        Source sentence: Paulina Rubio is represented by music label EMI .
+        Subject translation: Пауліна Рубіо
+        Object translation: EMI
+        Translation: Пауліну Рубіо представляє музичний лейбл EMI.
+        
+        Source sentence: Small Faces is represented by music label Decca .
+        Subject translation: Small Faces
+        Object translation: Decca Records
+        Translation: Small Faces представляє музичний лейбл Decca Records.
+        
+        Source sentence: Bing Crosby is represented by music label Decca .
+        Subject translation: Бінг Кросбі
+        Object translation: Decca Records
+        Translation: Бінга Кросбі представляє музичний лейбл Decca Records.
+        
+        Source sentence: Cincinnati Symphony Orchestra is represented by music label Decca .
+        Subject translation: Симфонічний оркестр Цинциннаті
+        Object translation: Decca Records
+        Translation: Симфонічний оркестр Цинциннаті представляє музичний лейбл Decca Records.
+        
+        Source sentence: Pete Townshend is represented by music label Decca .
+        Subject translation: Піт Таунсенд
+        Object translation: Decca Records
+        Translation: Піта Таунсенда представляє музичний лейбл Decca Records.
+        
+        Source sentence: Les Paul is represented by music label Decca .
+        Subject translation: Лес Пол
+        Object translation: Decca Records
+        Translation: Леса Пола представляє музичний лейбл Decca Records.
+        
+        Source sentence: Lovedrive is represented by music label EMI .
+        Subject translation: Lovedrive
+        Object translation: EMI
+        Translation: Lovedrive представляє музичний лейбл EMI.
+        
+        Source sentence: The Animals is represented by music label Decca .
+        Subject translation: The Animals
+        Object translation: Decca Records
+        Translation: The Animals представляє музичний лейбл Decca Records.
+        
+        Source sentence: Gimme Shelter is represented by music label Decca .
+        Subject translation: Gimme Shelter
+        Object translation: Decca Records
+        Translation: Gimme Shelter представляє музичний лейбл Decca Records.
+        
+        Source sentence: Anni-Frid Lyngstad is represented by music label EMI .
+        Subject translation: Анні-Фрід Лінгстад
+        Object translation: EMI
+        Translation: Анні-Фрід Лінгстад представляє музичний лейбл EMI.
+        
+        Source sentence: Rosemary Clooney is represented by music label Decca Records .
+        Subject translation: Розмарі Клуні
+        Object translation: Decca Records
+        Translation: Розмарі Клуні представляє музичний лейбл Decca Records.
+        
+        Source sentence: Smokey Robinson is represented by music label Motown .
+        Subject translation: Смокі Робінсон
+        Object translation: Motown Records
+        Translation:  Смокі Робінсона представляє музичний лейбл Motown Records.
+        
+        Source sentence: Tina Arena is represented by music label EMI .
+        Subject translation: Тіна Арена
+        Object translation: EMI
+        Translation: Тіну Арену представляє музичний лейбл EMI.
+        
+        Source sentence: Bill Haley is represented by music label Decca .
+        Subject translation: Білл Хейлі
+        Object translation: Decca Records
+        Translation: Білла Хейлі представляє музичний лейбл Decca Records.
+        
+        Source sentence: Baby I Need Your Loving is represented by music label Motown .
+        Subject translation: Baby I Need Your Loving
+        Object translation: Motown Records
+        Translation: Baby I Need Your Loving представляє музичний лейбл Motown Records.
+        
+        Source sentence: This Is War is represented by music label EMI .
+        Subject translation: This is War
+        Object translation: EMI
+        Translation: This Is War представляє музичний лейбл EMI.
+        

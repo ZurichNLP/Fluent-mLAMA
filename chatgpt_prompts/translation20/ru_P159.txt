@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The headquarter of University of New Mexico is in Albuquerque .
+        Subject translation: Университет Нью-Мексико
+        Object translation: Альбукерке
+        Translation: Штаб-квартира Университета Нью-Мексико находится в Альбукерке.
+        
+        Source sentence: The headquarter of BRIT School for Performing Arts and Technology is in Croydon .
+        Subject translation: BRIT School
+        Object translation: Кройдон
+        Translation: Штаб-квартира  BRIT School находится в Кройдоне.
+        
+        Source sentence: The headquarter of A.S. Nancy-Lorraine is in Nancy .
+        Subject translation: Нанси
+        Object translation: Нанси
+        Translation: Штаб-квартира Нанси находится в Нанси.
+        
+        Source sentence: The headquarter of Renault Trucks is in Lyon .
+        Subject translation: Renault Trucks
+        Object translation: Лион
+        Translation: Штаб-квартира Renault Trucks находится в Лионе.
+        
+        Source sentence: The headquarter of State University of New York is in Albany .
+        Subject translation: Университет штата Нью-Йорк
+        Object translation: Олбани
+        Translation: Штаб-квартира Университета штата Нью-Йорк находится в Олбани.
+        
+        Source sentence: The headquarter of Long-Term Capital Management is in Greenwich .
+        Subject translation: Long-Term Capital Management
+        Object translation: Гринуич
+        Translation: Штаб-квартира Long-Term Capital Management находится в Гринуиче.
+        
+        Source sentence: The headquarter of University of Western Australia is in Perth .
+        Subject translation: Университет Западной Австралии
+        Object translation: Перт
+        Translation: Штаб-квартира Университета Западной Австралии находится в Перте.
+        
+        Source sentence: The headquarter of Umm Al-Qura University is in Mecca .
+        Subject translation: Умм аль-Кура
+        Object translation: Мекка
+        Translation: Штаб-квартира Умм аль-Кура находится в Мекке.
+        
+        Source sentence: The headquarter of Aer Arann is in Dublin .
+        Subject translation: авиакомпания Аэр Аранн Айлэндс
+        Object translation: Дублин
+        Translation: Штаб-квартира авиакомпании Аэр Аранн Айлэндс находится в Дублине.
+        
+        Source sentence: The headquarter of DuPont is in Wilmington .
+        Subject translation: «Дюпон»
+        Object translation: Уилмингтон
+        Translation: Штаб-квартира «Дюпон» находится в Уилмингтоне.
+        
+        Source sentence: The headquarter of Iraklis Thessaloniki B.C. is in Thessaloniki .
+        Subject translation: Ираклис
+        Object translation: Салоники
+        Translation: Штаб-квартира Ираклис находится в Салониках.
+        
+        Source sentence: The headquarter of Boston Navy Yard is in Boston .
+        Subject translation: Boston Navy Yard
+        Object translation: Бостон
+        Translation: Штаб-квартира Boston Navy Yard находится в Бостоне.
+        
+        Source sentence: The headquarter of Black Mark Productions is in Stockholm .
+        Subject translation: Black Mark Productions
+        Object translation: Стокгольм
+        Translation: Штаб-квартира Black Mark Productions находится в Стокгольме.
+        
+        Source sentence: The headquarter of Playdead is in Copenhagen .
+        Subject translation: Playdead
+        Object translation: Копенгаген
+        Translation: Штаб-квартира Playdead находится в Копенгагене.
+        
+        Source sentence: The headquarter of SunTrust Banks is in Atlanta .
+        Subject translation: SunTrust Banks
+        Object translation: Атланта
+        Translation: Штаб-квартира SunTrust Banks находится в Атланте.
+        
+        Source sentence: The headquarter of Seibu Kaihatsu is in Japan .
+        Subject translation: Seibu Kaihatsu
+        Object translation: Япония
+        Translation: Штаб-квартира Seibu Kaihatsu находится в Японии.
+        
+        Source sentence: The headquarter of Hapoel Haifa F.C. is in Haifa .
+        Subject translation: Хапоэль
+        Object translation: Хайфа
+        Translation: Штаб-квартира Хапоэль находится в Хайфе.
+        
+        Source sentence: The headquarter of Atlantis FC is in Helsinki .
+        Subject translation: Атлантис
+        Object translation: Хельсинки
+        Translation: Штаб-квартира Атлантис находится в Хельсинки.
+        
+        Source sentence: The headquarter of Faculty of Law (University of Sarajevo) is in Sarajevo .
+        Subject translation: юридический факультет Сараевского университета
+        Object translation: Сараево
+        Translation: Штаб-квартира юридического факультета Сараевского университета находится в Сараево.
+        
+        Source sentence: The headquarter of French Academy of Sciences is in Paris .
+        Subject translation: Французская академия наук
+        Object translation: Париж
+        Translation: Штаб-квартира Французской академии наук находится в Париже.
+        

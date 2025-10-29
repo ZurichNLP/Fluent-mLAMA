@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The original language of Dookudu is Telugu .
+        Subject translation: Дерзкий
+        Object translation: телугу
+        Translation: Язык оригинала «Дерзкого» — телугу.
+        
+        Source sentence: The original language of Calamari Union is Finnish .
+        Subject translation: Союз Каламари
+        Object translation: финский язык
+        Translation: Язык оригинала Союза Каламари - финский.
+        
+        Source sentence: The original language of Amar Akbar Anthony is Hindi .
+        Subject translation: Амар, Акбар, Антони
+        Object translation: хинди
+        Translation: Язык оригинала «Амара, Акбара, Антони» — хинди.
+        
+        Source sentence: The original language of La favorite is French .
+        Subject translation: Фаворитка (опера)
+        Object translation: французский язык
+        Translation: Язык оригинала Фаворитки (оперы) — французский.
+        
+        Source sentence: The original language of Winter Holiday is English .
+        Subject translation: Winter Holiday
+        Object translation: английский язык
+        Translation: Язык оригинала Winter Holiday — английский.
+        
+        Source sentence: The original language of The Tall Blond Man with One Black Shoe is French .
+        Subject translation: Высокий блондин в чёрном ботинке
+        Object translation: французский язык
+        Translation: Язык оригинала Высокого блондина в черном ботинке — французский.
+        
+        Source sentence: The original language of The Blue Planet is English .
+        Subject translation: BBC: Голубая планета
+        Object translation: английский язык
+        Translation: Язык оригинала «BBC: Голубая планета» — английский.
+        
+        Source sentence: The original language of Heart is Italian .
+        Subject translation: Сердце
+        Object translation: итальянский язык
+        Translation: Язык оригинала «Сердца» — итальянский.
+        
+        Source sentence: The original language of Ready to Die is English .
+        Subject translation: Ready to Die
+        Object translation: английский язык
+        Translation: Язык оригинала Ready to Die — английский.
+        
+        Source sentence: The original language of Around the World in 80 Days is English .
+        Subject translation: Вокруг света за 80 дней
+        Object translation: английский язык
+        Translation: Язык оригинала Вокруг света за 80 дней — английский.
+        
+        Source sentence: The original language of The White Guard is Russian .
+        Subject translation: Белая гвардия
+        Object translation: русский язык
+        Translation: Язык оригинала Белой гвардии — русский.
+        
+        Source sentence: The original language of The Mother of Tears is Italian .
+        Subject translation: Мать слёз
+        Object translation: итальянский язык
+        Translation: Язык оригинала Матери слёз — итальянский.
+        
+        Source sentence: The original language of The Divergent Series is English .
+        Subject translation: Дивергент, глава 4: Асцендент
+        Object translation: английский язык
+        Translation: Язык оригинала «Дивергента, глава 4: Асцендент» — английский.
+        
+        Source sentence: The original language of The Round Up is French .
+        Subject translation: Облава
+        Object translation: французский язык
+        Translation: Язык оригинала «Облавы» — французский.
+        
+        Source sentence: The original language of Monthly Review is English .
+        Subject translation: Monthly Review
+        Object translation: английский язык
+        Translation: Язык оригинала Monthly Review — английский.
+        
+        Source sentence: The original language of The Northerners is Dutch .
+        Subject translation: Северяне
+        Object translation: нидерландский язык
+        Translation: Язык оригинала «Северян» — нидерландский.
+        
+        Source sentence: The original language of Pyramid Texts is Egyptian .
+        Subject translation: Тексты пирамид
+        Object translation: египетский язык
+        Translation: Язык оригинала Текстов пирамид — египетский.
+        
+        Source sentence: The original language of The Jeffersons is English .
+        Subject translation: Джефферсоны
+        Object translation: английский язык
+        Translation: Язык оригинала Джефферсонов — английский.
+        
+        Source sentence: The original language of The Price Is Right is Portuguese .
+        Subject translation: Цена удачи
+        Object translation: португальский язык
+        Translation: Язык оригинала Цены удачи — португальский.
+        
+        Source sentence: The original language of The Sleeping Car Murders is French .
+        Subject translation: Убийца в спальном вагоне
+        Object translation: французский язык
+        Translation: Язык оригинала Убийцы в спальном вагоне — французский.
+        

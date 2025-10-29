@@ -1,0 +1,107 @@
+
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The headquarter of Ericsson is in Stockholm .
+        Subject translation: Ericsson
+        Object translation: Stockholm
+        Translation: Sjedište Ericssona je u Stockholmu.
+        
+        Source sentence: The headquarter of United States Soccer Federation is in Chicago .
+        Subject translation: Nogometni savez SAD-a
+        Object translation: Chicago
+        Translation: Sjedište Nogometnog saveza SAD-a je u Chicagu.
+        
+        Source sentence: The headquarter of Tanjug is in Belgrade .
+        Subject translation: Telegrafska agencija nove Jugoslavije
+        Object translation: Beograd
+        Translation: Sjedište Telegrafske agencije nove Jugoslavije je u Beogradu.
+        
+        Source sentence: The headquarter of Sciences Po is in Paris .
+        Subject translation: Institut d'études politiques de Paris
+        Object translation: Pariz
+        Translation: Sjedište Institut d'études politiques de Paris je u Parizu.
+        
+        Source sentence: The headquarter of Sullivan Bluth Studios is in Dublin .
+        Subject translation: Sullivan Bluth Studios
+        Object translation: Dublin
+        Translation: Sjedište Sullivan Bluth Studiosa je u Dublinu.
+        
+        Source sentence: The headquarter of RB Leipzig is in Leipzig .
+        Subject translation: RB Leipzig
+        Object translation: Leipzig
+        Translation: Sjedište RB Leipziga je u Leipzigu.
+        
+        Source sentence: The headquarter of Samsung is in Seoul .
+        Subject translation: Samsung
+        Object translation: Seul
+        Translation: Sjedište Samsunga je u Seulu.
+        
+        Source sentence: The headquarter of Russian Post is in Moscow .
+        Subject translation: Pošta Rusije
+        Object translation: Moskva
+        Translation: Sjedište Pošte Rusije je u Moskvi.
+        
+        Source sentence: The headquarter of Georgian Airways is in Tbilisi .
+        Subject translation: Georgian Airways
+        Object translation: Tbilisi
+        Translation: Sjedište Georgian Airwaysa je u Tbilisiju.
+        
+        Source sentence: The headquarter of Zagreb Film is in Zagreb .
+        Subject translation: Zagreb film
+        Object translation: Zagreb
+        Translation: Sjedište Zagreb filma je u Zagrebu.
+        
+        Source sentence: The headquarter of Shelbourne F.C. is in Dublin .
+        Subject translation: Shelbourne F.C.
+        Object translation: Dublin
+        Translation: Sjedište Shelbourne F.C. je u Dublinu.
+        
+        Source sentence: The headquarter of University of Geneva is in Geneva .
+        Subject translation: Ženevsko sveučilište
+        Object translation: Ženeva
+        Translation: Sjedište Ženevskog sveučilišta je u Ženevi.
+        
+        Source sentence: The headquarter of Hapoel Haifa F.C. is in Haifa .
+        Subject translation: Hapoel Haifa F.C.
+        Object translation: Haifa
+        Translation: Sjedište Hapoel Haifa F.C. je u Haifi.
+        
+        Source sentence: The headquarter of Ernst & Young is in London .
+        Subject translation: Ernst & Young
+        Object translation: London
+        Translation: Sjedište Ernst & Young je u Londonu.
+        
+        Source sentence: The headquarter of Liquor Control Board of Ontario is in Toronto .
+        Subject translation: LCBO
+        Object translation: Toronto
+        Translation: Sjedište LCBO-a je u Torontu.
+        
+        Source sentence: The headquarter of International Tennis Federation is in London .
+        Subject translation: Međunarodna teniska federacija
+        Object translation: London
+        Translation: Sjedište Međunarodne teniske federacije je u Londonu.
+        
+        Source sentence: The headquarter of Assyrian Church of the East is in Chicago .
+        Subject translation: Asirska crkva istoka
+        Object translation: Chicago
+        Translation: Sjedište Asirske crkve istoka je u Chicagu.
+        
+        Source sentence: The headquarter of Popular National Union is in Warsaw .
+        Subject translation: Związek Ludowo-Narodowy
+        Object translation: Varšava
+        Translation: Sjedište Związek Ludowo-Narodowy je u Varšavi.
+        
+        Source sentence: The headquarter of Pitchfork is in Chicago .
+        Subject translation: Pitchfork Media
+        Object translation: Chicago
+        Translation: Sjedište Pitchfork Medie je u Chicagu.
+        
+        Source sentence: The headquarter of European Aviation Safety Agency is in Cologne .
+        Subject translation: Europska agencija za zrakoplovnu sigurnost
+        Object translation: Köln
+        Translation: Sjedište Europske agencije za zrakoplovnu sigurnost je u Kölnu.
+        

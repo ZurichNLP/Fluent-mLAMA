@@ -1,0 +1,106 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Ukrainian Railways is owned by Ukraine .
+        Subject translation: Ukrajinske željeznice
+        Object translation: Ukrajina
+        Translation: Ukrajinske željeznice su u vlasništvu Ukrajine.
+        
+        Source sentence: Google Keep is owned by Google .
+        Subject translation: Google Keep
+        Object translation: Google
+        Translation: Google Keep je u vlasništvu Googlea.
+        
+        Source sentence: Bell Labs is owned by Nokia .
+        Subject translation: Bell Labs
+        Object translation: Nokia
+        Translation: Bell Labs je u vlasništvu Nokije.
+        
+        Source sentence: Google Translate is owned by Google .
+        Subject translation: Google prevoditelj
+        Object translation: Google
+        Translation: Google Prevoditelj je u vlasništvu Googlea.
+        
+        Source sentence: Olympiastadion Berlin is owned by Berlin .
+        Subject translation: Olimpijski stadion u Berlinu
+        Object translation: Berlin
+        Translation: Olimpijski stadion u Berlinu je u vlasništvu Berlina.
+        
+        Source sentence: Hongkou Football Stadium is owned by Shanghai .
+        Subject translation: Stadion Hongkou
+        Object translation: Šangaj
+        Translation: Stadion Hongkou je u vlasništvu Šangaja.
+        
+        Source sentence: Vevo is owned by Google .
+        Subject translation: Vevo
+        Object translation: Google
+        Translation: Vevo je u vlasništvu Googlea.
+        
+        Source sentence: Palacio Municipal de Deportes San Pablo is owned by Seville .
+        Subject translation: Palacio Municipal de Deportes San Pablo
+        Object translation: Sevilla
+        Translation: Palacio Municipal de Deportes San Pablo je u vlasništvu Seville.
+        
+        Source sentence: Flickr is owned by Yahoo .
+        Subject translation: Flickr
+        Object translation: Yahoo!
+        Translation: Flickr je u vlasništvu Yahoo!.
+        
+        Source sentence: Pentium III is owned by Intel .
+        Subject translation: Pentium III
+        Object translation: Intel
+        Translation: Pentium III je u vlasništvu Intela.
+        
+        Source sentence: Ernst-Happel-Stadion is owned by Vienna .
+        Subject translation: Ernst Happel Stadion
+        Object translation: Beč
+        Translation: Ernst Happel Stadion je u vlasništvu Beča.
+        
+        Source sentence: Lamborghini is owned by Audi .
+        Subject translation: Lamborghini
+        Object translation: Audi
+        Translation: Lamborghini je u vlasništvu Audija.
+        
+        Source sentence: Compact Disc Digital Audio is owned by Sony .
+        Subject translation: Zvučni CD
+        Object translation: Sony
+        Translation: Zvučni CD je u vlasništvu Sony.
+        
+        Source sentence: Arc de Triomphe is owned by France .
+        Subject translation: Slavoluk pobjede u Parizu
+        Object translation: Francuska
+        Translation: Slavoluk pobjede u Parizu je u vlasništvu Francuske.
+        
+        Source sentence: Stadion Maksimir is owned by Zagreb .
+        Subject translation: Stadion Maksimir
+        Object translation: Zagreb
+        Translation: Stadion Maksimir je u vlasništvu Zagreba .
+        
+        Source sentence: Lexus is owned by Toyota .
+        Subject translation: Lexus
+        Object translation: Toyota
+        Translation: Lexus je u vlasništvu Toyote.
+        
+        Source sentence: Narodne novine is owned by Croatia .
+        Subject translation: Narodne novine
+        Object translation: Hrvatska
+        Translation: Narodne novine su u vlasništvu Hrvatske.
+        
+        Source sentence: Deutsche Bank Park is owned by Frankfurt am Main .
+        Subject translation: Commerzbank-Arena
+        Object translation: Frankfurt na Majni
+        Translation: Commerzbank-Arena je u vlasništvu Frankfurta na Majni.
+        
+        Source sentence: Box Office Mojo is owned by Amazon .
+        Subject translation: Box Office Mojo
+        Object translation: Amazon.com
+        Translation: Box Office Mojo je u vlasništvu Amazon.com.
+        
+        Source sentence: Stade Louis II is owned by Monaco .
+        Subject translation: Stade Louis II
+        Object translation: Monako
+        Translation: Stade Louis II je u vlasništvu Monaka.
+        

@@ -1,0 +1,105 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: John Shelby Spong has the position of bishop .
+        Subject translation: Спонг, Джон Шелби
+        Object translation: епископ
+        Translation: Спонг, Джон Шелби занимает должность епископа.
+        
+        Source sentence: Papias of Hierapolis has the position of bishop .
+        Subject translation: Папий Иерапольский
+        Object translation: епископ
+        Translation: Папий Иерапольский занимает должность епископа.
+        
+        Source sentence: Konrad von Hochstaden has the position of archbishop .
+        Subject translation: Конрад фон Гохштаден
+        Object translation: архиепископ
+        Translation: Конрад фон Гохштаден имеет должность архиепископа.
+        
+        Source sentence: Flavio Zanonato has the position of mayor .
+        Subject translation: Дзанонато, Флавио
+        Object translation: мэр
+        Translation: Дзанонато, Флавио занимает должность мэра.
+        
+        Source sentence: Suleiman I of Persia has the position of Shah .
+        Subject translation: Солейман Сефи
+        Object translation: шах
+        Translation: Солейман Сефи занимал должность шаха.
+        
+        Source sentence: Aelred of Rievaulx has the position of abbot .
+        Subject translation: Элред Ривоский
+        Object translation: аббат
+        Translation: Элред Ривоский занимает должность аббата.
+        
+        Source sentence: Innocent VII has the position of pope .
+        Subject translation: Иннокентий VII
+        Object translation: Папа Римский
+        Translation: Иннокентий VII занимает должность Папы Римского.
+        
+        Source sentence: Anton Durcovici has the position of bishop .
+        Subject translation: Дуркович, Антон
+        Object translation: епископ
+        Translation: Дуркович, Антон занимает должность епископа.
+        
+        Source sentence: Paul Cremona has the position of archbishop .
+        Subject translation: Кремона, Пауль
+        Object translation: архиепископ
+        Translation: Кремона, Пауль занимает должность архиепископа.
+        
+        Source sentence: Macarios III Zaim has the position of patriarch .
+        Subject translation: Макарий Антиохийский
+        Object translation: патриарх
+        Translation: Макарий Антиохийский занимает должность патриарха.
+        
+        Source sentence: Tudwal has the position of bishop .
+        Subject translation: Тудвал
+        Object translation: епископ
+        Translation: Тудвал занимает должность епископа.
+        
+        Source sentence: Josyf Slipyj has the position of archbishop .
+        Subject translation: Иосиф Иванович Слипый
+        Object translation: архиепископ
+        Translation: Иосиф Иванович Слипый занимает должность архиепископа.
+        
+        Source sentence: Josip Juraj Štrosmajer has the position of bishop .
+        Subject translation: Штросмайер, Йосип Юрай
+        Object translation: епископ
+        Translation: Штросмайер, Йосип Юрай занимает должность епископа.
+        
+        Source sentence: Ilia II of Georgia has the position of patriarch .
+        Subject translation: Илия II
+        Object translation: патриарх
+        Translation: Илия II занимает должность патриарха.
+        
+        Source sentence: Leo XII has the position of pope .
+        Subject translation: Лев XII
+        Object translation: Папа Римский
+        Translation: Лев XII занимает должность Папы Римского.
+        
+        Source sentence: Abul Hasan Qutb Shah has the position of sultan .
+        Subject translation: Абуль Хасан Кутб-шах
+        Object translation: султан
+        Translation: Абуль Хасан Кутб-шах занимает должность султана.
+        
+        Source sentence: Leo VII has the position of pope .
+        Subject translation: Лев VII
+        Object translation: Папа Римский
+        Translation: Лев VII занимает должность Папы Римского.
+        
+        Source sentence: Basilio Pompilj has the position of bishop .
+        Subject translation: Помпили, Базилио
+        Object translation: епископ
+        Translation: Помпили, Базилио занимает должность епископа.
+        
+        Source sentence: Mesmin has the position of abbot .
+        Subject translation: Максимин из Миси
+        Object translation: аббат
+        Translation: Максимин из Миси занимает должность аббата.
+        
+        Source sentence: Joseph Zen has the position of cardinal .
+        Subject translation: Иосиф Чэнь Жицзюнь
+        Object translation: кардинал
+        Translation: Иосиф Чэнь Жицзюнь занимает должность кардинала.

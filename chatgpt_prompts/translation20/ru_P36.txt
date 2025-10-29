@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The capital of Lombardy is Milan .
+        Subject translation: Ломбардия
+        Object translation: Милан
+        Translation: Столица Ломбардии - Милан.
+        
+        Source sentence: The capital of Hordaland is Bergen .
+        Subject translation: Хордаланн
+        Object translation: Берген
+        Translation: Столица Хордаланна - Берген.
+        
+        Source sentence: The capital of First Republic of Armenia is Yerevan .
+        Subject translation: Первая Республика Армения
+        Object translation: Ереван
+        Translation: Столица Первой Республики Армения - Ереван.
+        
+        Source sentence: The capital of Haute-Garonne is Toulouse .
+        Subject translation: Верхняя Гаронна
+        Object translation: Тулуза
+        Translation: Столица Верхней Гаронны - Тулуза.
+        
+        Source sentence: The capital of People's Republic of China is Beijing .
+        Subject translation: Китайская Народная Республика
+        Object translation: Пекин
+        Translation: Столица Китайской Народной Республики - Пекин.
+        
+        Source sentence: The capital of Kingdom of Bavaria is Munich .
+        Subject translation: королевство Бавария
+        Object translation: Мюнхен
+        Translation: Столица королевства Бавария - Мюнхен.
+        
+        Source sentence: The capital of Santiago Metropolitan Region is Santiago .
+        Subject translation: Сантьяго
+        Object translation: Сантьяго
+        Translation: Столица Сантьяго - Сантьяго.
+        
+        Source sentence: The capital of Gironde is Bordeaux .
+        Subject translation: Жиронда
+        Object translation: Бордо
+        Translation: Столица Жиронды - Бордо.
+        
+        Source sentence: The capital of Pitkin County is Aspen .
+        Subject translation: Питкин
+        Object translation: Аспен
+        Translation: Столица Питкина - Аспен.
+        
+        Source sentence: The capital of Bratislava Region is Bratislava .
+        Subject translation: Братиславский край
+        Object translation: Братислава
+        Translation: Столица Братиславского края - Братислава.
+        
+        Source sentence: The capital of Italian Social Republic is Rome .
+        Subject translation: Итальянская социальная республика
+        Object translation: Рим
+        Translation: Столица Итальянской социальной республики - Рим.
+        
+        Source sentence: The capital of Campania is Naples .
+        Subject translation: Кампания
+        Object translation: Неаполь
+        Translation: Столица Кампании - Неаполь.
+        
+        Source sentence: The capital of Indiana is Indianapolis .
+        Subject translation: Индиана
+        Object translation: Индианаполис
+        Translation: Столица Индианы - Индианаполис.
+        
+        Source sentence: The capital of Lebanon County is Lebanon .
+        Subject translation: Лебанон
+        Object translation: Лебанон
+        Translation: Столица Лебанона - Лебанон.
+        
+        Source sentence: The capital of Indre-et-Loire is Tours .
+        Subject translation: Эндр и Луара
+        Object translation: Тур
+        Translation: Столица Эндра и Луары - Тур.
+        
+        Source sentence: The capital of Gila County is Globe .
+        Subject translation: Хила
+        Object translation: Глоб
+        Translation: Столица Хилы - Глоб.
+        
+        Source sentence: The capital of Kingdom of England is Winchester .
+        Subject translation: Королевство Англия
+        Object translation: Уинчестер
+        Translation: Столица Королевства Англия - Уинчестер.
+        
+        Source sentence: The capital of Kanagawa Prefecture is Yokohama .
+        Subject translation: Канагава
+        Object translation: Иокогама
+        Translation: Столица Канагавы - Иокогама
+        
+        Source sentence: The capital of Hiroshima Prefecture is Hiroshima .
+        Subject translation: Хиросима
+        Object translation: Хиросима
+        Translation: Столица Хиросимы - Хиросима.
+        
+        Source sentence: The capital of Sindh is Karachi .
+        Subject translation: Синд
+        Object translation: Карачи
+        Translation: Столица Синда - Карачи.
+        

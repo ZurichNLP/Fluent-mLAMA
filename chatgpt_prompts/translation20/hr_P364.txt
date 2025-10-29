@@ -1,0 +1,92 @@
+
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The original language of The Bald Soprano is French .
+        Subject translation: Ćelava pjevačica
+        Object translation: francuski jezik
+        Translation: Izvorni jezik Ćelave pjevačice je francuski.
+        
+        Source sentence: The original language of Love Actually is English .
+        Subject translation: Zapravo ljubav
+        Object translation: engleski jezik
+        Translation: Izvorni jezik Zapravo ljubavi je engleski.
+        
+        Source sentence: The original language of R.U.R. is Czech .
+        Subject translation: R.U.R.
+        Object translation: Češki jezik
+        Translation: Izvorni jezik R.U.R. je češki.
+        
+        Source sentence: The original language of Being Julia is English .
+        Subject translation: Biti Julia
+        Object translation: engleski jezik
+        Translation: Izvorni jezik romana Biti Julia je engleski.
+        
+        Source sentence: The original language of Independent People is Icelandic .
+        Subject translation: Samostalni ljudi
+        Object translation: Islandski jezik
+        Translation: Izvorni jezik Samostalnih ljudi je islandski.
+        
+        Source sentence: The original language of Their Satanic Majesties Request is English .
+        Subject translation: Their Satanic Majesties Request
+        Object translation: engleski jezik
+        Translation: Izvorni jezik Their Satanic Majesties Request je engleski.
+        
+        Source sentence: The original language of Hrvatska revija is Croatian .
+        Subject translation: Hrvatska revija
+        Object translation: hrvatski jezik
+        Translation: Izvorni jezik Hrvatske revije je hrvatski .
+        
+        Source sentence: The original language of Voodoo Lounge is English .
+        Subject translation: Voodoo Lounge
+        Object translation: engleski jezik
+        Translation: Izvorni jezik Voodoo Loungea je engleski.
+        
+        Source sentence: The original language of Dutch Wikipedia is Dutch .
+        Subject translation: Wikipedija na nizozemskom jeziku
+        Object translation: Nizozemski jezik
+        Translation: Izvorni jezik Wikipedije na nizozemskom jeziku je nizozemski.
+        
+        Source sentence: The original language of Books of Chronicles is Hebrew .
+        Subject translation: Prva i druga knjiga Ljetopisa
+        Object translation: hebrejski jezik
+        Translation:  Izvorni jezik Prve i druge knjige Ljetopisa je hebrejski.
+        
+        Source sentence: The original language of De finibus bonorum is Latin .
+        Subject translation: De finibus bonorum et malorum
+        Object translation: latinski jezik
+        Translation:  Izvorni jezik De finibus bonorum et malorum je latinski.
+        
+        Source sentence: The original language of The God Delusion is English .
+        Subject translation: Iluzija o Bogu
+        Object translation: engleski jezik
+        Translation:  Izvorni jezik Iluzije o Bogu je engleski.
+        
+        Source sentence: The original language of El Mariachi is Spanish .
+        Subject translation: El Mariachi
+        Object translation: španjolski jezik
+        Translation: Izvorni jezik El Mariachija je španjolski.
+        
+        Source sentence: The original language of Well, Just You Wait! is Russian .
+        Subject translation: Nu
+        Object translation: ruski jezik
+        Translation: Izvorni jezik Nu je ruski.
+        
+        Source sentence: The original language of Full House is English .
+        Subject translation: Puna kuća
+        Object translation: engleski jezik
+        Translation: Izvorni jezik Pune kuće je engleski.
+        
+        Source sentence: The original language of Evangelium Vitae is Latin .
+        Subject translation: Evangelium Vitae
+        Object translation: latinski jezik
+        Translation: Izvorni jezik Evangelium Vitae je latinski.
+        
+        Source sentence: The original language of Nature is English .
+        Subject translation: Nature
+        Object translation: engleski jezik
+        Translation: Izvorni jezik Nature je engleski.
+        

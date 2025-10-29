@@ -1,0 +1,105 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The native language of Nikolay Dobrolyubov is Russian .
+        Subject translation: Nikolaj Alexandrovič Dobroljubov
+        Object translation: ruština
+        Translation: Rodným jazykem Nikolaje Alexandroviče Dobroljubova je ruština .
+        
+        Source sentence: The native language of Symeon of Polotsk is Russian .
+        Subject translation: Petrovskiĭ-Sitnianovich, Samuil Gavrilovich,
+        Object translation: ruština
+        Translation: Rodným jazykem Petrovského-Sitnianovicha Samuila Gavriloviče je ruština.
+        
+        Source sentence: The native language of Hugo von Hofmannsthal is German .
+        Subject translation: Hugo von Hofmannsthal
+        Object translation: němčina
+        Translation: Rodným jazykem Huga von Hofmannsthala je němčina.
+        
+        Source sentence: The native language of Vasil Kiryienka is Belarusian .
+        Subject translation: Vasil Kiryienka
+        Object translation: běloruština
+        Translation: Rodným jazykem Vasila Kiryienky je běloruština.
+        
+        Source sentence: The native language of Jaak Aaviksoo is Estonian .
+        Subject translation: Jaak Aaviksoo
+        Object translation: estonština
+        Translation: Rodným jazykem Jaaka Aaviksooa je estonština.
+        
+        Source sentence: The native language of Claude Victor-Perrin, Duc de Belluno is French .
+        Subject translation: Claude Victor-Perrin
+        Object translation: francouzština
+        Translation: Rodným jazykem Clauda Victora-Perrina je francouzština.
+        
+        Source sentence: The native language of Eduardo Duhalde is Spanish .
+        Subject translation: Eduardo Duhalde
+        Object translation: španělština
+        Translation: Rodným jazykem Eduarda Duhaldea je španělština.
+        
+        Source sentence: The native language of Georgy Shpagin is Russian .
+        Subject translation: Georgij Semjonovič Špagin
+        Object translation: ruština
+        Translation: Rodným jazykem Georgije Semjonoviče Špagina je ruština.
+        
+        Source sentence: The native language of Jeanne Balibar is French .
+        Subject translation: Jeanne Balibar
+        Object translation: francouzština
+        Translation: Rodným jazykem Jeanne Balibarové je francouzština.
+        
+        Source sentence: The native language of Ovid is Latin .
+        Subject translation: Publius Ovidius Naso
+        Object translation: latina
+        Translation: Rodným jazykem Publia Ovidia Nasona je latina.
+        
+        Source sentence: The native language of Basshunter is Swedish .
+        Subject translation: Basshunter
+        Object translation: švédština
+        Translation: Rodným jazykem Basshuntera je švédština.
+        
+        Source sentence: The native language of Wang Shu is Chinese .
+        Subject translation: Wang Šu
+        Object translation: čínština
+        Translation: Rodným jazykem Wanga Šua je čínština.
+        
+        Source sentence: The native language of Andy Lau is Cantonese .
+        Subject translation: Andy Lau
+        Object translation: kantonština
+        Translation: Rodným jazykem Andyho Laua je kantonština.
+        
+        Source sentence: The native language of Toine Manders is Dutch .
+        Subject translation: Toine Manders
+        Object translation: nizozemština
+        Translation: Rodným jazykem Toinea Manderse je nizozemština.
+        
+        Source sentence: The native language of Georgios Rallis is Greek .
+        Subject translation: Georgios Rallis
+        Object translation: řečtina
+        Translation: Rodným jazykem Georgia Rallisa je řečtina.
+        
+        Source sentence: The native language of Hannah Szenes is Hungarian .
+        Subject translation: Chana Senešová
+        Object translation: maďarština
+        Translation: Rodným jazykem Chany Senešové je maďarština .
+        
+        Source sentence: The native language of Frantz Fanon is French .
+        Subject translation: Frantz Fanon
+        Object translation: francouzština
+        Translation: Rodným jazykem Frantze Fanona je francouzština.
+        
+        Source sentence: The native language of Pietro Mennea is Italian .
+        Subject translation: Pietro Mennea
+        Object translation: italština
+        Translation: Rodným jazykem Pietra Mennea je italština.
+        
+        Source sentence: The native language of Tina Turner is English .
+        Subject translation: Tina Turnerová
+        Object translation: angličtina
+        Translation: Rodným jazykem Tiny Turnerové je angličtina.
+        
+        Source sentence: The native language of Bhimrao Ramji Ambedkar is Marathi .
+        Subject translation: Bhímráo Rámdží Ámbédkar
+        Object translation: maráthština
+        Translation: Rodným jazykem Bhímráa Rámdžího Ámbédkara je maráthština .

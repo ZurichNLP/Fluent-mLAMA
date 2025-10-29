@@ -1,0 +1,106 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Edinburgh is the capital of Scotland .
+        Subject translation: Edinburgh
+        Object translation: Skotsko
+        Translation: Edinburgh je hlavním městem Skotska.
+        
+        Source sentence: Oslo is the capital of Norway .
+        Subject translation: Oslo
+        Object translation: Norsko
+        Translation: Oslo je hlavním městem Norska.
+        
+        Source sentence: Accra is the capital of Ghana .
+        Subject translation: Accra
+        Object translation: Ghana
+        Translation: Accra je hlavním městem Ghany.
+        
+        Source sentence: Ottawa is the capital of Canada .
+        Subject translation: Ottawa
+        Object translation: Kanada
+        Translation: Ottawa je hlavním městem Kanady.
+        
+        Source sentence: Bandar Seri Begawan is the capital of Brunei .
+        Subject translation: Bandar Seri Begawan
+        Object translation: Brunej
+        Translation: Bandar Seri Begawan je hlavním městem Bruneje.
+        
+        Source sentence: Copenhagen is the capital of Denmark .
+        Subject translation: Kodaň
+        Object translation: Dánsko
+        Translation: Kodaň je hlavním městem Dánska.
+        
+        Source sentence: Beirut is the capital of Lebanon .
+        Subject translation: Bejrút
+        Object translation: Libanon
+        Translation: Bejrút je hlavním městem Libanonu.
+        
+        Source sentence: Tbilisi is the capital of Georgia .
+        Subject translation: Tbilisi
+        Object translation: Gruzie
+        Translation: Tbilisi je hlavním městem Gruzie.
+        
+        Source sentence: Santiago de Compostela is the capital of Galicia .
+        Subject translation: Santiago de Compostela
+        Object translation: Galicie
+        Translation: Santiago de Compostela je hlavním městem Galicie.
+        
+        Source sentence: Mogadishu is the capital of Somalia .
+        Subject translation: Mogadišo
+        Object translation: Somálsko
+        Translation: Mogadišo je hlavním městem Somálska.
+        
+        Source sentence: Paris is the capital of France .
+        Subject translation: Paříž
+        Object translation: Francie
+        Translation: Paříž je hlavním městem Francie.
+        
+        Source sentence: Niamey is the capital of Niger .
+        Subject translation: Niamey
+        Object translation: Niger
+        Translation: Niamey je hlavním městem Nigeru.
+        
+        Source sentence: Phnom Penh is the capital of Cambodia .
+        Subject translation: Phnompenh
+        Object translation: Kambodža
+        Translation: Phnompenh je hlavním městem Kambodže.
+        
+        Source sentence: Bangkok is the capital of Thailand .
+        Subject translation: Bangkok
+        Object translation: Thajsko
+        Translation: Bangkok je hlavním městem Thajska.
+        
+        Source sentence: Hebron is the capital of Judah .
+        Subject translation: Hebron
+        Object translation: Judské království
+        Translation: Hebron je hlavním městem Judského království.
+        
+        Source sentence: Cairo is the capital of Egypt .
+        Subject translation: Káhira
+        Object translation: Egypt
+        Translation: Káhira je hlavním městem Egypta.
+        
+        Source sentence: Bonn is the capital of Germany .
+        Subject translation: Bonn
+        Object translation: Německo
+        Translation: Bonn je hlavním městem Německa.
+        
+        Source sentence: Manila is the capital of Philippines .
+        Subject translation: Manila
+        Object translation: Filipíny
+        Translation: Manila je hlavním městem Filipín.
+        
+        Source sentence: Arlon is the capital of Luxembourg .
+        Subject translation: Arlon
+        Object translation: Lucemburk
+        Translation: Arlon je hlavním městem Lucemburku.
+        
+        Source sentence: Vergina is the capital of Macedonia .
+        Subject translation: Vergina
+        Object translation: Makedonské království
+        Translation: Vergina je hlavním městem Makedonského království.
+        

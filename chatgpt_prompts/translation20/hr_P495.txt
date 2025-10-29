@@ -1,0 +1,107 @@
+
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Waiting for Godot was created in France .
+        Subject translation: U očekivanju Godota
+        Object translation: Francuska
+        Translation: U očekivanju Godota je nastalo u Francuskoj.
+        
+        Source sentence: Nosferatu was created in Germany .
+        Subject translation: Nosferatu
+        Object translation: Njemačka
+        Translation: Nosferatu je nastao u Njemačkoj.
+        
+        Source sentence: Lupin III was created in Japan .
+        Subject translation: Lupin III
+        Object translation: Japan
+        Translation: Lupin III je nastao u Japanu.
+        
+        Source sentence: Y Cymro was created in Wales .
+        Subject translation: Y Cymro
+        Object translation: Wales
+        Translation: Y Cymro je nastao u Walesu.
+        
+        Source sentence: Corriere della Sera was created in Italy .
+        Subject translation: Corriere della Sera
+        Object translation: Italija
+        Translation: Corriere della Sera je nastao u Italiji.
+        
+        Source sentence: De Gelderlander was created in Netherlands .
+        Subject translation: De Gelderlander
+        Object translation: Nizozemska
+        Translation: De Gelderlander je nastao u Nizozemskoj.
+        
+        Source sentence: Orphan Black was created in Canada .
+        Subject translation: Orphan Black
+        Object translation: Kanada
+        Translation: Orphan Black je nastao u Kanadi.
+        
+        Source sentence: Life is Beautiful was created in Italy .
+        Subject translation: Život je lijep
+        Object translation: Italija
+        Translation: Život je lijep je nastao u Italiji.
+        
+        Source sentence: reggae was created in Jamaica .
+        Subject translation: Reggae
+        Object translation: Jamajka
+        Translation: Reggae je nastao na Jamajci.
+        
+        Source sentence: Furikake was created in Japan .
+        Subject translation: Furikake
+        Object translation: Japan
+        Translation: Furikake je nastao u Japanu.
+        
+        Source sentence: Lyapis Trubetskoy was created in Belarus .
+        Subject translation: Ljapis Trubeckoj
+        Object translation: Bjelorusija
+        Translation: Ljapis Trubeckoj je nastao u Bjelorusiji.
+        
+        Source sentence: Opeth was created in Sweden .
+        Subject translation: Opeth
+        Object translation: Švedska
+        Translation: Opeth je nastao u Švedskoj.
+        
+        Source sentence: Diabolik was created in Italy .
+        Subject translation: Diabolik
+        Object translation: Italija
+        Translation: Diabolik je nastao u Italiji.
+        
+        Source sentence: golf was created in Scotland .
+        Subject translation: Golf
+        Object translation: Škotska
+        Translation: Golf je nastao u Škotskoj.
+        
+        Source sentence: Closely Watched Trains was created in Czechoslovakia .
+        Subject translation: Strogo kontrolirani vlakovi
+        Object translation: Čehoslovačka
+        Translation: Strogo kontrolirani vlakovi su nastali u Čehoslovačkoj.
+        
+        Source sentence: association football was created in England .
+        Subject translation: nogomet
+        Object translation: Engleska
+        Translation: nogomet je nastao u Engleskoj.
+        
+        Source sentence: J-pop was created in Japan .
+        Subject translation: J-pop
+        Object translation: Japan
+        Translation: J-pop je nastao u Japanu.
+        
+        Source sentence: Boyzone was created in Ireland .
+        Subject translation: Boyzone
+        Object translation: Irska
+        Translation: Boyzone je nastao u Irskoj.
+        
+        Source sentence: feijoada was created in Portugal .
+        Subject translation: Feijoada
+        Object translation: Portugal
+        Translation: Feijoada je nastala u Portugalu.
+        
+        Source sentence: INXS was created in Australia .
+        Subject translation: INXS
+        Object translation: Australija
+        Translation: INXS je nastao u Australiji.
+        

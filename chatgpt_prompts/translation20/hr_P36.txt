@@ -1,0 +1,110 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The capital of Copenhagen Municipality is Copenhagen .
+        Subject translation: Kopenhagen
+        Object translation: Kopenhagen
+        Translation: Glavni grad Kopenhagena je Kopenhagen.
+        
+        Source sentence: The capital of Netherlands is Amsterdam .
+        Subject translation: Nizozemska
+        Object translation: Amsterdam
+        Translation: Glavni grad Nizozemske je Amsterdam.
+        
+        Source sentence: The capital of Nord-Pas-de-Calais is Lille .
+        Subject translation: Nord-Pas de Calais
+        Object translation: Lille
+        Translation: Glavni grad Nord-Pas-de-Calais je Lille.
+        
+        Source sentence: The capital of Odessa Oblast is Odessa .
+        Subject translation: Odeška oblast
+        Object translation: Odesa
+        Translation: Glavni grad Odeške oblasti je Odesa.
+        
+        Source sentence: The capital of Kingdom of Sicily is Naples .
+        Subject translation: Kraljevina Sicilija
+        Object translation: Napulj
+        Translation: Glavni grad Kraljevine Sicilije je Napulj.
+        
+        Source sentence: The capital of Grand Duchy of Moscow is Moscow .
+        Subject translation: Velika kneževina Moskva
+        Object translation: Moskva
+        Translation: Glavni grad Velike kneževine Moskve je Moskva.
+        
+        Source sentence: The capital of First Republic of Armenia is Yerevan .
+        Subject translation: Demokratska Republika Armenija
+        Object translation: Erevan
+        Translation: Glavni grad Demokratske Republike Armenije je Erevan.
+        
+        Source sentence: The capital of Kingdom of Bavaria is Munich .
+        Subject translation: Kraljevina Bavarska
+        Object translation: München
+        Translation: Glavni grad Kraljevine Bavarske je München.
+        
+        Source sentence: The capital of Karnataka is Bengaluru .
+        Subject translation: Karnataka
+        Object translation: Bangalore
+        Translation: Glavni grad Karnatake je Bangalore.
+        
+        Source sentence: The capital of Azerbaijan is Baku .
+        Subject translation: Azerbajdžan
+        Object translation: Baku
+        Translation: Glavni grad Azerbajdžana je Baku.
+        
+        Source sentence: The capital of Thessaloniki Regional Unit is Thessaloniki .
+        Subject translation: Prefektura Solun
+        Object translation: Solun
+        Translation: Glavni grad prefekture Solun je Solun.
+        
+        Source sentence: The capital of Manitoba is Winnipeg .
+        Subject translation: Manitoba
+        Object translation: Winnipeg
+        Translation: Glavni grad Manitobe je Winnipeg.
+        
+        Source sentence: The capital of Ankara Province is Ankara .
+        Subject translation: Ankara
+        Object translation: Ankara
+        Translation: Glavni grad Ankare je Ankara.
+        
+        Source sentence: The capital of Swedish Empire is Stockholm .
+        Subject translation: Švedsko Carstvo
+        Object translation: Stockholm
+        Translation: Glavni grad Švedskog Carstva je Stockholm.
+        
+        Source sentence: The capital of Neustria is Paris .
+        Subject translation: Neustrija
+        Object translation: Pariz
+        Translation: Glavni grad Neustrije je Pariz.
+        
+        Source sentence: The capital of Yugoslavia is Belgrade .
+        Subject translation: Jugoslavija
+        Object translation: Beograd
+        Translation: Glavni grad Jugoslavije je Beograd.
+        
+        Source sentence: The capital of Poland is Warsaw .
+        Subject translation: Poljska
+        Object translation: Varšava
+        Translation: Glavni grad Poljske je Varšava.
+        
+        Source sentence: The capital of Hordaland is Bergen .
+        Subject translation: Hordaland
+        Object translation: Bergen
+        Translation: Glavni grad Hordalanda je Bergen.
+        
+        Source sentence: The capital of France is Paris .
+        Subject translation: Francuska
+        Object translation: Pariz
+        Translation: Glavni grad Francuske je Pariz.
+        
+        Source sentence: The capital of West Bengal is Kolkata .
+        Subject translation: Zapadni Bengal
+        Object translation: Kolkata
+        Translation: Glavni grad Zapadnog Bengala je Kolkata.
+        
+        Source sentence: The capital of Ottoman Empire is Istanbul .
+        Subject translation: Osmansko Carstvo
+        Object translation: Istanbul
+        Translation: Glavni grad Osmanskog Carstva je Istanbul.

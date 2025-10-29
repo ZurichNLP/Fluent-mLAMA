@@ -1,0 +1,51 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Wir sind Helden is represented by music label EMI .
+        Subject translation: Wir sind Helden
+        Object translation: EMI
+        Translation: Wir sind Helden zastupa glazbena izdavačka kuća EMI.
+        
+        Source sentence: Powerslave is represented by music label EMI .
+        Subject translation: Powerslave
+        Object translation: EMI
+        Translation: Powerslave zastupa glazbena izdavačka kuća EMI.
+        
+        Source sentence: Marc Bolan is represented by music label EMI .
+        Subject translation: Marc Bolan
+        Object translation: EMI
+        Translation: Marca Bolana zastupa glazbena izdavačka kuća EMI.
+        
+        Source sentence: Deep Purple is represented by music label EMI .
+        Subject translation: Deep Purple
+        Object translation: EMI
+        Translation: Deep Purple zastupa glazbena izdavačka kuća EMI.
+        
+        Source sentence: David Guetta is represented by music label EMI .
+        Subject translation: David Guetta
+        Object translation: EMI
+        Translation: Davida Guettu zastupa glazbena izdavačka kuća EMI.
+        
+        Source sentence: Kylie Minogue is represented by music label EMI .
+        Subject translation: Kylie Minogue
+        Object translation: EMI
+        Translation: Kylie Minogue zastupa glazbena izdavačka kuća EMI.
+        
+        Source sentence: Midge Ure is represented by music label EMI .
+        Subject translation: Midge Ure
+        Object translation: EMI
+        Translation: Midge Ure zastupa glazbena izdavačka kuća EMI.
+        
+        Source sentence: George Martin is represented by music label EMI .
+        Subject translation: George Martin
+        Object translation: EMI
+        Translation: Georgea Martina zastupa glazbena izdavačka kuća EMI.
+        
+        Source sentence: Charles Aznavour is represented by music label EMI .
+        Subject translation: Charles Aznavour
+        Object translation: EMI
+        Translation: Charlesa Aznavoura zastupa glazbena izdavačka kuća EMI.
+        

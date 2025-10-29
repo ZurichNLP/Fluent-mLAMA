@@ -1,0 +1,111 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The native language of Manuel Valls is Spanish .
+        Subject translation: Мануель Вальс
+        Object translation: іспанська мова
+        Translation: Рідна мова Мануеля Вальса - іспанська.
+        
+        Source sentence: The native language of Charles Marie René Leconte de Lisle is French .
+        Subject translation: Шарль Леконт де Ліль
+        Object translation: французька мова
+        Translation: Рідна мова Шарля Леконта де Ліля - французька.
+        
+        Source sentence: The native language of Dino Dvornik is Croatian .
+        Subject translation: Діно Дворник
+        Object translation: хорватська мова
+        Translation: Рідна мова Діно Дворніка - хорватська.
+        
+        Source sentence: The native language of Almeida Garrett is Portuguese .
+        Subject translation: Жуау-Баптішта ді Алмейда Гаррет
+        Object translation: португальська
+        Translation: Рідна мова Жуау-Баптішти ді Алмейди Гаррет - португальська.
+        
+        Source sentence: The native language of Swedes is Swedish .
+        Subject translation: шведи
+        Object translation: шведська мова
+        Translation: Рідна мова шведів - шведська.
+        
+        Source sentence: The native language of Darry Cowl is French .
+        Subject translation: Даррі Коул
+        Object translation: французька мова
+        Translation: Рідна мова Даррі Коула - французька.
+        
+        Source sentence: The native language of Leo Tolstoy is Russian .
+        Subject translation: Толстой Лев Миколайович
+        Object translation: російська мова
+        Translation: Рідна мова Толстого Льва Миколайовича - російська.
+        
+        Source sentence: The native language of Lee Chang-dong is Korean .
+        Subject translation: Лі Чхан Дон
+        Object translation: корейська мова
+        Translation: Рідна мова Лі Чхан Дона - корейська.
+        
+        Source sentence: The native language of Raja Ravi Varma is Malayalam .
+        Subject translation: Раджа Раві Варма
+        Object translation: малаялам
+        Translation: Рідна мова Раджі Раві Варми - малаялам.
+        
+        Source sentence: The native language of Bertrand Russell is English .
+        Subject translation: Бертран Расселл
+        Object translation: англійська мова
+        Translation: Рідна мова Бертрана Рассела - англійська.
+        
+        Source sentence: The native language of Mario Vargas Llosa is Spanish .
+        Subject translation: Маріо Варґас Льйоса
+        Object translation: іспанська мова
+        Translation: Рідна мова Маріо Варґаса Льйоси - іспанська.
+        
+        Source sentence: The native language of Marc Chagall is Russian .
+        Subject translation: Марк Шагал
+        Object translation: російська мова
+        Translation: Рідна мова Марка Шагала - російська.
+        
+        Source sentence: The native language of Wang Shu is Chinese .
+        Subject translation: Ван Шу
+        Object translation: китайська мова
+        Translation: Рідна мова Вана Шу - китайська.
+        
+        Source sentence: The native language of Paul Verhoeven is Dutch .
+        Subject translation: Пол Верховен
+        Object translation: нідерландська мова
+        Translation: Рідна мова Пола Верховена - нідерландська.
+        
+        Source sentence: The native language of John Paul II is Polish .
+        Subject translation: Іван Павло II
+        Object translation: польська мова
+        Translation: Рідна мова Івана Павла ІІ - польська.
+        
+        Source sentence: The native language of Emmanuel Macron is French .
+        Subject translation: Еммануель Макрон
+        Object translation: французька мова
+        Translation: Рідна мова Еммануеля Макрона - французька.
+        
+        Source sentence: The native language of A. P. J. Abdul Kalam is Tamil .
+        Subject translation: Абдул Калам
+        Object translation: тамільська мова
+        Translation: Рідна мова Абдула Калама - тамільська.
+        
+        Source sentence: The native language of Miho Mosulishvili is Georgian .
+        Subject translation: Міхо Мосулішвілі
+        Object translation: грузинська мова
+        Translation: Рідна мова Міхо Мосулішвілі - грузинська.
+        
+        Source sentence: The native language of Gough Whitlam is English .
+        Subject translation: Гоф Вітлем
+        Object translation: англійська мова
+        Translation: Рідна мова Гофа Вітлема - англійська.
+        
+        Source sentence: The native language of Georgios Rallis is Greek .
+        Subject translation: Георгіос Ралліс
+        Object translation: грецька мова
+        Translation: Рідна мова Георгіоса Ралліса - грецька.
+        
+        Source sentence: The native language of Ehud Olmert is Hebrew .
+        Subject translation: Егуд Ольмерт
+        Object translation: іврит
+        Translation: Рідна мова Егуда Ольмерта - іврит.
+        

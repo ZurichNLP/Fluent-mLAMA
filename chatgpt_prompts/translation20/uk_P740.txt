@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Siemens was founded in Berlin .
+        Subject translation: Siemens
+        Object translation: Берлін
+        Translation: Siemens була заснована в Берліні.
+        
+        Source sentence: SIE Bend Studio was founded in Bend .
+        Subject translation: SIE Bend Studio
+        Object translation: Бенд
+        Translation: SIE Bend Studio була заснована в Бенду.
+        
+        Source sentence: Xiaomi was founded in Beijing .
+        Subject translation: Xiaomi
+        Object translation: Пекін
+        Translation: Xiaomi була заснована в Пекіні.
+        
+        Source sentence: Brain Records was founded in Hamburg .
+        Subject translation: Brain Records
+        Object translation: Гамбург
+        Translation: Brain Records був заснований у Гамбурзі.
+        
+        Source sentence: Strawbs was founded in England .
+        Subject translation: Strawbs
+        Object translation: Англія
+        Translation: Strawbs був заснований в Англії.
+        
+        Source sentence: Fiat Chrysler Automobiles was founded in Turin .
+        Subject translation: Fiat Chrysler Automobiles
+        Object translation: Турин
+        Translation: Fiat Chrysler Automobiles була заснована в Турині.
+        
+        Source sentence: Helloween was founded in Hamburg .
+        Subject translation: Helloween
+        Object translation: Гамбург
+        Translation: Helloween був заснований у Гамбурзі.
+        
+        Source sentence: Mexx was founded in Netherlands .
+        Subject translation: Mexx
+        Object translation: Нідерланди
+        Translation: Mexx була заснована в Нідерландах.
+        
+        Source sentence: De Press was founded in Oslo .
+        Subject translation: De Press
+        Object translation: Осло
+        Translation: De Press було засновано в Осло.
+        
+        Source sentence: Massimo Dutti was founded in Barcelona .
+        Subject translation: Massimo Dutti
+        Object translation: Барселона
+        Translation: Massimo Dutti була заснована в Барселоні.
+        
+        Source sentence: The Exploited was founded in Edinburgh .
+        Subject translation: The Exploited
+        Object translation: Единбург
+        Translation: The Exploited був заснований в Единбурзі.
+        
+        Source sentence: Demon Hunter was founded in Seattle .
+        Subject translation: Demon Hunter
+        Object translation: Сіетл
+        Translation: Demon Hunter був заснований у Сіетлі.
+        
+        Source sentence: Smirnoff was founded in Moscow .
+        Subject translation: Smirnoff
+        Object translation: Москва
+        Translation: Smirnoff була заснована в Москві.
+        
+        Source sentence: The Cranberries was founded in Limerick .
+        Subject translation: The Cranberries
+        Object translation: Лімерик
+        Translation: The Cranberries був заснований у Лімерику.
+        
+        Source sentence: The Mighty Mighty Bosstones was founded in Boston .
+        Subject translation: The Mighty Mighty Bosstones
+        Object translation: Бостон
+        Translation: The Mighty Mighty Bosstones був заснований у Бостоні.
+        
+        Source sentence: Mudvayne was founded in Illinois .
+        Subject translation: Mudvayne
+        Object translation: Іллінойс
+        Translation: Mudvayne був заснований в Іллінойсі.
+        
+        Source sentence: Caspian Airlines was founded in Tehran .
+        Subject translation: Caspian Airlines
+        Object translation: Тегеран
+        Translation: Caspian Airlines була заснована в Тегерані.
+        
+        Source sentence: Accademia Pontaniana was founded in Naples .
+        Subject translation: Академія Понтаніана
+        Object translation: Неаполь
+        Translation: Академія Понтаніана була заснована в Неаполі.
+        
+        Source sentence: Pride Fighting Championships was founded in Tokyo .
+        Subject translation: Бійцівський чемпіонат PRIDE
+        Object translation: Токіо
+        Translation: Бійцівський чемпіонат PRIDE був заснований у Токіо.
+        
+        Source sentence: Russo-Balt was founded in Riga .
+        Subject translation: Російсько-Балтійський вагонний завод
+        Object translation: Рига
+        Translation: Російсько-Балтійський вагонний завод був заснований у Ризі.
+        

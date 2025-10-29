@@ -1,0 +1,111 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Cunigunde of Luxembourg was born in Luxembourg .
+        Subject translation: Kunhuta Lucemburská
+        Object translation: Lucembursko
+        Translation: Kunhuta Lucemburská se narodila v Lucembursku.
+        
+        Source sentence: Karel Schwarzenberg was born in Prague .
+        Subject translation: Karel Schwarzenberg
+        Object translation: Praha
+        Translation: Karel Schwarzenberg se narodil v Praze.
+        
+        Source sentence: Theodore the Studite was born in Constantinople .
+        Subject translation: Theodoros Studijský
+        Object translation: Konstantinopol
+        Translation: Theodoros Studijský se narodil v Konstantinopoli.
+        
+        Source sentence: Jerzy Ficowski was born in Warsaw .
+        Subject translation: Jerzy Ficowski
+        Object translation: Varšava
+        Translation: Jerzy Ficowski se narodil ve Varšavě.
+        
+        Source sentence: William Carlos Williams was born in Rutherford .
+        Subject translation: William Carlos Williams
+        Object translation: Rutherford (New Jersey, U. S.)
+        Translation: William Carlos Williams se narodil v Rutherfordu (New Jersey, U. S.).
+        
+        Source sentence: Te Wei was born in Shanghai .
+        Subject translation: Te Wei
+        Object translation: Šanghaj
+        Translation: Te Wei se narodil v Šanghaji.
+        
+        Source sentence: Vasili III of Russia was born in Moscow .
+        Subject translation: Vasilij III.
+        Object translation: Moskva
+        Translation: Vasilij III. se narodil v Moskvě.
+        
+        Source sentence: Cory Bernardi was born in Adelaide .
+        Subject translation: Cory Bernardi
+        Object translation: Adelaide
+        Translation: Cory Bernardi se narodil v Adelaidu.
+        
+        Source sentence: Bing Crosby was born in Tacoma .
+        Subject translation: Bing Crosby
+        Object translation: Tacoma
+        Translation: Bing Crosby se narodil v Tacomě.
+        
+        Source sentence: David Harrower was born in Edinburgh .
+        Subject translation: David Harrower
+        Object translation: Edinburgh
+        Translation: David Harrower se narodil v Edinburghu.
+        
+        Source sentence: Moritz de Hadeln was born in Exeter .
+        Subject translation: Moritz de Hadeln
+        Object translation: Exeter
+        Translation: Moritz de Hadeln se narodil v Exeteru.
+        
+        Source sentence: Benny Carter was born in Harlem .
+        Subject translation: Benny Carter
+        Object translation: Harlem
+        Translation: Benny Carter se narodil v Harlemu.
+        
+        Source sentence: Christel Bodenstein was born in Munich .
+        Subject translation: Christel Bodensteinova
+        Object translation: Mnichov
+        Translation: Christel Bodenstein se narodila v Mnichově.
+        
+        Source sentence: Kim Kashkashian was born in Detroit .
+        Subject translation: Kim Kashkashian
+        Object translation: Detroit
+        Translation: Kim Kashkashian se narodila v Detroitu.
+        
+        Source sentence: Henry Kirke White was born in Nottingham .
+        Subject translation: Henry Kirke White
+        Object translation: Nottingham
+        Translation: Henry Kirke White se narodil v Nottinghamu.
+        
+        Source sentence: Georg Wilhelm von Siemens was born in Berlin .
+        Subject translation: Georg Wilhelm von Siemens
+        Object translation: Berlín
+        Translation: Georg Wilhelm von Siemens se narodil v Berlíně.
+        
+        Source sentence: Maurice de Vlaminck was born in Paris .
+        Subject translation: Maurice de Vlaminck
+        Object translation: Paříž
+        Translation: Maurice de Vlaminck se narodil v Paříži.
+        
+        Source sentence: Erwin Stresemann was born in Dresden .
+        Subject translation: Erwin Stresemann
+        Object translation: Drážďany
+        Translation: Erwin Stresemann se narodil v Drážďanech.
+        
+        Source sentence: Soichi Noguchi was born in Yokohama .
+        Subject translation: Sóiči Noguči
+        Object translation: Jokohama
+        Translation: Sóiči Noguči se narodil v Jokohamě.
+        
+        Source sentence: Marion Davies was born in Brooklyn .
+        Subject translation: Marion Daviesová
+        Object translation: Brooklyn
+        Translation: Marion Daviesová se narodila v Brooklynu.
+
+        Source sentence: Peter Mark Roget was born in London .
+        Subject translation: Peter Roget
+        Object translation: Londýn
+        Translation: Peter Roget se narodil v Londýně.
+

@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Mizoram is located in India .
+        Subject translation: Мизорам
+        Object translation: Индия
+        Translation: Мизорам находится в Индии.
+        
+        Source sentence: Montour County is located in Pennsylvania .
+        Subject translation: Монтур
+        Object translation: Пенсильвания
+        Translation: Монтур находится в Пенсильвании.
+        
+        Source sentence: Aneto is located in Aragon .
+        Subject translation: Ането
+        Object translation: Арагон
+        Translation: Ането находится в Арагоне.
+        
+        Source sentence: Vancouver Art Gallery is located in Vancouver .
+        Subject translation: Художественная галерея Ванкувера
+        Object translation: Ванкувер
+        Translation: Художественная галерея Ванкувера находится в Ванкувере.
+        
+        Source sentence: Xishuangbanna Dai Autonomous Prefecture is located in Yunnan .
+        Subject translation: Сишуанбаньна-Дайский автономный округ
+        Object translation: Юньнань
+        Translation:  Сишуанбаньна-Дайский автономный округ находится в Юньнани.
+        
+        Source sentence: Thule people is located in Greenland .
+        Subject translation: Туле
+        Object translation: Гренландия
+        Translation: Туле находится в Гренландии.
+        
+        Source sentence: Mauna Kea is located in Hawaii .
+        Subject translation: Мауна-Кеа
+        Object translation: Гавайи
+        Translation: Мауна-Кеа находится на Гавайях.
+        
+        Source sentence: Brown University is located in Providence .
+        Subject translation: Брауновский университет
+        Object translation: Провиденс
+        Translation: Брауновский университет находится в Провиденсе.
+        
+        Source sentence: Telford and Wrekin is located in Shropshire .
+        Subject translation: Телфорд и Рекин
+        Object translation: Шропшир
+        Translation: Телфорд и Рекин находятся в Шропшире.
+        
+        Source sentence: Huntingdon County is located in Pennsylvania .
+        Subject translation: Хантингтон
+        Object translation: Пенсильвания
+        Translation: Хантингдон находится в Пенсильвании.
+        
+        Source sentence: Burdur Province is located in Turkey .
+        Subject translation: Бурдур
+        Object translation: Турция
+        Translation: Бурдур находится в Турции.
+        
+        Source sentence: Masaya Department is located in Nicaragua .
+        Subject translation: Масая
+        Object translation: Никарагуа
+        Translation: Масая находится в Никарагуа.
+        
+        Source sentence: Most SNP is located in Bratislava .
+        Subject translation: Мост СНП
+        Object translation: Братислава
+        Translation: Мост СНП находится в Братиславе.
+        
+        Source sentence: Saharsa district is located in Bihar .
+        Subject translation: Сахарса
+        Object translation: Бихар
+        Translation: Сахарса находится в Бихаре.
+        
+        Source sentence: Derna District is located in Libya .
+        Subject translation: Дерна
+        Object translation: Ливия
+        Translation: Дерна находится в Ливии.
+        
+        Source sentence: City of Melbourne is located in Melbourne .
+        Subject translation: Мельбурн
+        Object translation: Мельбурн
+        Translation: Мельбурн находится в Мельбурне.
+        
+        Source sentence: Kunstmuseum Bonn is located in Bonn .
+        Subject translation: Художественный музей Бонна
+        Object translation: Бонн
+        Translation: Художественный музей Бонна находится в Бонне.
+        
+        Source sentence: Santa Fe Trail is located in Kansas .
+        Subject translation: Тропа Санта-Фе
+        Object translation: Канзас
+        Translation:  Тропа Санта-Фе находится в Канзасе.
+        
+        Source sentence: Wychavon is located in Worcestershire .
+        Subject translation: Уичейвон
+        Object translation: Вустершир
+        Translation: Уичейвон находится в Вустершире.
+        
+        Source sentence: Pinacoteca Nazionale di Bologna is located in Bologna .
+        Subject translation: Национальная пинакотека Болоньи
+        Object translation: Болонья
+        Translation:  Национальная пинакотека Болоньи находится в Болонье.
+        

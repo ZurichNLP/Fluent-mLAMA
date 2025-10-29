@@ -1,0 +1,106 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Van der Graaf Generator was founded in Manchester .
+        Subject translation: Van der Graaf Generator
+        Object translation: Manchester
+        Translation: Van der Graaf Generator byla založena v Manchesteru.
+        
+        Source sentence: MewithoutYou was founded in Philadelphia .
+        Subject translation: MewithoutYou
+        Object translation: Filadelfie
+        Translation: MewithoutYou byla založena ve Filadelfii.
+        
+        Source sentence: Cloud Nothings was founded in Cleveland .
+        Subject translation: Cloud Nothings
+        Object translation: Cleveland
+        Translation: Cloud Nothings byla založena v Clevelandu.
+        
+        Source sentence: Rosneft was founded in Moscow .
+        Subject translation: Rosněft
+        Object translation: Moskva
+        Translation: Rosněft byla založena v Moskvě.
+        
+        Source sentence: Mark Jansen was founded in Netherlands .
+        Subject translation: Mark Jansen
+        Object translation: Nizozemsko
+        Translation: Mark Jansen byl založen v Nizozemsku.
+        
+        Source sentence: Suicidal Tendencies was founded in Venice .
+        Subject translation: Suicidal Tendencies
+        Object translation: Venice
+        Translation: Suicidal Tendencies byla založena v Venice.
+        
+        Source sentence: Trenitalia was founded in Rome .
+        Subject translation: Trenitalia
+        Object translation: Řím
+        Translation: Trenitalia byla založena v Římě.
+        
+        Source sentence: Nikon was founded in Tokyo .
+        Subject translation: Nikon
+        Object translation: prefektura Tokio
+        Translation: Nikon byl založen v Tokiu.
+        
+        Source sentence: Ericsson was founded in Stockholm .
+        Subject translation: Telefonaktiebolaget L. M. Ericsson
+        Object translation: Stockholm
+        Translation: Telefonaktiebolaget L. M. Ericsson byla založena ve Stockholmu.
+        
+        Source sentence: Gnarwolves was founded in Brighton .
+        Subject translation: Gnarwolves
+        Object translation: Brighton
+        Translation: Gnarwolves byla založena v Brightonu.
+        
+        Source sentence: Tiger Please was founded in Cardiff .
+        Subject translation: Tiger Please
+        Object translation: Cardiff
+        Translation: Tiger Please byla založena v Cardiffu.
+        
+        Source sentence: Def Leppard was founded in Sheffield .
+        Subject translation: Def Leppard
+        Object translation: Sheffield
+        Translation: Def Leppard byla založena v Sheffieldu.
+        
+        Source sentence: American Hi-Fi was founded in Boston .
+        Subject translation: American Hi-Fi
+        Object translation: Boston
+        Translation: American Hi-Fi byla založena v Bostonu.
+        
+        Source sentence: Rich Kids was founded in London .
+        Subject translation: The Rich Kids
+        Object translation: Londýn
+        Translation: The Rich Kids byla založena v Londýně.
+        
+        Source sentence: Armani was founded in Milan .
+        Subject translation: Armani
+        Object translation: Milán
+        Translation: Armani byla založena v Miláně.
+        
+        Source sentence: Pink Fairies was founded in London .
+        Subject translation: Pink Fairies
+        Object translation: Londýn
+        Translation: Pink Fairies byla založena v Londýně.
+        
+        Source sentence: While She Sleeps was founded in Sheffield .
+        Subject translation: While She Sleeps
+        Object translation: Sheffield
+        Translation: While She Sleeps byla založena v Sheffieldu.
+        
+        Source sentence: Walter Aircraft Engines was founded in Prague .
+        Subject translation: Waltrovka
+        Object translation: Praha
+        Translation: Waltrovka byla založena v Praze.
+        
+        Source sentence: Slowdive was founded in Reading .
+        Subject translation: Slowdive
+        Object translation: Reading
+        Translation: Slowdive byla založena v Readingu.
+        
+        Source sentence: Burger King was founded in Miami .
+        Subject translation: Burger King
+        Object translation: Miami
+        Translation: Burger King byl založen v Miami.
+        

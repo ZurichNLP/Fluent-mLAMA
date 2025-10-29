@@ -1,0 +1,106 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Grace and Frankie was originally aired on Netflix .
+        Subject translation: Grace a Frankie
+        Object translation: Netflix
+        Translation: Grace a Frankie byl původně vysílán na Netflixu.
+        
+        Source sentence: PAW Patrol was originally aired on Nickelodeon .
+        Subject translation: Tlapková patrola
+        Object translation: Nickelodeon
+        Translation: Tlapková patrola byla původně vysílána na Nickelodeonu.
+        
+        Source sentence: Big Time Rush was originally aired on Nickelodeon .
+        Subject translation: Big Time Rush
+        Object translation: Nickelodeon
+        Translation: Big Time Rush byl původně vysílán na Nickelodeonu.
+        
+        Source sentence: Criminal Minds was originally aired on CBS .
+        Subject translation: Myšlenky zločince
+        Object translation: CBS
+        Translation: Myšlenky zločince byl původně vysílán na CBS.
+        
+        Source sentence: Passions was originally aired on NBC .
+        Subject translation: Passions
+        Object translation: NBC
+        Translation: Passions byl původně vysílán na NBC.
+        
+        Source sentence: Barney & Friends was originally aired on PBS .
+        Subject translation: Barney a přátelé
+        Object translation: PBS
+        Translation: Barney a přátelé byl původně vysílán na PBS.
+        
+        Source sentence: The Tonight Show Starring Johnny Carson was originally aired on NBC .
+        Subject translation: The Tonight Show Starring Johnny Carson
+        Object translation: NBC
+        Translation: The Tonight Show Starring Johnny Carson byl původně vysílán na NBC.
+        
+        Source sentence: Curb Your Enthusiasm was originally aired on HBO .
+        Subject translation: Larry, kroť se
+        Object translation: HBO
+        Translation: Larry, kroť se byl původně vysílán na HBO.
+        
+        Source sentence: Ray Donovan was originally aired on Showtime .
+        Subject translation: Ray Donovan
+        Object translation: Showtime
+        Translation: Ray Donovan byl původně vysílán na Showtime.
+        
+        Source sentence: Columbo was originally aired on NBC .
+        Subject translation: Columbo
+        Object translation: NBC
+        Translation: Columbo byl původně vysílán na NBC.
+        
+        Source sentence: Henry Danger was originally aired on Nickelodeon .
+        Subject translation: Henry Nebezpečný
+        Object translation: Nickelodeon
+        Translation: Henry Nebezpečný byl původně vysílán na Nickelodeonu.
+        
+        Source sentence: The Amazing Race was originally aired on CBS .
+        Subject translation: The Amazing Race
+        Object translation: CBS
+        Translation: The Amazing Race byl původně vysílán na CBS.
+        
+        Source sentence: Gary Unmarried was originally aired on CBS .
+        Subject translation: Gary Unmarried
+        Object translation: CBS
+        Translation: Gary Unmanried byl původně vysílán na CBS.
+        
+        Source sentence: My Name Is Earl was originally aired on NBC .
+        Subject translation: Jmenuju se Earl
+        Object translation: NBC
+        Translation: Jmenuju se Earl byl původně vysílán na NBC.
+        
+        Source sentence: The Ed Sullivan Show was originally aired on CBS .
+        Subject translation: The Ed Sullivan Show
+        Object translation: CBS
+        Translation: The Ed Sullivan Show byl původně vysílán na CBS.
+        
+        Source sentence: Rob & Big was originally aired on MTV .
+        Subject translation: Rob & Big
+        Object translation: MTV
+        Translation: Rob & Big byl původně vysílán na MTV.
+        
+        Source sentence: 60 Minutes was originally aired on CBS .
+        Subject translation: 60 Minutes
+        Object translation: CBS
+        Translation:  60 Minutes byl původně vysílán na CBS.
+        
+        Source sentence: Yes Minister was originally aired on British Broadcasting Corporation .
+        Subject translation: Jistě, pane ministře
+        Object translation: BBC
+        Translation: Jistě, pane ministře byl původně vysílán na BBC.
+        
+        Source sentence: The Fairly OddParents was originally aired on Nickelodeon .
+        Subject translation: Kouzelní kmotříčci
+        Object translation: Nickelodeon
+        Translation: Kouzelní kmotříčci byl původně vysílán na Nickelodeonu.
+        
+        Source sentence: Hill Street Blues was originally aired on NBC .
+        Subject translation: Poldové z Hill Street
+        Object translation: NBC
+        Translation: Poldové z Hill Street byl původně vysílán na NBC.
+        

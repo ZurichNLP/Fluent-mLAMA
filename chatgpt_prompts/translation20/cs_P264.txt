@@ -1,0 +1,106 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Roy Rogers is represented by music label Decca .
+        Subject translation: Roy Rogers
+        Object translation: Decca Records
+        Translation: Roy Rogers je zastoupen hudebním vydavatelstvím Decca Records.
+        
+        Source sentence: Dennis Edwards is represented by music label Motown .
+        Subject translation: Dennis Edwards
+        Object translation: Motown Records
+        Translation: Dennis Edwards je zastoupen hudebním vydavatelstvím Motown Records.
+        
+        Source sentence: Charlie Watts is represented by music label Decca .
+        Subject translation: Charlie Watts
+        Object translation: Decca Records
+        Translation: Charlie Watts je zastoupen hudebním vydavatelstvím Decca Records.
+        
+        Source sentence: John Mayall & the Bluesbreakers is represented by music label Decca .
+        Subject translation: John Mayall & the Bluesbreakers
+        Object translation: Decca Records
+        Translation: John Mayall & the Bluesbreakers je zastoupena hudebním vydavatelstvím Decca Records.
+        
+        Source sentence: OK Go is represented by music label EMI .
+        Subject translation: OK Go
+        Object translation: EMI
+        Translation: OK Go je zastoupeno hudebním vydavatelstvím EMI.
+        
+        Source sentence: Never Can Say Goodbye is represented by music label Motown .
+        Subject translation: Never Can Say Goodbye
+        Object translation: Motown Records
+        Translation: Never Can Say Goodbye je zastoupena hudebním vydavatelstvím Motown Records.
+        
+        Source sentence: Carmen McRae is represented by music label Decca .
+        Subject translation: Carmen McRae
+        Object translation: Decca Records
+        Translation: Carmen McRae je zastoupena hudebním vydavatelstvím Decca Records.
+        
+        Source sentence: Ernest Tubb is represented by music label Decca .
+        Subject translation: Ernest Tubb
+        Object translation: Decca Records
+        Translation: Ernest Tubb je zastoupen hudebním vydavatelstvím Decca Records.
+        
+        Source sentence: Forever, Michael is represented by music label Motown .
+        Subject translation: Forever, Michael
+        Object translation: Motown Records
+        Translation: Forever, Michael je zastoupeno hudebním vydavatelstvím Motown Records.
+        
+        Source sentence: Steve Reid is represented by music label Motown .
+        Subject translation: Steve Reid
+        Object translation: Motown Records
+        Translation: Steve Reid je zastoupen hudebním vydavatelstvím Motown Records.
+        
+        Source sentence: Willie Nelson is represented by music label Legacy .
+        Subject translation: Willie Nelson
+        Object translation: Legacy Recordings
+        Translation: Willie Nelson je zastoupen hudebním vydavatelstvím Legacy Recordings.
+        
+        Source sentence: Bill Evans is represented by music label Fantasy .
+        Subject translation: Bill Evans
+        Object translation: Fantasy Records
+        Translation: Bill Evans je zastoupen hudebním vydavatelstvím Fantasy Records.
+        
+        Source sentence: Tina Arena is represented by music label EMI .
+        Subject translation: Tina Arena
+        Object translation: EMI
+        Translation: Tina Arena je zastoupena hudebním vydavatelstvím EMI.
+        
+        Source sentence: Loretta Lynn is represented by music label Decca .
+        Subject translation: Loretta Lynn
+        Object translation: Decca Records
+        Translation: Loretta Lynn je zastoupena hudebním vydavatelstvím Decca Records.
+        
+        Source sentence: Vera Lynn is represented by music label Decca .
+        Subject translation: Vera Lynn
+        Object translation: Decca Records
+        Translation: Vera Lynn je zastoupena hudebním vydavatelstvím Decca Records.
+        
+        Source sentence: Marmalade is represented by music label Decca .
+        Subject translation: Marmalade
+        Object translation: Decca Records
+        Translation: Marmalade je zastoupena hudebním vydavatelstvím Decca Records.
+        
+        Source sentence: Roxette is represented by music label EMI .
+        Subject translation: Roxette
+        Object translation: EMI
+        Translation: Roxette je zastoupena hudebním vydavatelstvím EMI.
+        
+        Source sentence: KRU is represented by music label EMI .
+        Subject translation: KRU
+        Object translation: EMI
+        Translation: KRU je zastoupeno hudebním vydavatelstvím EMI.
+        
+        Source sentence: Virtual XI is represented by music label EMI .
+        Subject translation: Virtual XI
+        Object translation: EMI
+        Translation: Virtual XI je zastoupeno hudebním vydavatelstvím EMI.
+        
+        Source sentence: Tom Fogerty is represented by music label Fantasy .
+        Subject translation: Tom Fogerty
+        Object translation: Fantasy Records
+        Translation: Tom Fogerty je zastoupen hudebním vydavatelstvím Fantasy Records.
+        

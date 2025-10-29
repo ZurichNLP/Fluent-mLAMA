@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: United States Soccer Federation is a member of CONCACAF .
+        Subject translation: Федерація футболу США
+        Object translation: КОНКАКАФ
+        Translation: Федерація футболу США є членом КОНКАКАФ.
+        
+        Source sentence: Haiti national football team is a member of FIFA .
+        Subject translation: Збірна Гаїті з футболу
+        Object translation: ФІФА
+        Translation: Збірна Гаїті з футболу є членом ФІФА.
+        
+        Source sentence: The Football Association is a member of FIFA .
+        Subject translation: Футбольна асоціація Англії
+        Object translation: ФІФА
+        Translation: Футбольна асоціація Англії є членом ФІФА.
+        
+        Source sentence: Tom Araya is a member of Slayer .
+        Subject translation: Том Арайа
+        Object translation: Slayer
+        Translation: Том Арайа є членом Slayer.
+        
+        Source sentence: Danish Football Union is a member of FIFA .
+        Subject translation: Данський футбольний союз
+        Object translation: ФІФА
+        Translation: Данський футбольний союз є членом ФІФА.
+        
+        Source sentence: Marc Costanzo is a member of Len .
+        Subject translation: Марк Костансо
+        Object translation: Len
+        Translation: Марк Костансо є членом Len.
+        
+        Source sentence: Chinese Football Association is a member of FIFA .
+        Subject translation: Китайська футбольна асоціація
+        Object translation: ФІФА
+        Translation: Китайська футбольна асоціація є членом ФІФА.
+        
+        Source sentence: Football Federation Islamic Republic of Iran is a member of FIFA .
+        Subject translation: Федерація футболу Ісламської Республіки Іран
+        Object translation: ФІФА
+        Translation: Федерація футболу Ісламської Республіки Іран є членом ФІФА.
+        
+        Source sentence: Ismail Haniyeh is a member of Hamas .
+        Subject translation: Ісмаїл Ханія
+        Object translation: Хамас
+        Translation: Ісмаїл Ханія є членом ХАМАС.
+        
+        Source sentence: Hungarian Football Federation is a member of FIFA .
+        Subject translation: Угорська футбольна федерація
+        Object translation: ФІФА
+        Translation: Угорська футбольна федерація є членом ФІФА.
+        
+        Source sentence: Latvian Football Federation is a member of FIFA .
+        Subject translation: Латвійська футбольна федерація
+        Object translation: ФІФА
+        Translation: Латвійська федерація футболу є членом ФІФА.
+        
+        Source sentence: Iron Man is a member of Avengers .
+        Subject translation: Залізна Людина
+        Object translation: Месники
+        Translation:  Залізна Людина є членом Месників.
+        
+        Source sentence: Association of Football Federations of Azerbaijan is a member of FIFA .
+        Subject translation: Асоціація футбольних федерацій Азербайджану
+        Object translation: ФІФА
+        Translation: Асоціація футбольних федерацій Азербайджану є членом ФІФА.
+        
+        Source sentence: Ghana Football Association is a member of FIFA .
+        Subject translation: Футбольна асоціація Гани
+        Object translation: ФІФА
+        Translation: Футбольна асоціація Гани є членом ФІФА.
+        
+        Source sentence: Latvia is a member of NATO .
+        Subject translation: Латвія
+        Object translation: НАТО
+        Translation: Латвія є членом НАТО.
+        
+        Source sentence: Iceland is a member of NATO .
+        Subject translation: Ісландія
+        Object translation: НАТО
+        Translation: Ісландія є членом НАТО.
+        
+        Source sentence: Football Association of the Czech Republic is a member of FIFA .
+        Subject translation: Футбольна асоціація Чеської Республіки
+        Object translation: ФІФА
+        Translation: Футбольна асоціація Чеської Республіки є членом ФІФА.
+        
+        Source sentence: Glenn Frey is a member of Eagles .
+        Subject translation: Гленн Фрай
+        Object translation: Eagles
+        Translation: Гленн Фрей є членом Eagles.
+        
+        Source sentence: Afghanistan Football Federation is a member of FIFA .
+        Subject translation: Футбольна федерація Афганістану
+        Object translation: ФІФА
+        Translation: Футбольна федерація Афганістану є членом ФІФА.
+        
+        Source sentence: North Korea is a member of UNESCO .
+        Subject translation: Корейська Народно-Демократична Республіка
+        Object translation: ЮНЕСКО
+        Translation: Корейська Народно-Демократична Республіка є членом ЮНЕСКО.
+        

@@ -1,0 +1,106 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Irina Bokova works for UNESCO .
+        Subject translation: Irina Bokovová
+        Object translation: UNESCO
+        Translation: Irina Bokovová pracuje v UNESCO .
+        
+        Source sentence: Gwen Ifill works for PBS .
+        Subject translation: Gwen Ifill
+        Object translation: PBS
+        Translation: Gwen Ifill pracuje v PBS.
+        
+        Source sentence: Klaus Tschira works for IBM .
+        Subject translation: Klaus Tschira
+        Object translation: IBM
+        Translation: Klaus Tschira pracuje v IBM.
+        
+        Source sentence: Steve Ballmer works for Microsoft .
+        Subject translation: Steve Ballmer
+        Object translation: Microsoft
+        Translation: Steve Ballmer pracuje v Microsoftu.
+        
+        Source sentence: Charles Simonyi works for Microsoft .
+        Subject translation: Charles Simonyi
+        Object translation: Microsoft
+        Translation: Charles Simonyi pracuje v Microsoftu.
+        
+        Source sentence: Tony Hall, Baron Hall of Birkenhead works for British Broadcasting Corporation .
+        Subject translation: Tony Hall
+        Object translation: BBC
+        Translation: Tony Hall pracuje v BBC.
+        
+        Source sentence: Marissa Mayer works for Yahoo .
+        Subject translation: Marissa Mayer
+        Object translation: Yahoo!
+        Translation: Marissa Mayer pracuje v Yahoo!.
+        
+        Source sentence: Steve Wozniak works for Apple Inc. .
+        Subject translation: Steve Wozniak
+        Object translation: Apple
+        Translation:  Steve Wozniak pracuje v Apple.
+        
+        Source sentence: David Frost works for British Broadcasting Corporation .
+        Subject translation: David Frost
+        Object translation: BBC
+        Translation:  David Frost pracuje v BBC.
+        
+        Source sentence: Anna Wintour works for Vogue .
+        Subject translation: Anna Wintourová
+        Object translation: Vogue
+        Translation: Anna Wintourová pracuje ve Vogue.
+
+        Source sentence: Glenda Jackson works for British Broadcasting Corporation .
+        Subject translation: Glenda Jacksonová
+        Object translation: BBC
+        Translation: Glenda Jacksonová pracuje v BBC.
+        
+        Source sentence: John Timpson works for British Broadcasting Corporation .
+        Subject translation: John Timpson
+        Object translation: BBC
+        Translation: John Timpson pracuje v BBC.
+        
+        Source sentence: Gerd Binnig works for IBM .
+        Subject translation: Gerd Binnig
+        Object translation: IBM
+        Translation: Gerd Binnig pracuje v IBM.
+        
+        Source sentence: Alexey Pajitnov works for Microsoft .
+        Subject translation: Alexej Pažitnov
+        Object translation: Microsoft
+        Translation: Alexej Pažitnov pracuje v Microsoftu.
+        
+        Source sentence: Paul G. Allen works for Microsoft .
+        Subject translation: Paul Allen
+        Object translation: Microsoft
+        Translation:  Paul Allen pracuje v Microsoftu.
+        
+        Source sentence: Sue Barker works for British Broadcasting Corporation .
+        Subject translation: Sue Barkerová
+        Object translation: BBC
+        Translation:  Sue Barkerová pracuje v BBC.
+        
+        Source sentence: Willy Brandt works for Berlin .
+        Subject translation: Willy Brandt
+        Object translation: Berlín
+        Translation: Willy Brandt pracuje v Berlíně.
+        
+        Source sentence: Gene Amdahl works for IBM .
+        Subject translation: Gene Amdahl
+        Object translation: IBM
+        Translation:  Gene Amdahl pracuje v IBM.
+        
+        Source sentence: Armando Iannucci works for British Broadcasting Corporation .
+        Subject translation: Armando Iannucci
+        Object translation: BBC
+        Translation:  Armando Iannucci pracuje v BBC.
+        
+        Source sentence: Marissa Mayer works for Google .
+        Subject translation: Marissa Mayer
+        Object translation: Google
+        Translation: Marissa Mayer pracuje v Google.
+        

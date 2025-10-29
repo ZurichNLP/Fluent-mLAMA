@@ -1,0 +1,106 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: BBC Alba is owned by British Broadcasting Corporation .
+        Subject translation: BBC Alba
+        Object translation: BBC
+        Translation: BBC Alba je vlastněna BBC.
+        
+        Source sentence: Google Groups is owned by Google .
+        Subject translation: Skupiny Google
+        Object translation: Google
+        Translation: Skupiny Google jsou vlastněny Google.
+        
+        Source sentence: Boston Dynamics is owned by Google .
+        Subject translation: Boston Dynamics
+        Object translation: Google
+        Translation: Boston Dynamics je vlastněna Google.
+        
+        Source sentence: Aniplex is owned by Sony .
+        Subject translation: Aniplex
+        Object translation: Sony
+        Translation: Aniplex je vlastněna Sony.
+        
+        Source sentence: Super Audio CD is owned by Sony .
+        Subject translation: SACD
+        Object translation: Sony
+        Translation: SACD je vlastněn Sony.
+        
+        Source sentence: Sky Atlantic is owned by Sky .
+        Subject translation: Sky Atlantic
+        Object translation: Sky
+        Translation: Sky Atlantic je vlastněna Sky.
+        
+        Source sentence: Google Ads is owned by Google .
+        Subject translation: Google Ads
+        Object translation: Google
+        Translation: Google Ads jsou vlastněny Google.
+        
+        Source sentence: Simca is owned by Fiat .
+        Subject translation: Simca
+        Object translation: Fiat
+        Translation: Simca je vlastněna Fiatem.
+        
+        Source sentence: Denver International Airport is owned by Denver .
+        Subject translation: Denver International Airport
+        Object translation: Denver
+        Translation: Denver International Airport je vlastněn Denverem.
+        
+        Source sentence: Amazon Kindle is owned by Amazon .
+        Subject translation: Amazon Kindle
+        Object translation: Amazon.com
+        Translation: Amazon Kindle je vlastněn Amazon.com.
+        
+        Source sentence: Philadelphia International Airport is owned by Philadelphia .
+        Subject translation: Letiště Filadelfie
+        Object translation: Filadelfie
+        Translation: Letiště Filadelfie je vlastněno Filadelfií.
+        
+        Source sentence: Beats Electronics is owned by Apple Inc. .
+        Subject translation: Beats by Dr. Dre
+        Object translation: Apple
+        Translation: Beats by Dr. Dre je vlastněn Apple.
+        
+        Source sentence: Windows Media Player is owned by Microsoft .
+        Subject translation: Windows Media Player
+        Object translation: Microsoft
+        Translation: Windows Media Player je vlastněn Microsoftem.
+        
+        Source sentence: Swedish National Rail Administration is owned by Sweden .
+        Subject translation: Banverket
+        Object translation: Švédsko
+        Translation: Banverket je vlastněn Švédskem.
+        
+        Source sentence: Los Angeles Memorial Coliseum is owned by California .
+        Subject translation: Los Angeles Memorial Coliseum
+        Object translation: Kalifornie
+        Translation: Los Angeles Memorial Coliseum je vlastněn Kalifornií.
+        
+        Source sentence: BBC Parliament is owned by British Broadcasting Corporation .
+        Subject translation: BBC Parliament
+        Object translation: BBC
+        Translation: BBC Parliament je vlastněn BBC.
+        
+        Source sentence: World Championship Wrestling is owned by WWE .
+        Subject translation: World Championship Wrestling
+        Object translation: World Wrestling Entertainment
+        Translation: World Championship Wrestling je vlastněn World Wrestling Entertainment.
+        
+        Source sentence: Bundesautobahn 63 is owned by Germany .
+        Subject translation: Dálnice A63
+        Object translation: Německo
+        Translation: Dálnice A63 je vlastněna Německem.
+        
+        Source sentence: Stadio Luigi Ferraris is owned by Genoa .
+        Subject translation: Stadio Luigi Ferraris
+        Object translation: Janov
+        Translation:  Stadio Luigi Ferraris je vlastněna Janovem.
+        
+        Source sentence: Olympiastadion Berlin is owned by Berlin .
+        Subject translation: Olympijský stadion Berlín
+        Object translation: Berlín
+        Translation: Olympijský stadion Berlín je vlastněn Berlínem.
+        

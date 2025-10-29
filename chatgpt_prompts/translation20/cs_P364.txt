@@ -1,0 +1,106 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The original language of The Tall Blond Man with One Black Shoe is French .
+        Subject translation: Velký blondýn s černou botou
+        Object translation: francouzština
+        Translation: Původním jazykem Velkého blondýna s černou botou je francouzština.
+        
+        Source sentence: The original language of If Wishes Were Horses is English .
+        Subject translation: Klamné představy
+        Object translation: angličtina
+        Translation: Původním jazykem Klamných představ je angličtina.
+        
+        Source sentence: The original language of Little Games is English .
+        Subject translation: Little Games
+        Object translation: angličtina
+        Translation: Původním jazykem Little Games je angličtina.
+        
+        Source sentence: The original language of The Young Guard is Russian .
+        Subject translation: Mladá garda
+        Object translation: ruština
+        Translation: Původním jazykem Mladé gardy je ruština.
+        
+        Source sentence: The original language of Under the North Star is Finnish .
+        Subject translation: Täällä Pohjantähden alla
+        Object translation: finština
+        Translation: Původním jazykem Täällä Pohjantähden alla je finština.
+        
+        Source sentence: The original language of Greek Wikipedia is Greek .
+        Subject translation: řecká Wikipedie
+        Object translation: řečtina
+        Translation: Původním jazykem řecké Wikipedie je řečtina.
+        
+        Source sentence: The original language of Yossi & Jagger is Hebrew .
+        Subject translation: Yossi & Jagger
+        Object translation: hebrejština
+        Translation: Původním jazykem Yossi & Jagger je hebrejština.
+        
+        Source sentence: The original language of The Three Musketeers is French .
+        Subject translation: Tři mušketýři
+        Object translation: francouzština
+        Translation: Původním jazykem Tří mušketýrů je francouzština.
+        
+        Source sentence: The original language of Life is a Dream is Spanish .
+        Subject translation: Život je sen
+        Object translation: španělština
+        Translation:  Původním jazykem Život je sen je španělština.
+        
+        Source sentence: The original language of The Last Wish is Polish .
+        Subject translation: Poslední přání
+        Object translation: polština
+        Translation: Původním jazykem Posledního přání je polština.
+        
+        Source sentence: The original language of La Stampa is Italian .
+        Subject translation: La Stampa
+        Object translation: italština
+        Translation: Původním jazykem La Stampy je italština.
+        
+        Source sentence: The original language of The God Delusion is English .
+        Subject translation: Boží blud
+        Object translation: angličtina
+        Translation: Původním jazykem Božího bludu je angličtina.
+        
+        Source sentence: The original language of A Frozen Flower is Korean .
+        Subject translation: Ssang Hwajeom
+        Object translation: korejština
+        Translation: Původním jazykem Ssang Hwajeom je korejština.
+        
+        Source sentence: The original language of Die Tageszeitung is German .
+        Subject translation: die tageszeitung
+        Object translation: němčina
+        Translation: Původním jazykem Die Tageszeitung je němčina.
+        
+        Source sentence: The original language of Emotional Rescue is English .
+        Subject translation: Emotional Rescue
+        Object translation: angličtina
+        Translation:  Původním jazykem Emotional Rescue je angličtina.
+        
+        Source sentence: The original language of 8 Women is French .
+        Subject translation: 8 žen
+        Object translation: francouzština
+        Translation: Původním jazykem 8 žen je francouzština.
+        
+        Source sentence: The original language of The New Science is Italian .
+        Subject translation: Principi di Scienza Nuova d'intorno alla Comune Natura delle Nazioni
+        Object translation: italština
+        Translation: Původním jazykem Principi di Scienza Nuova d'intorno alla Comune Natura delle Nazioni je italština.
+        
+        Source sentence: The original language of Kalevala is Finnish .
+        Subject translation: Kalevala
+        Object translation: finština
+        Translation: Původním jazykem Kalevaly je finština.
+        
+        Source sentence: The original language of R.U.R. is Czech .
+        Subject translation: R.U.R.
+        Object translation: čeština
+        Translation: Původním jazykem R.U.R. je čeština.
+        
+        Source sentence: The original language of Pyramid Texts is Egyptian .
+        Subject translation: Texty pyramid
+        Object translation: Egyptština
+        Translation:  Původním jazykem Textů pyramid je egyptština.
+        

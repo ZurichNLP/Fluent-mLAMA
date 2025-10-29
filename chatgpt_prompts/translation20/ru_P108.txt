@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Steve Wozniak works for Apple Inc. .
+        Subject translation: Стив Возняк
+        Object translation: Apple
+        Translation: Стив Возняк работает в Apple.
+        
+        Source sentence: Paul Otellini works for Intel .
+        Subject translation: Пол Отеллини
+        Object translation: Intel
+        Translation: Пол Отеллини работает в Intel.
+        
+        Source sentence: Scott Forstall works for Apple Inc. .
+        Subject translation: Форстолл, Скотт
+        Object translation: Apple
+        Translation: Форстолл, Скотт работает в Apple.
+        
+        Source sentence: Jean-Dominique Bauby works for Elle .
+        Subject translation: Боби, Жан-Доминик
+        Object translation: Elle
+        Translation: Боби, Жан-Доминик работает в Elle.
+        
+        Source sentence: John Craven works for British Broadcasting Corporation .
+        Subject translation: Джон Крэвен
+        Object translation: Би-би-си
+        Translation: Джон Крэвен работает в Би-би-си.
+        
+        Source sentence: Paddy Lowe works for Mercedes .
+        Subject translation: Падди Лоу
+        Object translation: Мерседес
+        Translation: Падди Лоу работает в Мерседесе.
+        
+        Source sentence: Steve Cram works for British Broadcasting Corporation .
+        Subject translation: Крэм, Стив
+        Object translation: Би-би-си
+        Translation: Крэм, Стив работает в Би-би-си.
+        
+        Source sentence: Mike Wallace works for CBS .
+        Subject translation: Уоллес, Майк
+        Object translation: CBS
+        Translation: Уоллес, Майк работает в CBS.
+        
+        Source sentence: Eddie Jordan works for British Broadcasting Corporation .
+        Subject translation: Джордан, Эдди
+        Object translation: Би-би-си
+        Translation: Джордан, Эдди работает в Би-би-си.
+        
+        Source sentence: John Rabe works for Siemens .
+        Subject translation: Рабе, Йон
+        Object translation: Сименс
+        Translation: Рабе, Йон работает в Siemens.
+        
+        Source sentence: Marissa Mayer works for Google .
+        Subject translation: Марисса Майер
+        Object translation: Google
+        Translation: Марисса Майер работает в Google.
+        
+        Source sentence: Thomas J. Watson works for IBM .
+        Subject translation: Томас Джон Уотсон
+        Object translation: IBM
+        Translation: Томас Джон Уотсон Уотсон работает в IBM.
+        
+        Source sentence: Sydney Newman works for British Broadcasting Corporation .
+        Subject translation: Сидни Ньюман
+        Object translation: Би-би-си
+        Translation: Сидни Ньюман работает в Би-би-си.
+        
+        Source sentence: Guido van Rossum works for Google .
+        Subject translation: Гвидо ван Россум
+        Object translation: Google
+        Translation: Гвидо ван Россум работает в Google.
+        
+        Source sentence: Les Moonves works for CBS .
+        Subject translation: Лесли Мунвес
+        Object translation: CBS
+        Translation: Лесли Мунвес работает в CBS.
+        
+        Source sentence: Robert J. Bach works for Microsoft .
+        Subject translation: Бах, Робби
+        Object translation: Майкрософт
+        Translation: Бах, Робби работает в Microsoft.
+        
+        Source sentence: Andrew Neil works for British Broadcasting Corporation .
+        Subject translation: Эндрю Нил
+        Object translation: Би-би-си
+        Translation:  Эндрю Нил работает в Би-би-си.
+        
+        Source sentence: Ray Ozzie works for Microsoft .
+        Subject translation: Оззи, Рэй
+        Object translation: Майкрософт
+        Translation: Оззи, Рэй работает в Microsoft.
+        
+        Source sentence: David Coleman works for British Broadcasting Corporation .
+        Subject translation: Дэвид Коулмэн
+        Object translation: Би-би-си
+        Translation:  Дэвид Коулмэн работает в Би-би-си.
+        
+        Source sentence: Adrian Newey works for McLaren .
+        Subject translation: Ньюи, Эдриан
+        Object translation: Макларен
+        Translation: Ньюи, Эдриан работает в Макларен.
+        

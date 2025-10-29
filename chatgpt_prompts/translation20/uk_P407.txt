@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Taras Bulba was written in Russian .
+        Subject translation: Тарас Бульба
+        Object translation: російська мова
+        Translation: Тарас Бульба був написаний російською мовою.
+        
+        Source sentence: Daniel was written in Hebrew .
+        Subject translation: Даниїл
+        Object translation: іврит
+        Translation: «Даниїл» був написаний івритом.
+        
+        Source sentence: Fast Car was written in English .
+        Subject translation: Fast Car
+        Object translation: англійська мова
+        Translation: Fast Car був написаний англійською мовою.
+        
+        Source sentence: Serbian Wikipedia was written in Serbian .
+        Subject translation: Сербська Вікіпедія
+        Object translation: сербська мова
+        Translation: Сербська Вікіпедія була написана сербською мовою.
+        
+        Source sentence: Annuario Pontificio was written in Italian .
+        Subject translation: Annuario Pontificio
+        Object translation: італійська мова
+        Translation: Annuario Pontificio було написано італійською мовою.
+        
+        Source sentence: QS World University Rankings was written in English .
+        Subject translation: QS World University Rankings
+        Object translation: англійська мова
+        Translation: QS World University Rankings був написаний англійською мовою.
+        
+        Source sentence: Moby-Dick was written in English .
+        Subject translation: Мобі Дік
+        Object translation: англійська мова
+        Translation: Мобі Дік був написаний англійською мовою.
+        
+        Source sentence: Tamil Wikipedia was written in Tamil .
+        Subject translation: тамільська вікіпедія
+        Object translation: тамільська мова
+        Translation:  Тамільська Вікіпедія була написана тамільською мовою.
+        
+        Source sentence: Strangeways, Here We Come was written in English .
+        Subject translation: Strangeways, Here We Come
+        Object translation: англійська мова
+        Translation: Strangeways, Here We Come був написаний англійською мовою.
+        
+        Source sentence: Science was written in English .
+        Subject translation: Science
+        Object translation: англійська мова
+        Translation: Science був написаний англійською мовою.
+        
+        Source sentence: Dehkhoda Dictionary was written in Persian .
+        Subject translation: Великий словник Деххода
+        Object translation: перська мова
+        Translation: Великий словник Деххода був написаний перською мовою.
+        
+        Source sentence: Tel Quel was written in French .
+        Subject translation: Тель кель
+        Object translation: французька мова
+        Translation: Тель Кель був написаний французькою мовою.
+        
+        Source sentence: 1984 was written in English .
+        Subject translation: 1984
+        Object translation: англійська мова
+        Translation: 1984 була написана англійською мовою.
+        
+        Source sentence: New Left Review (English, printed edition) was written in English .
+        Subject translation: New Left Review
+        Object translation: англійська мова
+        Translation: New Left Review було написано англійською мовою.
+        
+        Source sentence: Meduza was written in Russian .
+        Subject translation: Meduza
+        Object translation: російська мова
+        Translation: Meduza була написана російською мовою.
+        
+        Source sentence: Mi plan was written in Spanish .
+        Subject translation: Mi Plan
+        Object translation: іспанська мова
+        Translation: Mi Plan був написаний іспанською мовою.
+        
+        Source sentence: Great Russian Encyclopedia was written in Russian .
+        Subject translation: Большая российская энциклопедия
+        Object translation: російська мова
+        Translation: Большая российская энциклопедия була написана російською мовою.
+        
+        Source sentence: Russian Science Citation Index was written in Russian .
+        Subject translation: РІНЦ
+        Object translation: російська мова
+        Translation: РІНЦ був написаний російською мовою.
+        
+        Source sentence: Der Sturm was written in German .
+        Subject translation: Дер штурм
+        Object translation: німецька мова
+        Translation: Дер штурм був написаний німецькою мовою.
+        
+        Source sentence: Led Zeppelin III was written in English .
+        Subject translation: Led Zeppelin III
+        Object translation: англійська мова
+        Translation: Led Zeppelin III був написаний англійською мовою.
+        

@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: AgustaWestland is owned by Leonardo .
+        Subject translation: AgustaWestland
+        Object translation: Leonardo S.p.A.
+        Translation: AgustaWestland принадлежит Leonardo S.p.A..
+        
+        Source sentence: WWE NXT is owned by WWE .
+        Subject translation: WWE NXT
+        Object translation: WWE
+        Translation: WWE NXT принадлежит WWE.
+        
+        Source sentence: Bundesautobahn 44 is owned by Germany .
+        Subject translation: А44
+        Object translation: Германия
+        Translation: А44 принадлежит Германии.
+        
+        Source sentence: Louisiana State Capitol is owned by Louisiana .
+        Subject translation: Капитолий штата Луизиана
+        Object translation: Луизиана
+        Translation: Капитолий штата Луизиана принадлежит Луизиане.
+        
+        Source sentence: Parc des Princes is owned by Paris .
+        Subject translation: Парк де Пренс
+        Object translation: Париж
+        Translation: Парк де Пренс принадлежит Парижу.
+        
+        Source sentence: Cambria is owned by Microsoft .
+        Subject translation: Cambria
+        Object translation: Майкрософт
+        Translation: Cambria принадлежит Microsoft.
+        
+        Source sentence: Municipal House is owned by Prague .
+        Subject translation: Общественный дом
+        Object translation: Прага
+        Translation: Общественный дом принадлежит Праге.
+        
+        Source sentence: Super Audio CD is owned by Sony .
+        Subject translation: Super Audio CD
+        Object translation: Sony
+        Translation: Super Audio CD принадлежит Sony.
+        
+        Source sentence: XL Center is owned by Hartford .
+        Subject translation: XL-центр
+        Object translation: Хартфорд
+        Translation: XL-центр принадлежит Хартфорду.
+        
+        Source sentence: TD Place Stadium is owned by Ottawa .
+        Subject translation: Франк Клэр (стадион)
+        Object translation: Оттава
+        Translation: Франк Клэр (стадион) принадлежит Оттаве.
+        
+        Source sentence: Turku Castle is owned by Finland .
+        Subject translation: Абоский замок
+        Object translation: Финляндия
+        Translation: Абоский замок принадлежит Финляндии.
+        
+        Source sentence: Sky One is owned by Sky .
+        Subject translation: Sky One
+        Object translation: BSkyB
+        Translation: Sky One принадлежит BSkyB.
+        
+        Source sentence: Aniplex is owned by Sony .
+        Subject translation: Aniplex
+        Object translation: Sony
+        Translation: Aniplex принадлежит Sony.
+        
+        Source sentence: Hawaii State Capitol is owned by Hawaii .
+        Subject translation: Капитолий штата Гавайи
+        Object translation: Гавайи
+        Translation: Капитолий штата Гавайи принадлежит Гавайям.
+        
+        Source sentence: Googleplex is owned by Google .
+        Subject translation: Googleplex
+        Object translation: Google
+        Translation: Googleplex принадлежит Google.
+        
+        Source sentence: PZL Mielec is owned by Poland .
+        Subject translation: PZL Mielec
+        Object translation: Польша
+        Translation: PZL Mielec принадлежит Польше.
+        
+        Source sentence: Idaho State Capitol is owned by Idaho .
+        Subject translation: Капитолий штата Айдахо
+        Object translation: Айдахо
+        Translation: Капитолий штата Айдахо принадлежит Айдахо.
+        
+        Source sentence: Blogger is owned by Google .
+        Subject translation: Blogger
+        Object translation: Google
+        Translation: Blogger принадлежит Google.
+        
+        Source sentence: BMW Motorrad is owned by BMW .
+        Subject translation: BMW Motorrad
+        Object translation: BMW
+        Translation: BMW Motorrad принадлежит BMW.
+        
+        Source sentence: Goodreads is owned by Amazon .
+        Subject translation: Goodreads
+        Object translation: Amazon
+        Translation: Goodreads принадлежит Amazon.
+        

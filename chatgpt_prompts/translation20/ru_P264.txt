@@ -1,0 +1,105 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Third Album is represented by music label Motown .
+        Subject translation: Third Album
+        Object translation: Motown Records
+        Translation: Third Album представлен музыкальным лейблом Motown Records.
+        
+        Source sentence: Miami Horror is represented by music label EMI .
+        Subject translation: Miami Horror
+        Object translation: EMI
+        Translation: Miami Horror представлен музыкальным лейблом EMI.
+        
+        Source sentence: Overpowered is represented by music label EMI .
+        Subject translation: Overpowered
+        Object translation: EMI
+        Translation: Overpowered представлен музыкальным лейблом EMI.
+        
+        Source sentence: Charlie Watts is represented by music label Decca .
+        Subject translation: Уоттс, Чарльз Роберт
+        Object translation: Декка
+        Translation: Уоттс, Чарльз Роберт представлен музыкальным лейблом Декка.
+        
+        Source sentence: Untitled is represented by music label EMI .
+        Subject translation: Untitled
+        Object translation: EMI
+        Translation: Untitled представлен музыкальным лейблом EMI.
+        
+        Source sentence: Eva Simons is represented by music label EMI .
+        Subject translation: Симонс, Ева
+        Object translation: EMI
+        Translation: Симонс, Ева представлена музыкальным лейблом EMI.
+        
+        Source sentence: Where Did Our Love Go is represented by music label Motown .
+        Subject translation: Where Did Our Love Go
+        Object translation: Motown Records
+        Translation: Where Did Our Love Go представлен музыкальным лейблом Motown Records.
+        
+        Source sentence: Owen Bradley is represented by music label Decca .
+        Subject translation: Оуэн Брэдли
+        Object translation: Декка
+        Translation: Оуэн Брэдли представлен музыкальным лейблом Декка.
+        
+        Source sentence: Levi Stubbs is represented by music label Motown .
+        Subject translation: Леви Стаббс
+        Object translation: Motown Records
+        Translation: Леви Стаббс представлен музыкальным лейблом Motown Records.
+        
+        Source sentence: Tina Arena is represented by music label EMI .
+        Subject translation: Тина Арена
+        Object translation: EMI
+        Translation: Тина Арена представлена музыкальным лейблом EMI.
+        
+        Source sentence: Ain't No Mountain High Enough is represented by music label Motown .
+        Subject translation: Ain’t No Mountain High Enough
+        Object translation: Motown Records
+        Translation: Ain't No Mountain High Enough представлен музыкальным лейблом Motown Records.
+        
+        Source sentence: Talk Talk is represented by music label EMI .
+        Subject translation: Talk Talk
+        Object translation: EMI
+        Translation: Talk Talk представлены музыкальным лейблом EMI.
+        
+        Source sentence: The Platters is represented by music label Federal .
+        Subject translation: The Platters
+        Object translation: Federal Records
+        Translation: The Platters представлены музыкальным лейблом Federal Records.
+        
+        Source sentence: Ralph Vaughan Williams is represented by music label Decca .
+        Subject translation: Ральф Воан-Уильямс
+        Object translation: Декка
+        Translation: Ральф Воан-Уильямс представлен музыкальным лейблом Декка.
+        
+        Source sentence: Creedence Clearwater Revival is represented by music label Fantasy .
+        Subject translation: Creedence Clearwater Revival
+        Object translation: Fantasy Records
+        Translation: Creedence Clearwater Revival представлены музыкальным лейблом Fantasy Records.
+        
+        Source sentence: Alexis Korner is represented by music label Decca .
+        Subject translation: Корнер, Алексис
+        Object translation: Декка
+        Translation: Корнер, Алексис представлен музыкальным лейблом Декка.
+        
+        Source sentence: David Bowie is represented by music label EMI .
+        Subject translation: Дэвид Боуи
+        Object translation: EMI
+        Translation: Дэвида Боуи представлен музыкальным лейблом EMI.
+        
+        Source sentence: Willie Nelson is represented by music label Legacy .
+        Subject translation: Вилли Нельсон
+        Object translation: Legacy Recordings
+        Translation: Вилли Нельсон представлен музыкальным лейблом Legacy Recordings.
+        
+        Source sentence: Lionel Richie is represented by music label Motown .
+        Subject translation: Лайонел Ричи
+        Object translation: Motown Records
+        Translation: Лайонел Ричи представлен музыкальным лейблом Motown Records.
+        
+        Source sentence: Luis Miguel is represented by music label EMI .
+        Subject translation: Луис Мигель
+        Object translation: EMI
+        Translation: Луис Мигель представлен музыкальным лейблом EMI.

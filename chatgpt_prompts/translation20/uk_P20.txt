@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Annibale de Gasparis died in Naples .
+        Subject translation: Аннібале де Гаспаріс
+        Object translation: Неаполь
+        Translation: Аннібале де Гаспаріс помер у Неаполі.
+        
+        Source sentence: Tony Benn died in London .
+        Subject translation: Тоні Бенн
+        Object translation: Лондон
+        Translation: Тоні Бенн помер у Лондоні.
+        
+        Source sentence: Antonio Palomino died in Madrid .
+        Subject translation: Антоніо Паломіно
+        Object translation: Мадрид
+        Translation: Антоніо Паломіно помер у Мадриді.
+        
+        Source sentence: Elisabeth Bykova died in Moscow .
+        Subject translation: Бикова Єлизавета Іванівна
+        Object translation: Москва
+        Translation: Бикова Єлизавета Іванівна померла в Москві.
+        
+        Source sentence: Heinrich Lammasch died in Salzburg .
+        Subject translation: Генріх Ламмаш
+        Object translation: Зальцбург
+        Translation: Генріх Ламмаш помер у Зальцбурзі.
+        
+        Source sentence: Hermann Nothnagel died in Vienna .
+        Subject translation: Герман Нотнагель
+        Object translation: Відень
+        Translation: Герман Нотнагель помер у Відні.
+        
+        Source sentence: Fredegund died in Paris .
+        Subject translation: Фредеґунда
+        Object translation: Париж
+        Translation: Фредеґунда померла в Парижі.
+        
+        Source sentence: Evert Taube died in Stockholm .
+        Subject translation: Еверт Таубе
+        Object translation: Стокгольм
+        Translation: Еверт Таубе помер у Стокгольмі.
+        
+        Source sentence: Balys Sruoga died in Vilnius .
+        Subject translation: Баліс Сруоґа
+        Object translation: Вільнюс
+        Translation: Баліс Сруоґа помер у Вільнюсі.
+        
+        Source sentence: Anna Morandi Manzolini died in Bologna .
+        Subject translation: Анна Моранді Манцоліні
+        Object translation: Болонья
+        Translation: Анна Моранді Манцоліні померла в Болоньї.
+        
+        Source sentence: John VIII Palaiologos died in Constantinople .
+        Subject translation: Іоанн VIII Палеолог
+        Object translation: Константинополь
+        Translation: Іоанн VIII Палеолог помер у Константинополі.
+        
+        Source sentence: Otto Schreier died in Hamburg .
+        Subject translation: Отто Шреєр
+        Object translation: Гамбург
+        Translation: Отто Шреєр помер у Гамбурзі.
+        
+        Source sentence: Peter I of Serbia died in Belgrade .
+        Subject translation: Петро I Карагеоргієвич
+        Object translation: Белград
+        Translation: Петро I Карагеоргієвич помер у Белграді.
+        
+        Source sentence: Margaret Cavendish, Duchess of Newcastle-upon-Tyne died in Kingdom of England .
+        Subject translation: Маргарет Кавендіш
+        Object translation: Королівство Англія
+        Translation:  Маргарет Кавендіш померла в Королівстві Англія.
+        
+        Source sentence: Hrant Dink died in Istanbul .
+        Subject translation: Грант Дінк
+        Object translation: Стамбул
+        Translation: Грант Дінк помер у Стамбулі.
+        
+        Source sentence: Umar ibn Al-Khattāb died in Medina .
+        Subject translation: Умар ібн аль-Хаттаб
+        Object translation: Медіна
+        Translation: Умар ібн аль-Хаттаб помер у Медині.
+        
+        Source sentence: Laurel Aitken died in Leicester .
+        Subject translation: Лорел Ейткен
+        Object translation: Лестер
+        Translation: Лорел Ейткен помер у Лестері.
+        
+        Source sentence: Pimen I of Moscow died in Moscow .
+        Subject translation: Пимен (Патріарх Московський)
+        Object translation: Москва
+        Translation: Пимен (Патріарх Московський) помер у Москві.
+        
+        Source sentence: Gertrude Bell died in Baghdad .
+        Subject translation: Гертруда Белл
+        Object translation: Багдад
+        Translation: Гертруда Белл померла в Багдаді.
+        
+        Source sentence: Boniface I died in Rome .
+        Subject translation: Боніфацій I
+        Object translation: Рим
+        Translation: Боніфацій I помер у Римі.
+        

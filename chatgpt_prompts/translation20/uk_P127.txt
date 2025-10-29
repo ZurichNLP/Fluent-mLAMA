@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Stadio Renzo Barbera is owned by Palermo .
+        Subject translation: Стадіо Ренцо Барбера
+        Object translation: Палермо
+        Translation: Стадіо Ренцо Барбера належить Палермо.
+        
+        Source sentence: Stadio Nazionale PNF is owned by Rome .
+        Subject translation: Стадіо Націонале ПНФ
+        Object translation: Рим
+        Translation: Стадіо Націонале ПНФ належить Риму.
+        
+        Source sentence: Stadio Olimpico Grande Torino is owned by Turin .
+        Subject translation: Олімпійський стадіон
+        Object translation: Турин
+        Translation: Олімпійський стадіон належить Турину.
+        
+        Source sentence: Google Finance is owned by Google .
+        Subject translation: Google Finance
+        Object translation: Google
+        Translation: Google Finance належить Google.
+        
+        Source sentence: BBC World News is owned by British Broadcasting Corporation .
+        Subject translation: BBC World News
+        Object translation: BBC
+        Translation:  BBC World News належить BBC.
+        
+        Source sentence: Compact Disc Digital Audio is owned by Sony .
+        Subject translation: Audio CD
+        Object translation: Sony
+        Translation: Audio CD належить Sony.
+        
+        Source sentence: Bundesautobahn 14 is owned by Germany .
+        Subject translation: Автобан A14 (Німеччина)
+        Object translation: Німеччина
+        Translation: Автобан A14 (Німеччина) належить Німеччині.
+        
+        Source sentence: Google Groups is owned by Google .
+        Subject translation: Групи Google
+        Object translation: Google
+        Translation: Групи Google належать Google.
+        
+        Source sentence: Renault Trucks is owned by Volvo .
+        Subject translation: Renault Trucks
+        Object translation: Volvo
+        Translation: Renault Trucks належить Volvo.
+        
+        Source sentence: Zim Integrated Shipping Services is owned by Israel .
+        Subject translation: Zim
+        Object translation: Ізраїль
+        Translation: Zim належить Ізраїлю.
+        
+        Source sentence: Indiana State Museum is owned by Indiana .
+        Subject translation: Музей штату Індіана
+        Object translation: Індіана
+        Translation: Музей штату Індіана належить Індіані.
+        
+        Source sentence: Staatliche Kunstsammlungen Dresden is owned by Saxony .
+        Subject translation: Державні художні зібрання Дрездена
+        Object translation: Саксонія
+        Translation: Державні художні зібрання Дрездена належать Саксонії.
+        
+        Source sentence: Cognos is owned by IBM .
+        Subject translation: Cognos
+        Object translation: IBM
+        Translation: Cognos належить IBM.
+        
+        Source sentence: Rai 1 is owned by RAI .
+        Subject translation: Rai 1
+        Object translation: RAI
+        Translation: Rai 1 належить RAI.
+        
+        Source sentence: Qatar Airways is owned by Qatar .
+        Subject translation: Qatar Airways
+        Object translation: Катар
+        Translation: Qatar Airways належить Катару.
+        
+        Source sentence: Bing Maps is owned by Microsoft .
+        Subject translation: Bing Maps
+        Object translation: Microsoft
+        Translation: Bing Maps належать Microsoft.
+        
+        Source sentence: Google Custom Search is owned by Google .
+        Subject translation: Користувацький пошук Google
+        Object translation: Google
+        Translation: Користувацький пошук Google належить Google.
+        
+        Source sentence: Meise Botanic Garden is owned by Belgium .
+        Subject translation: Національний ботанічний сад Бельгії
+        Object translation: Бельгія
+        Translation: Національний ботанічний сад Бельгії належить Бельгії.
+        
+        Source sentence: Honda Center is owned by Anaheim .
+        Subject translation: Хонда-центр
+        Object translation: Анагайм
+        Translation: Хонда-центр належить Анагайму.
+        
+        Source sentence: Volvo Trucks is owned by Volvo .
+        Subject translation: Volvo Truck Corporation
+        Object translation: Volvo
+        Translation: Volvo Truck Corporation належить Volvo.
+        

@@ -1,0 +1,105 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Margherita Buy was born in Rome .
+        Subject translation: Маргеріта Бай
+        Object translation: Рим
+        Translation: Маргеріта Бай народилася в Римі.
+        
+        Source sentence: John Cheever was born in Quincy .
+        Subject translation: Джон Чівер
+        Object translation: Квінсі
+        Translation: Джон Чівер народився в Квінсі.
+        
+        Source sentence: Nayef Hawatmeh was born in Salt .
+        Subject translation: Наїф Хаватме
+        Object translation: Ес-Салт
+        Translation: Наїф Хаватме народився в Ес-Салт.
+        
+        Source sentence: Henry Edward Armstrong was born in London .
+        Subject translation: Генрі Едвард Армстронг
+        Object translation: Лондон
+        Translation: Генрі Едвард Армстронг народився в Лондоні.
+        
+        Source sentence: Maximilian Sforza was born in Milan .
+        Subject translation: Массіміліано Сфорца
+        Object translation: Мілан
+        Translation: Массіміліано Сфорца народився в Мілані.
+        
+        Source sentence: Julia of Corsica was born in Carthage .
+        Subject translation: Юлія Корсиканська
+        Object translation: Карфаген
+        Translation: Юлія Корсиканська народилася в Карфагені.
+        
+        Source sentence: Dennis Farina was born in Chicago .
+        Subject translation: Денніс Фаріна
+        Object translation: Чикаго
+        Translation: Денніс Фарина народився в Чикаго.
+        
+        Source sentence: Leonid Sabaneyev was born in Moscow .
+        Subject translation: Сабанєєв Леонід Леонідович
+        Object translation: Москва
+        Translation: Сабанєєв Леонід Леонідович народився в Москві.
+        
+        Source sentence: Bernardo Bellotto was born in Venice .
+        Subject translation: Белотто Бернардо
+        Object translation: Венеція
+        Translation: Беллотто Бернардо народився у Венеції.
+        
+        Source sentence: Pliny the Elder was born in Como .
+        Subject translation: Пліній Старший
+        Object translation: Комо
+        Translation: Пліній Старший народився в Комо.
+        
+        Source sentence: Thomas Palaiologos was born in Constantinople .
+        Subject translation: Фома Палеолог
+        Object translation: Константинополь
+        Translation: Фома Палеолог народився в Константинополі.
+        
+        Source sentence: Lala Shevket was born in Baku .
+        Subject translation: Лала Шевкет
+        Object translation: Баку
+        Translation: Лала Шевкет народилася в Баку.
+        
+        Source sentence: Georges Rouault was born in Paris .
+        Subject translation: Жорж Руо
+        Object translation: Париж
+        Translation: Жорж Руо народився в Парижі.
+        
+        Source sentence: Natalia Shakhovskaya was born in Moscow .
+        Subject translation: Шаховська Наталія Миколаївна
+        Object translation: Москва
+        Translation: Шаховська Наталія Миколаївна народилася в Москві.
+        
+        Source sentence: Ze'ev Jabotinsky was born in Odessa .
+        Subject translation: Жаботинський Володимир Євгенович
+        Object translation: Одеса
+        Translation: Жаботинський Володимир Євгенович народився в Одесі.
+        
+        Source sentence: Blaine Willenborg was born in Miami .
+        Subject translation: Блейн Вілленборг
+        Object translation: Маямі
+        Translation: Блейн Вілленборг народився в Маямі.
+        
+        Source sentence: Vasili III of Russia was born in Moscow .
+        Subject translation: Василій III
+        Object translation: Москва
+        Translation: Василій ІІІ народився в Москві.
+        
+        Source sentence: Mastino II della Scala was born in Verona .
+        Subject translation: Мастіно II делла Скала
+        Object translation: Верона
+        Translation: Мастіно II делла Скала народився у Вероні.
+        
+        Source sentence: Florence Vidor was born in Houston .
+        Subject translation: Флоренс Відор
+        Object translation: Х'юстон
+        Translation: Флоренс Відор народилася в Х'юстоні.
+        
+        Source sentence: Johannes R. Becher was born in Munich .
+        Subject translation: Йоганнес-Роберт Бехер
+        Object translation: Мюнхен
+        Translation: Йоганнес-Роберт Бехер народився в Мюнхені.

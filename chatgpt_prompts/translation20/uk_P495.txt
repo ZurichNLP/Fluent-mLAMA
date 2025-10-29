@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Elling was created in Norway .
+        Subject translation: Еллінг
+        Object translation: Норвегія
+        Translation: Еллінг був створений у Норвегії.
+         
+        Source sentence: Kabhi Khushi Kabhie Gham... was created in India .
+        Subject translation: І в смутку, і в радості
+        Object translation: Індія
+        Translation:  І в смутку, і в радості був створений в Індії.
+        
+        Source sentence: balsamic vinegar was created in Italy .
+        Subject translation: Бальзамічний оцет
+        Object translation: Італія
+        Translation: Бальзамічний оцет був створений в Італії.
+        
+        Source sentence: Sopot International Song Festival was created in Poland .
+        Subject translation: Міжнародний фестиваль пісні у Сопоті
+        Object translation: Польща
+        Translation: Міжнародний фестиваль пісні у Сопоті був створений в Польщі.
+        
+        Source sentence: Caillou was created in Canada .
+        Subject translation: Кайю
+        Object translation: Канада
+        Translation: Кайю був створений у Канаді.
+        
+        Source sentence: Lemonade Joe was created in Czechoslovakia .
+        Subject translation: Лимонадний Джо
+        Object translation: Чехословаччина
+        Translation: Лимонадний Джо був створений у Чехословаччині.
+        
+        Source sentence: Mad Max Beyond Thunderdome was created in Australia .
+        Subject translation: Скажений Макс 3
+        Object translation: Австралія
+        Translation: Скажений Макс 3 був створений в Австралії.
+        
+        Source sentence: The Apparition was created in Germany .
+        Subject translation: Явище (фільм, 2012)
+        Object translation: Німеччина
+        Translation: Явище (фільм, 2012) був створений у Німеччині.
+        
+        Source sentence: 9K720 Iskander was created in Russia .
+        Subject translation: Іскандер
+        Object translation: Росія
+        Translation: Іскандер був створений в Росії.
+        
+        Source sentence: waffle was created in Belgium .
+        Subject translation: вафлі
+        Object translation: Бельгія
+        Translation: Вафлі були створені в Бельгії.
+        
+        Source sentence: A Bola was created in Portugal .
+        Subject translation: A Bola
+        Object translation: Португалія
+        Translation: A Bola була створена в Португалії.
+        
+        Source sentence: focaccia was created in Italy .
+        Subject translation: Фокачча
+        Object translation: Італія
+        Translation: Фокачча була створена в Італії.
+        
+        Source sentence: Female Agents was created in France .
+        Subject translation: Жінки-агенти
+        Object translation: Франція
+        Translation: Жінки-агенти було створено у Франції.
+        
+        Source sentence: Gesta Danorum was created in Denmark .
+        Subject translation: Діяння данів
+        Object translation: Данія
+        Translation: Діяння данів були створені в Данії.
+        
+        Source sentence: Ostava was created in Bulgaria .
+        Subject translation: Остава
+        Object translation: Болгарія
+        Translation: Остава була створена в Болгарії.
+        
+        Source sentence: Fantastyka was created in Poland .
+        Subject translation: Нова фантастика
+        Object translation: Польща
+        Translation: Нова фантастика була створена в Польщі.
+        
+        Source sentence: Nodame Cantabile was created in Japan .
+        Subject translation: Nodame Cantabile
+        Object translation: Японія
+        Translation: Nodame Cantabile був створений в Японії.
+        
+        Source sentence: caipirinha was created in Brazil .
+        Subject translation: Кайпірінья
+        Object translation: Бразилія
+        Translation: Кайпірінья була створена в Бразилії.
+        
+        Source sentence: Bolognese sauce was created in Italy .
+        Subject translation: Болоньєзе
+        Object translation: Італія
+        Translation: Болоньєзе був створений в Італії.
+        
+        Source sentence: Exocet was created in France .
+        Subject translation: Exocet
+        Object translation: Франція
+        Translation: Exocet був створений у Франції.
+        

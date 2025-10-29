@@ -1,0 +1,105 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The headquarter of Republican Left of Catalonia is in Barcelona .
+        Subject translation: Esquerra Republicana de Catalunya
+        Object translation: Barcelona
+        Translation: Sídlo Esquerra Republicana de Catalunya je v Barceloně.
+        
+        Source sentence: The headquarter of Fat Cat Records is in Brighton .
+        Subject translation: Fat Cat Records
+        Object translation: Brighton
+        Translation: Sídlo Fat Cat Records je v Brightonu.
+        
+        Source sentence: The headquarter of Swindon Town F.C. is in Swindon .
+        Subject translation: Swindon Town FC
+        Object translation: Swindon
+        Translation: Sídlo Swindon Town FC je ve Swindonu .
+        
+        Source sentence: The headquarter of Infogrames is in Lyon .
+        Subject translation: Infogrames
+        Object translation: Lyon
+        Translation: Sídlo Infogrames je v Lyonu.
+        
+        Source sentence: The headquarter of Sukhoi is in Moscow .
+        Subject translation: Suchoj
+        Object translation: Moskva
+        Translation: Sídlo Suchoje je v Moskvě.
+        
+        Source sentence: The headquarter of Guinness World Records is in London .
+        Subject translation: Guinnessova kniha rekordů
+        Object translation: Londýn
+        Translation: Sídlo Guinessovy knihy rekordů je v Londýně.
+        
+        Source sentence: The headquarter of Brentford F.C. is in London .
+        Subject translation: Brentford FC
+        Object translation: Londýn
+        Translation: Sídlo Brentford FC je v Londýně.
+        
+        Source sentence: The headquarter of All India Muslim League is in Lucknow .
+        Subject translation: Muslimská liga
+        Object translation: Lakhnaú
+        Translation: Sídlo Muslimské ligy je v Lakhnaú.
+        
+        Source sentence: The headquarter of Holstein Kiel is in Kiel .
+        Subject translation: Holstein Kiel
+        Object translation: Kiel
+        Translation: Sídlo Holstein Kiel je v Kielu.
+        
+        Source sentence: The headquarter of Rabobank is in Utrecht .
+        Subject translation: Rabobank
+        Object translation: Utrecht
+        Translation: Sídlo Rabobanku je v Utrechtu.
+        
+        Source sentence: The headquarter of Southeast University is in Nanjing .
+        Subject translation: Jihovýchodní univerzita
+        Object translation: Nanking
+        Translation: Sídlo Jihovýchodní univerzity je v Nankingu .
+        
+        Source sentence: The headquarter of Sentinel Waggon Works is in Shrewsbury .
+        Subject translation: Škoda Sentinel
+        Object translation: Shrewsbury
+        Translation: Sídlo Škoda Sentinel je v Shrewsbury.
+        
+        Source sentence: The headquarter of Nortel is in Toronto .
+        Subject translation: Nortel
+        Object translation: Toronto
+        Translation: Sídlo Nortelu je v Torontu.
+        
+        Source sentence: The headquarter of Gazprombank is in Moscow .
+        Subject translation: Gazprombank
+        Object translation: Moskva
+        Translation: Sídlo Gazprombanku je v Moskvě.
+        
+        Source sentence: The headquarter of Ferrero SpA is in Alba .
+        Subject translation: Ferrero
+        Object translation: Alba
+        Translation: Sídlo Ferrera je v Albě.
+        
+        Source sentence: The headquarter of Jim Beam is in Chicago .
+        Subject translation: Jim Beam
+        Object translation: Chicago
+        Translation: Sídlo Jima Beama je v Chicagu.
+        
+        Source sentence: The headquarter of League of Communists of Yugoslavia is in Belgrade .
+        Subject translation: Svaz komunistů Jugoslávie
+        Object translation: Bělehrad
+        Translation: Sídlo Ligy komunistů Jugoslávie je v Bělehradě.
+        
+        Source sentence: The headquarter of FC Dynamo Kyiv is in Kiev .
+        Subject translation: FK Dynamo Kyjev
+        Object translation: Kyjev
+        Translation: Sídlo FK Dynamo Kyjev je v Kyjevě .
+        
+        Source sentence: The headquarter of International Airlines Group is in London .
+        Subject translation: International Airlines Group
+        Object translation: Londýn
+        Translation: Sídlo International Airlines Group je v Londýně.
+        
+        Source sentence: The headquarter of Dundee F.C. is in Dundee .
+        Subject translation: Dundee FC
+        Object translation: Dundee
+        Translation: Sídlo Dundee FC je v Dundee .

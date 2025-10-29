@@ -1,0 +1,106 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Richard was written in English .
+        Subject translation: Richard
+        Object translation: engleski jezik
+        Translation: Richard je napisan na engleskom jeziku.
+        
+        Source sentence: The Final Frontier was written in English .
+        Subject translation: The Final Frontier
+        Object translation: engleski jezik
+        Translation: The Final Frontier je napisan na engleskom jeziku.
+        
+        Source sentence: Dehumanizer was written in English .
+        Subject translation: Dehumanizer
+        Object translation: engleski jezik
+        Translation: Dehumanizer je napisan na engleskom jeziku.
+        
+        Source sentence: Herzeleid was written in German .
+        Subject translation: Herzeleid
+        Object translation: njemački jezik
+        Translation: Herzeleid je napisan na njemačkom jeziku.
+        
+        Source sentence: Pinterest was written in Spanish .
+        Subject translation: Pinterest
+        Object translation: španjolski jezik
+        Translation: Pinterest je napisan na španjolskom jeziku.
+        
+        Source sentence: Du gamla, du fria was written in Swedish .
+        Subject translation: Du gamla, Du fria
+        Object translation: Švedski jezik
+        Translation: Du gamla, Du fria je napisano na švedskom jeziku.
+        
+        Source sentence: Croatian Wikipedia was written in Croatian .
+        Subject translation: Wikipedija na hrvatskom jeziku
+        Object translation: hrvatski jezik
+        Translation: Wikipedija na hrvatskom jeziku je napisana na hrvatskom jeziku.
+        
+        Source sentence: Aida was written in Italian .
+        Subject translation: Aida
+        Object translation: talijanski jezik
+        Translation: Aida je napisana na talijanskom jeziku.
+        
+        Source sentence: Some Great Reward was written in English .
+        Subject translation: Some Great Reward
+        Object translation: engleski jezik
+        Translation: Some Great Reward je napisana na engleskom jeziku.
+        
+        Source sentence: Alexander was written in English .
+        Subject translation: Alexander
+        Object translation: engleski jezik
+        Translation: Alexander je napisan na engleskom jeziku.
+        
+        Source sentence: The Lamb Lies Down on Broadway was written in English .
+        Subject translation: The Lamb Lies Down on Broadway
+        Object translation: engleski jezik
+        Translation: The Lamb Lies Down on Broadway je napisano na engleskom jeziku.
+        
+        Source sentence: Tydfil was written in Welsh .
+        Subject translation: Tydfil
+        Object translation: Velški jezik
+        Translation: Tydfil je napisan na velškom jeziku.
+        
+        Source sentence: New Horizons was written in English .
+        Subject translation: New Horizons
+        Object translation: engleski jezik
+        Translation: New Horizons je napisan na engleskom jeziku.
+        
+        Source sentence: Radio France Internationale was written in Russian .
+        Subject translation: Radio France internationale
+        Object translation: ruski jezik
+        Translation: Radio France internationale je napisan na ruskom jeziku.
+        
+        Source sentence: Pulp Fiction was written in English .
+        Subject translation: Pakleni šund
+        Object translation: engleski jezik
+        Translation: Pakleni šund je napisan na engleskom jeziku.
+        
+        Source sentence: Anna Karenina was written in Russian .
+        Subject translation: Ana Karenjina
+        Object translation: ruski jezik
+        Translation: Ana Karenjina je napisana na ruskom jeziku.
+       
+        Source sentence: Die Zeit was written in German .
+        Subject translation: Die Zeit
+        Object translation: njemački jezik
+        Translation: Die Zeit je napisan na njemačkom jeziku.
+        
+        Source sentence: Daniel was written in Hebrew .
+        Subject translation: Daniel
+        Object translation: hebrejski jezik
+        Translation: Daniel je napisan na hebrejskom jeziku.
+        
+        Source sentence: Inglourious Basterds was written in English .
+        Subject translation: Nemilosrdni gadovi
+        Object translation: engleski jezik
+        Translation: Nemilosrdni gadovi su napisani na engleskom jeziku.
+        
+        Source sentence: ciao was written in Italian .
+        Subject translation: Ciao
+        Object translation: talijanski jezik
+        Translation: Ciao je napisano na talijanskom jeziku.
+        

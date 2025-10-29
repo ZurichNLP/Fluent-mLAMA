@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The A-Team was originally aired on NBC .
+        Subject translation: Команда «А»
+        Object translation: NBC
+        Translation: Первоначально Команда «А» транслировась на канале NBC.
+        
+        Source sentence: Larry King Live was originally aired on CNN .
+        Subject translation: Шоу Ларри Кинга
+        Object translation: CNN
+        Translation: Первоначально Шоу Ларри Кинга транслировалось на канале CNN.
+        
+        Source sentence: Raw Toonage was originally aired on CBS .
+        Subject translation: Raw Toonage
+        Object translation: CBS
+        Translation: Первоначально Raw Toonage транслировался на канале CBS.
+        
+        Source sentence: Eurovision Song Contest 1960 was originally aired on British Broadcasting Corporation .
+        Subject translation: Евровидение-1960
+        Object translation: Би-би-си
+        Translation: Первоначально Евровидение-1960 транслировалось на Би-би-си.
+        
+        Source sentence: The Equalizer was originally aired on CBS .
+        Subject translation: Уравнитель
+        Object translation: CBS
+        Translation: Первоначально «Уравнитель» транслировался на канале CBS.
+        
+        Source sentence: Bubble Guppies was originally aired on Nickelodeon .
+        Subject translation: Гуппи и пузырьки
+        Object translation: Nickelodeon
+        Translation: Первоначально «Гуппи и пузырьки» транслировались на канале Nickelodeon.
+        
+        Source sentence: Gunpowder, Treason & Plot was originally aired on British Broadcasting Corporation .
+        Subject translation: Заговор против короны
+        Object translation: Би-би-си
+        Translation: Первоначально «Заговор против короны» транслировался на канале Би-би-си.
+        
+        Source sentence: The Osbournes was originally aired on MTV .
+        Subject translation: Семейка Осборнов
+        Object translation: MTV
+        Translation: Первоначально «Семейка Осборнов» транслировалась на канале MTV.
+        
+        Source sentence: Dora the Explorer was originally aired on Nickelodeon .
+        Subject translation: Даша-путешественница
+        Object translation: Nickelodeon
+        Translation: Первоначально «Даша-путешественница» транслировалась на канале Nickelodeon.
+        
+        Source sentence: Devious Maids was originally aired on Lifetime .
+        Subject translation: Коварные горничные
+        Object translation: Lifetime
+        Translation: Первоначально «Коварные горничные» транслировались на канале Lifetime.
+        
+        Source sentence: Victorious was originally aired on Nickelodeon .
+        Subject translation: Виктория-победительница
+        Object translation: Nickelodeon
+        Translation: Первоначально «Виктория-победительница» транслировалась на канале Nickelodeon.
+        
+        Source sentence: The Larry Sanders Show was originally aired on HBO .
+        Subject translation: Шоу Ларри Сандерса
+        Object translation: HBO
+        Translation: Первоначально Шоу Ларри Сандерса транслировалось на канале HBO.
+        
+        Source sentence: St. Elsewhere was originally aired on NBC .
+        Subject translation: Сент-Элсвер
+        Object translation: NBC
+        Translation: Первоначально Сент-Элсвер транслировался на канале NBC.
+        
+        Source sentence: Orange Is the New Black was originally aired on Netflix .
+        Subject translation: Оранжевый — хит сезона
+        Object translation: Netflix
+        Translation: Первоначально «Оранжевый — хит сезона» транслировался на Netflix.
+        
+        Source sentence: Human Weapon was originally aired on History .
+        Subject translation: Человек-оружие
+        Object translation: History Channel
+        Translation: Первоначально «Человек-оружие» транслировался на канале History.
+        
+        Source sentence: KaBlam! was originally aired on Nickelodeon .
+        Subject translation: КаБлам!
+        Object translation: Nickelodeon
+        Translation: Первоначально КаБлам! транслировался на канале Nickelodeon.
+        
+        Source sentence: Da Ali G Show was originally aired on HBO .
+        Subject translation: Шоу Али Джи
+        Object translation: HBO
+        Translation: Первоначально Шоу Али Джи транслировалось на канале HBO.
+        
+        Source sentence: True Blood was originally aired on HBO .
+        Subject translation: Настоящая кровь
+        Object translation: HBO
+        Translation: Первоначально «Настоящая кровь» транслировался на канале HBO.
+        
+        Source sentence: Eurovision Song Contest was originally aired on Eurovision .
+        Subject translation: Евровидение
+        Object translation: Евровидение
+        Translation: Первоначально «Евровидение» транслировалось на канале Евровидение.
+        
+        Source sentence: Bare Essence was originally aired on NBC .
+        Subject translation: Обнажённый аромат
+        Object translation: NBC
+        Translation: Первоначально Обнажённый аромат транслировался на канале NBC.
+        

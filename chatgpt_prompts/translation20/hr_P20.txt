@@ -1,0 +1,106 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Robert Browning died in Venice .
+        Subject translation: Robert Browning
+        Object translation: Venecija
+        Translation: Robert Browning je umro u Veneciji.
+        
+        Source sentence: Concha Espina died in Madrid .
+        Subject translation: Concha Espina
+        Object translation: Madrid
+        Translation: Concha Espina je umrla u Madridu.
+        
+        Source sentence: Salomon Munk died in Paris .
+        Subject translation: Salomon Munk
+        Object translation: Pariz
+        Translation: Salomon Munk je umro u Parizu.
+        
+        Source sentence: Penelope Rich, Lady Rich died in London .
+        Subject translation: Penelope Rich
+        Object translation: London
+        Translation: Penelope Rich je umrla u Londonu.
+        
+        Source sentence: Hans Scharoun died in Berlin .
+        Subject translation: Hans Scharoun
+        Object translation: Berlin
+        Translation: Hans Scharoun je umro u Berlinu.
+        
+        Source sentence: Nicholas V died in Rome .
+        Subject translation: Nikola V.
+        Object translation: Rim
+        Translation: Nikola V. je umro u Rimu.
+        
+        Source sentence: Charles Louis Alphonse Laveran died in Paris .
+        Subject translation: Charles Louis Alphonse Laveran
+        Object translation: Pariz
+        Translation: Charles Louis Alphonse Laveran je umro u Parizu.
+        
+        Source sentence: Aram Khachaturian died in Moscow .
+        Subject translation: Aram Hačaturjan
+        Object translation: Moskva
+        Translation: Aram Hačaturjan je umro u Moskvi.
+        
+        Source sentence: Montesquieu died in Paris .
+        Subject translation: Charles-Louis de Secondat Montesquieu
+        Object translation: Pariz
+        Translation: Charles-Louis de Secondat Montesquieu je umro u Parizu.
+        
+        Source sentence: Giovanni Pico della Mirandola died in Florence .
+        Subject translation: Giovanni Pico della Mirandola
+        Object translation: Firenca
+        Translation: Giovanni Pico della Mirandola je umro u Firenci.
+        
+        Source sentence: Louis Aragon died in Paris .
+        Subject translation: Louis Aragon
+        Object translation: Pariz
+        Translation: Louis Aragon je umro u Parizu.
+        
+        Source sentence: Hezekiah died in Jerusalem .
+        Subject translation: Ezekija
+        Object translation: Jeruzalem
+        Translation: Ezekija je umro u Jeruzalemu.
+        
+        Source sentence: Edward Gibbon Wakefield died in Wellington .
+        Subject translation: Edward Gibbon Wakefield
+        Object translation: Wellington
+        Translation: Edward Gibbon Wakefield je umro u Wellingtonu.
+        
+        Source sentence: Francesco Crispi died in Naples .
+        Subject translation: Francesco Crispi
+        Object translation: Napulj
+        Translation: Francesco Crispi je umro u Napulju.
+        
+        Source sentence: Elmer McCurdy died in Oklahoma .
+        Subject translation: Elmer McCurdy
+        Object translation: Oklahoma
+        Translation: Elmer McCurdy je umro u Oklahomi.
+        
+        Source sentence: Zarah Leander died in Stockholm .
+        Subject translation: Zarah Leander
+        Object translation: Stockholm
+        Translation: Zarah Leander je umrla u Stockholmu.
+        
+        Source sentence: Francisco Franco died in Madrid .
+        Subject translation: Francisco Franco
+        Object translation: Madrid
+        Translation: Francisco Franco je umro u Madridu.
+        
+        Source sentence: Anna Harrison died in Ohio .
+        Subject translation: Anna Harrison
+        Object translation: Ohio
+        Translation: Anna Harrison je umrla u Ohiju.
+        
+        Source sentence: Rosa Parks died in Detroit .
+        Subject translation: Rosa Parks
+        Object translation: Detroit, Michigan
+        Translation: Rosa Parks je umrla u Detroitu, Michigan.
+        
+        Source sentence: Sandro Botticelli died in Florence .
+        Subject translation: Sandro Botticelli
+        Object translation: Firenca
+        Translation: Sandro Botticelli je umro u Firenci.
+        

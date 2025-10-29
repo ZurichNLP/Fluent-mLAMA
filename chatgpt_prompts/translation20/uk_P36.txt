@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The capital of Dundee City is Dundee .
+        Subject translation: Данді
+        Object translation: Данді
+        Translation: Столиця Данді - Данді.
+        
+        Source sentence: The capital of Occitania is Toulouse .
+        Subject translation: Окситанія
+        Object translation: Тулуза
+        Translation: Столиця Окситанії - Тулуза.
+        
+        Source sentence: The capital of Erivan Governorate is Yerevan .
+        Subject translation: Еріванська губернія
+        Object translation: Єреван
+        Translation: Столиця Ериванської губернії - Єреван.
+        
+        Source sentence: The capital of Ravalli County is Hamilton .
+        Subject translation: Раваллі
+        Object translation: Гамільтон
+        Translation: Столиця Раваллі - Гамільтон.
+        
+        Source sentence: The capital of Flanders is Brussels .
+        Subject translation: Фландрія
+        Object translation: Брюссель
+        Translation: Столиця Фландрії - Брюссель.
+        
+        Source sentence: The capital of Lazio is Rome .
+        Subject translation: Лаціо
+        Object translation: Рим
+        Translation: Столиця Лаціо - Рим.
+        
+        Source sentence: The capital of Azerbaijan Soviet Socialist Republic is Baku .
+        Subject translation: Азербайджанська Радянська Соціалістична Республіка
+        Object translation: Баку
+        Translation: Столиця Азербайджанської Радянської Соціалістичної Республіки - Баку.
+        
+        Source sentence: The capital of Rhein-Neckar is Heidelberg .
+        Subject translation: Рейн-Неккар
+        Object translation: Гайдельберг
+        Translation: Столиця Рейн-Неккара - Гайдельберг.
+        
+        Source sentence: The capital of Ouachita Parish is Monroe .
+        Subject translation: Вачіта
+        Object translation: Монро
+        Translation: Столиця Вачіти - Монро.
+        
+        Source sentence: The capital of Grand Casablanca is Casablanca .
+        Subject translation: Велика Касабланка
+        Object translation: Касабланка
+        Translation: Столиця Великої Касабланки - Касабланка.
+        
+        Source sentence: The capital of McCone County is Circle .
+        Subject translation: Маккоун
+        Object translation: Серкел
+        Translation: Столиця Маккоуну - Серкел.
+        
+        Source sentence: The capital of Turkey is Ankara .
+        Subject translation: Туреччина
+        Object translation: Анкара
+        Translation: Столиця Туреччини - Анкара.
+        
+        Source sentence: The capital of Royal Borough of Kensington and Chelsea is Kensington .
+        Subject translation: Кенсінгтон і Челсі
+        Object translation: Кенсінгтон
+        Translation: Столиця Кенсінгтона і Челсі - Кенсінгтон.
+        
+        Source sentence: The capital of Straits Settlements is Singapore .
+        Subject translation: Стрейтс-Сетлментс
+        Object translation: Сінгапур
+        Translation: Столиця Стрейтс-Сетлментс - Сінгапур.
+        
+        Source sentence: The capital of Bourbon Restoration is Paris .
+        Subject translation: Реставрація Бурбонів
+        Object translation: Париж
+        Translation: Столиця реставрації Бурбонів - Париж.
+        
+        Source sentence: The capital of Shropshire is Shrewsbury .
+        Subject translation: Шропшир
+        Object translation: Шрусбері
+        Translation: Столиця Шропширу - Шрусбері.
+        
+        Source sentence: The capital of Texas is Austin .
+        Subject translation: Техас
+        Object translation: Остін
+        Translation: Столиця Техасу - Остін.
+        
+        Source sentence: The capital of Caddo Parish is Shreveport .
+        Subject translation: Каддо
+        Object translation: Шривпорт
+        Translation: Столиця Каддо - Шривпорт.
+        
+        Source sentence: The capital of East Pakistan is Dhaka .
+        Subject translation: Східний Пакистан
+        Object translation: Дакка
+        Translation: Столиця Східного Пакистану - Дакка.
+        
+        Source sentence: The capital of Bosnia and Herzegovina is Sarajevo .
+        Subject translation: Боснія і Герцеговина
+        Object translation: Сараєво
+        Translation: Столиця Боснії і Герцеговини - Сараєво.
+        

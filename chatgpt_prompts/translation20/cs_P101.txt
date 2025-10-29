@@ -1,0 +1,106 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Liutprand of Cremona works in the field of diplomat .
+        Subject translation: Liutprand z Cremony
+        Object translation: diplomat
+        Translation: Liutprand z Cremony pracuje v oblasti diplomacie.
+        
+        Source sentence: Leonard Bloomfield works in the field of linguistics .
+        Subject translation: Leonard Bloomfield
+        Object translation: lingvistika
+        Translation: Leonard Bloomfield pracuje v oblasti lingvistiky.
+        
+        Source sentence: Ludwig von Mises works in the field of economics .
+        Subject translation: Ludwig von Mises
+        Object translation: ekonomie
+        Translation: Ludwig von Mises pracuje v oblasti ekonomie.
+        
+        Source sentence: Ptolemy works in the field of mathematician .
+        Subject translation: Klaudios Ptolemaios
+        Object translation: matematik
+        Translation: Klaudios Ptolemaios pracuje v oblasti matematiky.
+        
+        Source sentence: Willem Piso works in the field of physician .
+        Subject translation: Willem Piso
+        Object translation: lékař
+        Translation:  Willem Piso pracuje v oblasti lékařství.
+        
+        Source sentence: G. Stanley Hall works in the field of psychology .
+        Subject translation: Granville Stanley Hall
+        Object translation: psychologie
+        Translation: Granville Stanley Hall pracuje v oblasti psychologie.
+        
+        Source sentence: Ewald Hering works in the field of physiology .
+        Subject translation: Ewald Hering
+        Object translation: fyziologie
+        Translation: Ewald Hering pracuje v oblasti fyziologie.
+        
+        Source sentence: Brian De Palma works in the field of film .
+        Subject translation: Brian De Palma
+        Object translation: film
+        Translation: Brian De Palma pracuje v oblasti filmů.
+        
+        Source sentence: Abraham bar Hiyya works in the field of astronomy .
+        Subject translation: Avraham bar Chija
+        Object translation: astronomie
+        Translation: Avraham bar Chija pracuje v oblasti astronomie.
+        
+        Source sentence: Michael Faraday works in the field of physics .
+        Subject translation: Michael Faraday
+        Object translation: fyzika
+        Translation: Michael Faraday pracuje v oblasti fyziky.
+        
+        Source sentence: Zahi Hawass works in the field of archaeology .
+        Subject translation: Zahi Hawass
+        Object translation: archeologie
+        Translation: Zahi Hawass pracuje v oblasti archeologie.
+        
+        Source sentence: Isaac Barrow works in the field of mathematics .
+        Subject translation: Isaac Barrow
+        Object translation: matematika
+        Translation: Isaac Barrow pracuje v oblasti matematiky.
+        
+        Source sentence: Guo Moruo works in the field of history .
+        Subject translation: Kuo Mo-žo
+        Object translation: dějiny
+        Translation: Kuo Mo-žo pracuje v oblasti dějin.
+        
+        Source sentence: Otto Neurath works in the field of sociology .
+        Subject translation: Otto Neurath
+        Object translation: sociologie
+        Translation: Otto Neurath pracuje v oblasti sociologie.
+        
+        Source sentence: William Somerset Maugham works in the field of novelist .
+        Subject translation: William Somerset Maugham
+        Object translation: romanopisec
+        Translation: William Somerset Maugham pracuje v oblasti romanopisectví.
+        
+        Source sentence: Jan Baudouin de Courtenay works in the field of linguistics .
+        Subject translation: Jan Niecisław Baudouin de Courtenay
+        Object translation: lingvistika
+        Translation: Jan Niecisław Baudouin de Courtenay pracuje v oblasti lingvistiky.
+        
+        Source sentence: Galen works in the field of medicine .
+        Subject translation: Galén
+        Object translation: lékařství
+        Translation: Galén pracuje v oblasti lékařství.
+        
+        Source sentence: Isaac Barrow works in the field of theology .
+        Subject translation: Isaac Barrow
+        Object translation: teologie
+        Translation: Isaac Barrow pracuje v oblasti teologie.
+        
+        Source sentence: Charles Proteus Steinmetz works in the field of mathematician .
+        Subject translation: Charles Proteus Steinmetz
+        Object translation: matematik
+        Translation: Charles Proteus Steinmetz pracuje v oblasti matematiky.
+        
+        Source sentence: Yana Toboso works in the field of manga .
+        Subject translation: Jana Toboso
+        Object translation: manga
+        Translation: Jana Toboso pracuje v oblasti mangy.
+        

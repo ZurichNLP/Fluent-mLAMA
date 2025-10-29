@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Max Weber works in the field of history .
+        Subject translation: Макс Вебер
+        Object translation: история
+        Translation: Макс Вебер работает в области истории.
+        
+        Source sentence: Steve Biko works in the field of apartheid .
+        Subject translation: Стив Бико
+        Object translation: апартеид
+        Translation: Стив Бико работает в области апартеида.
+        
+        Source sentence: Ivan Sechenov works in the field of physiology .
+        Subject translation: Сеченов, Иван Михайлович
+        Object translation: физиология
+        Translation: Сеченов, Иван Михайлович работает в области физиологии.
+        
+        Source sentence: Joseph Diez Gergonne works in the field of geometry .
+        Subject translation: Жергонн, Жозеф Диас
+        Object translation: геометрия
+        Translation: Жергонн, Жозеф Диас работает в области геометрии.
+        
+        Source sentence: Alexandre Darracq works in the field of motor car .
+        Subject translation: Даррак, Александр
+        Object translation: автомобиль
+        Translation: Даррак, Александр работает в сфере автомобилей.
+        
+        Source sentence: Anti-Oedipus works in the field of philosophy .
+        Subject translation: Анти-Эдип
+        Object translation: философия
+        Translation: «Анти-Эдип» работает в области философии.
+        
+        Source sentence: Robert Lee Moore works in the field of topology .
+        Subject translation: Роберт Ли Мур
+        Object translation: топология
+        Translation: Роберт Ли Мур работает в области топологии.
+        
+        Source sentence: Alfred L. Kroeber works in the field of anthropology .
+        Subject translation: Алфред Луис Крёбер
+        Object translation: антропология
+        Translation: Алфред Луис Крёбер работает в области антропологии.
+        
+        Source sentence: Vilhelm Thomsen works in the field of linguistics .
+        Subject translation: Томсен, Вильгельм
+        Object translation: лингвистика
+        Translation: Томсен, Вильгельм работает в области лингвистики.
+        
+        Source sentence: Hjalmar Mellin works in the field of mathematics .
+        Subject translation: Меллин, Ялмар
+        Object translation: математика
+        Translation: Меллин, Ялмар работает в области математики.
+        
+        Source sentence: Svante August Arrhenius works in the field of chemistry .
+        Subject translation: Сванте Август Аррениус
+        Object translation: химия
+        Translation: Сванте Август Аррениус работает в области химии.
+        
+        Source sentence: Walter Bradford Cannon works in the field of physiology .
+        Subject translation: Уолтер Брэдфорд Кеннон
+        Object translation: физиология
+        Translation: Уолтер Брэдфорд Кеннон работает в области физиологии.
+        
+        Source sentence: Jeremiah Horrocks works in the field of astronomy .
+        Subject translation: Хоррокс, Джереми
+        Object translation: астрономия
+        Translation: Хоррокс, Джереми работает в области астрономии.
+        
+        Source sentence: European Physical Journal works in the field of physics .
+        Subject translation: European Physical Journal
+        Object translation: физика
+        Translation: European Physical Journal работает в области физики.
+        
+        Source sentence: Archibald Hill works in the field of physiology .
+        Subject translation: Хилл, Арчибалд
+        Object translation: физиология
+        Translation: Хилл, Арчибалд работает в области физиологии.
+        
+        Source sentence: Hans Eysenck works in the field of psychology .
+        Subject translation: Ганс Юрген Айзенк
+        Object translation: психология
+        Translation: Ганс Юрген Айзенк работает в области психологии.
+        
+        Source sentence: Petrus Camper works in the field of anatomy .
+        Subject translation: Петрус Кампер
+        Object translation: анатомия
+        Translation: Петрус Кампер работает в области анатомии.
+        
+        Source sentence: Enrico Fermi works in the field of physics .
+        Subject translation: Энрико Ферми
+        Object translation: физика
+        Translation: Энрико Ферми работает в области физики.
+        
+        Source sentence: Jean Baptiste Julien d'Omalius d'Halloy works in the field of geology .
+        Subject translation: Омалиус д'Аллуа, Жан Батист Жюльен
+        Object translation: геология
+        Translation: Омалиус д'Аллуа, Жан Батист Жюльен работает в области геологии.
+        
+        Source sentence: Abba Arika works in the field of Talmud .
+        Subject translation: Рав (Амора)
+        Object translation: Талмуд
+        Translation: Рав (Амора) работает в области Талмуда.
+        

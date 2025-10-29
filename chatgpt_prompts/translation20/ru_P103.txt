@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The native language of Maurice Clavel is French .
+        Subject translation: Морис Клавель
+        Object translation: французский язык
+        Translation: Родной язык Мориса Клавеля - французский.
+        
+        Source sentence: The native language of Emil Cioran is Romanian .
+        Subject translation: Чоран, Эмиль Мишель
+        Object translation: румынский язык
+        Translation: Родной языка Чорана, Эмиля Мишеля - румынский.
+        
+        Source sentence: The native language of Aagje Deken is Dutch .
+        Subject translation: Декен, Агье
+        Object translation: нидерландский язык
+        Translation: Родной язык Декен, Агье - нидерландский.
+        
+        Source sentence: The native language of Seamus Heaney is English .
+        Subject translation: Шеймас Хини
+        Object translation: английский язык
+        Translation: Родной язык Шеймаса Хини - английский.
+        
+        Source sentence: The native language of Mithat Bayrak is Turkish .
+        Subject translation: Митхат Байрак
+        Object translation: турецкий язык
+        Translation: Родной язык Митхата Байрака - турецкий.
+        
+        Source sentence: The native language of Omar Sy is French .
+        Subject translation: Омар Си
+        Object translation: французский язык
+        Translation: Родной язык Омара Си - французский.
+        
+        Source sentence: The native language of Andy Lau is Cantonese .
+        Subject translation: Лау, Энди
+        Object translation: кантонский диалект
+        Translation: Родной язык Лау, Энди - кантонский диалект.
+        
+        Source sentence: The native language of Vera Brezhneva is Russian .
+        Subject translation: Вера Брежнева
+        Object translation: русский язык
+        Translation: Родной язык Веры Брежневой - русский.
+        
+        Source sentence: The native language of Nicholas Marr is Russian .
+        Subject translation: Николай Яковлевич Марр
+        Object translation: русский язык
+        Translation: Родной язык Николая Яковлевича Марра - русский.
+        
+        Source sentence: The native language of Mahesh Babu is Telugu .
+        Subject translation: Махеш Бабу
+        Object translation: телугу
+        Translation: Родной язык Махеша Бабу - телугу.
+        
+        Source sentence: The native language of Bernadette Lafont is French .
+        Subject translation: Бернадетт Лафон
+        Object translation: французский язык
+        Translation: Родной язык Бернадетт Лафон - французский.
+        
+        Source sentence: The native language of Oleg Kotov is Russian .
+        Subject translation: Котов, Олег Валериевич
+        Object translation: русский язык
+        Translation: Родной язык Котова, Олега Валериевича - русский.
+        
+        Source sentence: The native language of Anastasy Vonsyatsky is Russian .
+        Subject translation: Анастасий Андреевич Вонсяцкий
+        Object translation: русский язык
+        Translation: Родной язык Анастасия Андреевича Вонсяцкого - русский.
+        
+        Source sentence: The native language of Michel Camdessus is French .
+        Subject translation: Камдессю, Мишель
+        Object translation: французский язык
+        Translation: Родной язык Камдессю, Мишеля - французский.
+        
+        Source sentence: The native language of Franz Roubaud is Russian .
+        Subject translation: Франц Алексеевич Рубо
+        Object translation: русский язык
+        Translation: Родной язык Франца Алексеевича Рубо - русский.
+        
+        Source sentence: The native language of Ingrian Finns is Finnish .
+        Subject translation: Ингерманландцы
+        Object translation: финский язык
+        Translation: Родной язык ингерманландцев - финский.
+        
+        Source sentence: The native language of Skolts is Russian .
+        Subject translation: сколты
+        Object translation: русский язык
+        Translation: Родной язык сколтов - русский.
+        
+        Source sentence: The native language of Dino Dvornik is Croatian .
+        Subject translation: Дино Дворник
+        Object translation: хорватский язык
+        Translation: Родной язык Дино Дворника - хорватский.
+        
+        Source sentence: The native language of Mohanlal is Malayalam .
+        Subject translation: Моханлал
+        Object translation: малаялам
+        Translation: Родной язык Моханлала - малаялам.
+        
+        Source sentence: The native language of Nadezhda Krupskaya is Russian .
+        Subject translation: Надежда Константиновна Крупская
+        Object translation: русский язык
+        Translation: Родной язык Надежды Константиновны Крупской - русский.
+        

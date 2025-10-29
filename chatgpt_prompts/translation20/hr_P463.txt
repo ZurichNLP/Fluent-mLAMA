@@ -1,0 +1,107 @@
+
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Poland is a member of UNESCO .
+        Subject translation: Poljska
+        Object translation: UNESCO
+        Translation: Poljska je članica UNESCO-a.
+        
+        Source sentence: Don Henley is a member of Eagles .
+        Subject translation: Don Henley
+        Object translation: Eagles
+        Translation: Don Henley je član Eaglesa.
+        
+        Source sentence: Poland is a member of NATO .
+        Subject translation: Poljska
+        Object translation: NATO
+        Translation: Poljska je članica NATO-a.
+        
+        Source sentence: Italy national association football team is a member of FIFA .
+        Subject translation: Talijanska nogometna reprezentacija
+        Object translation: FIFA
+        Translation: Talijanska nogometna reprezentacija je članica FIFA-e.
+        
+        Source sentence: Bulgarian Football Union is a member of FIFA .
+        Subject translation: Bugarski nogometni savez
+        Object translation: FIFA
+        Translation: Bugarski nogometni savez je član FIFA-e.
+        
+        Source sentence: Netherlands is a member of UNESCO .
+        Subject translation: Nizozemska
+        Object translation: UNESCO
+        Translation: Nizozemska je članica UNESCO-a.
+        
+        Source sentence: North Korea is a member of UNESCO .
+        Subject translation: Sjeverna Koreja
+        Object translation: UNESCO
+        Translation: Sjeverna Koreja je članica UNESCO-a.
+        
+        Source sentence: Football Association of the Czech Republic is a member of FIFA .
+        Subject translation: Češki nogometni savez
+        Object translation: FIFA
+        Translation: Češki nogometni savez je član FIFA-e.
+        
+        Source sentence: Croatian Football Federation is a member of FIFA .
+        Subject translation: Hrvatski nogometni savez
+        Object translation: FIFA
+        Translation: Hrvatski nogometni savez je član FIFA-e.
+        
+        Source sentence: Tom Araya is a member of Slayer .
+        Subject translation: Tom Araya
+        Object translation: Slayer
+        Translation: Tom Araya je član Slayera.
+        
+        Source sentence: Cyprus Football Association is a member of FIFA .
+        Subject translation: Ciparski nogometni savez
+        Object translation: FIFA
+        Translation: Ciparski nogometni savez je član FIFA-e.
+        
+        Source sentence: Faroe Islands Football Association is a member of FIFA .
+        Subject translation: Nogometni savez Farskih Otoka
+        Object translation: FIFA
+        Translation: Nogometni savez Farskih Otoka je član FIFA-e.
+        
+        Source sentence: Turkey is a member of NATO .
+        Subject translation: Turska
+        Object translation: NATO
+        Translation: Turska je članica NATO-a.
+        
+        Source sentence: Estonian Football Association is a member of FIFA .
+        Subject translation: Estonski nogometni savez
+        Object translation: FIFA
+        Translation: Estonski nogometni savez je član FIFA-e.
+        
+        Source sentence: Brazilian Football Confederation is a member of FIFA .
+        Subject translation: Brazilski nogometni savez
+        Object translation: FIFA
+        Translation: Brazilski nogometni savez je član FIFA-e.
+        
+        Source sentence: Bono is a member of U2 .
+        Subject translation: Bono
+        Object translation: U2
+        Translation: Bono je član U2.
+        
+        Source sentence: Albanian Football Association is a member of FIFA .
+        Subject translation: Albanski nogometni savez
+        Object translation: FIFA
+        Translation: Albanski nogometni savez je član FIFA-e.
+        
+        Source sentence: Albania is a member of NATO .
+        Subject translation: Albanija
+        Object translation: NATO
+        Translation: Albanija je članica NATO-a.
+        
+        Source sentence: Saudi Arabia Football Federation is a member of FIFA .
+        Subject translation: Nogometni savez Saudijske Arabije
+        Object translation: FIFA
+        Translation:  Nogometni savez Saudijske Arabije je član FIFA-e.
+        
+        Source sentence: Iron Man is a member of Avengers .
+        Subject translation: Iron Man
+        Object translation: Osvetnici
+        Translation: Iron Man je član Osvetnika.
+        

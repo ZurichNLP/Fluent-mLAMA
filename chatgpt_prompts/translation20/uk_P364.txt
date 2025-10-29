@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The original language of Hollyoaks is English .
+        Subject translation: Голіокс
+        Object translation: англійська мова
+        Translation: Оригінальна мова Голіоксу — англійська.
+        
+        Source sentence: The original language of The Decameron is Italian .
+        Subject translation: Декамерон
+        Object translation: італійська мова
+        Translation: Оригінальна мова Декамерону — італійська.
+        
+        Source sentence: The original language of Your Highness is English .
+        Subject translation: Хоробрі перцем
+        Object translation: англійська мова
+        Translation: Оригінальна мова Хоробрих перцем – англійська.
+        
+        Source sentence: The original language of De re metallica is Latin .
+        Subject translation: De Re Metallica
+        Object translation: латинська мова
+        Translation: Оригінальна мова De Re Metallica — латинська.
+        
+        Source sentence: The original language of Life Is a Miracle is Serbian .
+        Subject translation: Життя як диво
+        Object translation: сербська мова
+        Translation: Оригінальна мова «Життя як диво» — сербська.
+        
+        Source sentence: The original language of Delusions of Grandeur is French .
+        Subject translation: Манія величі (фільм)
+        Object translation: французька мова
+        Translation: Оригінальна мова Манії величі (фільму) — французька.
+        
+        Source sentence: The original language of Kavkaz Center is Russian .
+        Subject translation: Kavkaz Center
+        Object translation: російська мова
+        Translation: Оригінальна мова Kavkaz Center — російська.
+        
+        Source sentence: The original language of Ong-Bak: Muay Thai Warrior is Thai .
+        Subject translation: Онг бак
+        Object translation: тайська мова
+        Translation: Оригінальна мова Онг бак — тайська.
+        
+        Source sentence: The original language of Manfred is English .
+        Subject translation: Манфред
+        Object translation: англійська мова
+        Translation: Оригінальна мова Манфреда — англійська.
+        
+        Source sentence: The original language of Le clan des siciliens is Italian .
+        Subject translation: Сицилійський клан
+        Object translation: італійська мова
+        Translation: Оригінальна мова Сицилійського клану — італійська.
+        
+        Source sentence: The original language of Life is a Dream is Spanish .
+        Subject translation: Життя — це сон
+        Object translation: іспанська мова
+        Translation: Оригінальна мова «Життя — це сон» — іспанська.
+        
+        Source sentence: The original language of True Romance is English .
+        Subject translation: Справжнє кохання
+        Object translation: англійська мова
+        Translation: Оригінальна мова Справжнього кохання — англійська.
+        
+        Source sentence: The original language of Law of Desire is Spanish .
+        Subject translation: Закон бажання
+        Object translation: іспанська мова
+        Translation: Оригінальна мова Закону бажання — іспанська.
+        
+        Source sentence: The original language of The Crime of Father Amaro is Spanish .
+        Subject translation: Злочин падре Амаро
+        Object translation: іспанська мова
+        Translation: Оригінальна мова Злочину падре Амаро — іспанська.
+        
+        Source sentence: The original language of The Hitman is English .
+        Subject translation: Ліквідатор (фільм)
+        Object translation: англійська мова
+        Translation: Оригінальна мова Ліквідатора (фільму) — англійська.
+        
+        Source sentence: The original language of Zero Motivation is Hebrew .
+        Subject translation: Мотивації нуль
+        Object translation: іврит
+        Translation: Оригінальна мова Мотивації нуль — іврит.
+        
+        Source sentence: The original language of Metro 2033 is Russian .
+        Subject translation: Метро 2033
+        Object translation: російська мова
+        Translation: Оригінальна мова Метро 2033 — російська.
+        
+        Source sentence: The original language of Khottabych is Russian .
+        Subject translation: Хоттабич
+        Object translation: російська мова
+        Translation: Оригінальна мова Хоттабича — російська.
+        
+        Source sentence: The original language of A Fish Called Wanda is English .
+        Subject translation: Рибка на ім'я Ванда
+        Object translation: англійська мова
+        Translation: Оригінальна мова Рибки на ім'я Ванда — англійська.
+        
+        Source sentence: The original language of Well, Just You Wait! is Russian .
+        Subject translation: Ну, постривай!
+        Object translation: російська мова
+        Translation: Оригінальна мова «Ну, постривай!» — російська.
+        

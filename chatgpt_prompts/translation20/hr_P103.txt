@@ -1,0 +1,110 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The native language of Pablo Picasso is Spanish .
+        Subject translation: Pablo Picasso
+        Object translation: španjolski jezik
+        Translation: Maternji jezik Pabla Picassa je španjolski.
+        
+        Source sentence: The native language of Peter Kropotkin is Russian .
+        Subject translation: Petr Kropotkin
+        Object translation: ruski jezik
+        Translation: Maternji jezik Petra Kropotkina je ruski.
+        
+        Source sentence: The native language of Christine Albanel is French .
+        Subject translation: Christine Albanel
+        Object translation: francuski jezik
+        Translation: Maternji jezik Christine Albanel je francuski.
+        
+        Source sentence: The native language of Vera Lynn is English .
+        Subject translation: Vera Lynn
+        Object translation: engleski jezik
+        Translation: Maternji jezik Vere Lynn je engleski.
+        
+        Source sentence: The native language of Giovanni Boccaccio is Italian .
+        Subject translation: Giovanni Boccaccio
+        Object translation: talijanski jezik
+        Translation: Maternji jezik Giovannija Boccaccia je talijanski.
+        
+        Source sentence: The native language of Hugo von Hofmannsthal is German .
+        Subject translation: Hugo von Hofmannsthal
+        Object translation: njemački jezik
+        Translation: Maternji jezik Huga von Hofmannsthala je njemački.
+        
+        Source sentence: The native language of Anatole France is French .
+        Subject translation: Anatole France
+        Object translation: francuski jezik
+        Translation: Maternji jezik Anatolea Francea je francuski.
+        
+        Source sentence: The native language of Anna Kournikova is Russian .
+        Subject translation: Ana Kurnjikova
+        Object translation: ruski jezik
+        Translation: Maternji jezik Ane Kurnjikove je ruski.
+        
+        Source sentence: The native language of Jaak Aaviksoo is Estonian .
+        Subject translation: Jaak Aaviksoo
+        Object translation: Estonski jezik
+        Translation: Maternji jezik Jaaka Aaviksooa je estonski.
+        
+        Source sentence: The native language of Ehud Olmert is Hebrew .
+        Subject translation: Ehud Olmert
+        Object translation: hebrejski jezik
+        Translation: Maternji jezik Ehuda Olmerta je hebrejski.
+        
+        Source sentence: The native language of Jean-Marie Le Pen is French .
+        Subject translation: Jean-Marie Le Pen
+        Object translation: francuski jezik
+        Translation: Maternji jezik Jean-Marie Le Pena je francuski.
+        
+        Source sentence: The native language of Jules Barbier is French .
+        Subject translation: Jules Barbier
+        Object translation: francuski jezik
+        Translation: Maternji jezik Julesa Barbiera je francuski.
+        
+        Source sentence: The native language of Jan Peter Balkenende is Dutch .
+        Subject translation: Jan Peter Balkenende
+        Object translation: Nizozemski jezik
+        Translation: Maternji jezik Jana Petera Balkenendea je nizozemski.
+        
+        Source sentence: The native language of Paul Morand is French .
+        Subject translation: Paul Morand
+        Object translation: francuski jezik
+        Translation: Maternji jezik Paula Moranda je francuski.
+        
+        Source sentence: The native language of Laurent Fabius is French .
+        Subject translation: Laurent Fabius
+        Object translation: francuski jezik
+        Translation: Maternji jezik Laurenta Fabiusa je francuski.
+        
+        Source sentence: The native language of Paul Verhoeven is Dutch .
+        Subject translation: Paul Verhoeven
+        Object translation: Nizozemski jezik
+        Translation: Maternji jezik Paula Verhoevena je nizozemski.
+        
+        Source sentence: The native language of Josiane Balasko is French .
+        Subject translation: Josiane Balasko
+        Object translation: francuski jezik
+        Translation: Maternji jezik Josiane Balasko je francuski.
+        
+        Source sentence: The native language of Michele Bartoli is Italian .
+        Subject translation: Michele Bartoli
+        Object translation: talijanski jezik
+        Translation: Maternji jezik Michelea Bartolija je talijanski.
+        
+        Source sentence: The native language of Basshunter is Swedish .
+        Subject translation: Basshunter
+        Object translation: Švedski jezik
+        Translation: Maternji jezik Basshuntera je švedski.
+        
+        Source sentence: The native language of Virgil is Latin .
+        Subject translation: Publije Vergilije Maron
+        Object translation: latinski jezik
+        Translation: Materinji jezik Publija Vergilija Marona je latinski .
+        
+        Source sentence: The native language of Russians is Russian .
+        Subject translation: Rusi
+        Object translation: ruski jezik
+        Translation: Maternji jezik Rusa je ruski.

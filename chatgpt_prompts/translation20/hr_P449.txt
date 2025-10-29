@@ -1,0 +1,72 @@
+
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Eurovision Song Contest 1960 was originally aired on British Broadcasting Corporation .
+        Subject translation: Pjesma Eurovizije 1960.
+        Object translation: BBC
+        Translation: Pjesma Eurovizije 1960. je izvorno emitirana na British Broadcasting Corporationu.
+        
+        Source sentence: How I Met Your Mother was originally aired on CBS .
+        Subject translation: Kako sam upoznao vašu majku
+        Object translation: CBS
+        Translation: Kako sam upoznao vašu majku je izvorno emitirana na CBS-u.
+        
+        Source sentence: iCarly was originally aired on Nickelodeon .
+        Subject translation: ICarly
+        Object translation: Nickelodeon TV
+        Translation: ICarly je izvorno emitirana na Nickelodeon TV-u.
+        
+        Source sentence: The Golden Girls was originally aired on NBC .
+        Subject translation: Zlatne djevojke
+        Object translation: NBC
+        Translation: Zlatne djevojke su izvorno emitirane na NBC-u.
+        
+        Source sentence: The Fairly OddParents was originally aired on Nickelodeon .
+        Subject translation: Čudnovili Roditelji
+        Object translation: Nickelodeon TV
+        Translation: Čudnovili Roditelji su izvorno emitirani na Nickelodeon TV-u.
+        
+        Source sentence: True Detective was originally aired on HBO .
+        Subject translation: Pravi detektiv
+        Object translation: HBO
+        Translation: Pravi detektiv je izvorno emitiran na HBO-u.
+        
+        Source sentence: SeaQuest DSV was originally aired on NBC .
+        Subject translation: SeaQuest DSV
+        Object translation: NBC
+        Translation: SeaQuest DSV je izvorno emitiran na NBC-u.
+        
+        Source sentence: The Biskitts was originally aired on CBS .
+        Subject translation: Bipsići
+        Object translation: CBS
+        Translation: Bipsići su izvorno emitirani na CBS-u.
+        
+        Source sentence: The Mentalist was originally aired on CBS .
+        Subject translation: Mentalist
+        Object translation: CBS
+        Translation: Mentalist je izvorno emitiran na CBS-u.
+        
+        Source sentence: Miami Vice was originally aired on NBC .
+        Subject translation: Poroci Miamija
+        Object translation: NBC
+        Translation: Poroci Miamija su izvorno emitirani na NBC-u.
+        
+        Source sentence: Michael Shayne was originally aired on NBC .
+        Subject translation: Michael Shayne
+        Object translation: NBC
+        Translation: Michael Shayne je izvorno emitiran na NBC-u.
+        
+        Source sentence: Unsolved Mysteries was originally aired on NBC .
+        Subject translation: Neriješene misterije
+        Object translation: NBC
+        Translation: Neriješene misterije su izvorno emitirane na NBC-u.
+        
+        Source sentence: Wonder Pets! was originally aired on Nickelodeon .
+        Subject translation: Wonder Pets!
+        Object translation: Nickelodeon TV
+        Translation: Wonder Pets! je izvorno emitiran na Nickelodeon TV-u.
+        

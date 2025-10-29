@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Gene Amdahl works for IBM .
+        Subject translation: Джин Амдал
+        Object translation: IBM
+        Translation: Джин Амдал працює в IBM.
+        
+        Source sentence: Steve Cram works for British Broadcasting Corporation .
+        Subject translation: Стів Крем
+        Object translation: BBC
+        Translation: Стів Крем працює в BBC.
+        
+        Source sentence: Chris Cuomo works for CNN .
+        Subject translation: Кріс Куомо
+        Object translation: Сі-Ен-Ен
+        Translation: Кріс Куомо працює на Сі-Ен-Ен.
+        
+        Source sentence: Delia Derbyshire works for British Broadcasting Corporation .
+        Subject translation: Делія Дербішир
+        Object translation: BBC
+        Translation: Делія Дербішир працює в BBC.
+        
+        Source sentence: Peter Simon Pallas works for Russia .
+        Subject translation: Петер-Симон Паллас
+        Object translation: Росія
+        Translation: Петер-Симон Паллас працює в Росії.
+        
+        Source sentence: Phil Knight works for Nike .
+        Subject translation: Філ Найт
+        Object translation: Найк
+        Translation: Філ Найт працює в Найк.
+        
+        Source sentence: Gerd Binnig works for IBM .
+        Subject translation: Ґерд Бінніґ
+        Object translation: IBM
+        Translation: Ґерд Бінніґ працює в IBM.
+        
+        Source sentence: Satya Nadella works for Microsoft .
+        Subject translation: Сатья Наделла
+        Object translation: Microsoft
+        Translation: Сатья Наделла працює в Microsoft.
+        
+        Source sentence: Don Coppersmith works for IBM .
+        Subject translation: Дон Копперсміт
+        Object translation: IBM
+        Translation: Дон Копперсміт працює в IBM.
+        
+        Source sentence: Charles Simonyi works for Microsoft .
+        Subject translation: Чарльз Симоні
+        Object translation: Microsoft
+        Translation: Чарльз Сімоні працює в Microsoft.
+        
+        Source sentence: Daniel Filipacchi works for Elle .
+        Subject translation: Даніел Філіпаччі
+        Object translation: Elle
+        Translation: Даніел Філіпаччі працює в Elle.
+        
+        Source sentence: Paddy Lowe works for Mercedes .
+        Subject translation: Педді Лоу
+        Object translation: Мерседес
+        Translation: Педді Лоу працює в Мерседесі.
+        
+        Source sentence: Triple H works for WWE .
+        Subject translation: Тріпл Ейч
+        Object translation: WWE
+        Translation: Тріпл Ейч працює в WWE.
+        
+        Source sentence: Martin M. Wattenberg works for IBM .
+        Subject translation: Мартін М. Ваттенберг
+        Object translation: IBM
+        Translation: Мартін М. Ваттенберг працює в IBM.
+        
+        Source sentence: Stephen Fry works for British Broadcasting Corporation .
+        Subject translation: Стівен Фрай
+        Object translation: BBC
+        Translation: Стівен Фрай працює в BBC.
+        
+        Source sentence: Ginni Rometty works for IBM .
+        Subject translation: Вірджинія Рометті
+        Object translation: IBM
+        Translation: Вірджинія Рометті працює в IBM.
+        
+        Source sentence: Marissa Mayer works for Google .
+        Subject translation: Марісса Маєр
+        Object translation: Google
+        Translation: Марісса Маєр працює в Google.
+        
+        Source sentence: Bill Gates works for Microsoft .
+        Subject translation: Білл Гейтс
+        Object translation: Microsoft
+        Translation: Білл Гейтс працює в Microsoft.
+        
+        Source sentence: Thomas J. Watson works for IBM .
+        Subject translation: Томас Вотсон
+        Object translation: IBM
+        Translation: Томас Вотсон працює в IBM.
+        
+        Source sentence: Guy Kawasaki works for Forbes .
+        Subject translation: Гай Кавасакі
+        Object translation: Forbes
+        Translation: Гай Кавасакі працює у Forbes.
+        

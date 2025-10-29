@@ -1,0 +1,111 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Bee Gees was founded in Manchester .
+        Subject translation: Bee Gees
+        Object translation: Манчестер
+        Translation: Bee Gees была основана в Манчестере.
+        
+        Source sentence: The Long Blondes was founded in Sheffield .
+        Subject translation: The Long Blondes
+        Object translation: Шеффилд
+        Translation: The Long Blondes была основана в Шеффилде.
+        
+        Source sentence: Sidley Austin was founded in Chicago .
+        Subject translation: Sidley Austin
+        Object translation: Чикаго
+        Translation: Sidley Austin была основана в Чикаго.
+        
+        Source sentence: Sohodolls was founded in London .
+        Subject translation: Sohodolls
+        Object translation: Лондон
+        Translation: Sohodolls были основаны в Лондоне.
+        
+        Source sentence: Sinclair Research was founded in Cambridge .
+        Subject translation: Sinclair Research
+        Object translation: Кембридж
+        Translation: Sinclair Research была основана в Кембридже.
+        
+        Source sentence: Orica was founded in Australia .
+        Subject translation: Orica
+        Object translation: Австралия
+        Translation: Orica была основана в Австралии.
+        
+        Source sentence: Alfaguara was founded in Madrid .
+        Subject translation: Alfaguara
+        Object translation: Мадрид
+        Translation: Alfaguara было основано в Мадриде.
+        
+        Source sentence: AFC Ajax was founded in Amsterdam .
+        Subject translation: Аякс
+        Object translation: Амстердам
+        Translation: «Аякс» был основан в Амстердаме.
+        
+        Source sentence: Papa Roach was founded in California .
+        Subject translation: Papa Roach
+        Object translation: Калифорния
+        Translation: Papa Roach была основана в Калифорнии.
+        
+        Source sentence: Spiderweb Software was founded in Seattle .
+        Subject translation: Spiderweb Software
+        Object translation: Сиэтл
+        Translation: Spiderweb Software была основана в Сиэтле.
+        
+        Source sentence: Iran Airtour was founded in Tehran .
+        Subject translation: Iran Air Tours
+        Object translation: Тегеран
+        Translation: Iran Air Tours была основана в Тегеране.
+        
+        Source sentence: Thin Lizzy was founded in Dublin .
+        Subject translation: Thin Lizzy
+        Object translation: Дублин
+        Translation: Thin Lizzy была основана в Дублине.
+        
+        Source sentence: Salvatore Ferragamo Italia S.p.A. was founded in Florence .
+        Subject translation: Salvatore Ferragamo
+        Object translation: Флоренция
+        Translation: Salvatore Ferragamo была основана во Флоренции.
+        
+        Source sentence: Hot Chip was founded in London .
+        Subject translation: Hot Chip
+        Object translation: Лондон
+        Translation: Hot Chip была основана в Лондоне.
+        
+        Source sentence: A Bathing Ape was founded in Japan .
+        Subject translation: A Bathing Ape
+        Object translation: Япония
+        Translation: A Bathing Ape была основана в Японии.
+        
+        Source sentence: The Mighty Mighty Bosstones was founded in Boston .
+        Subject translation: The Mighty Mighty Bosstones
+        Object translation: Бостон
+        Translation: The Mighty Mighty Bosstones была основана в Бостоне.
+        
+        Source sentence: Otis Williams was founded in Detroit .
+        Subject translation: Отис Уильямс
+        Object translation: Детройт
+        Translation: «Отис Уильямс» был основан в Детройте.
+        
+        Source sentence: Scary Kids Scaring Kids was founded in Gilbert .
+        Subject translation: Scary Kids Scaring Kids
+        Object translation: Гилберт
+        Translation: Scary Kids Scaring Kids была основана в Гилберте.
+        
+        Source sentence: I Fight Dragons was founded in Chicago .
+        Subject translation: I Fight Dragons
+        Object translation: Чикаго
+        Translation: I Fight Dragons была основана в Чикаго.
+        
+        Source sentence: Ayria was founded in Toronto .
+        Subject translation: Ayria
+        Object translation: Торонто
+        Translation: Ayria была основана в Торонто.
+
+        Source sentence: Mosfilm was founded in Moscow .
+        Subject translation: Мосфильм
+        Object translation: Москва
+        Translation: «Мосфильм» был основан в Москве.
+        

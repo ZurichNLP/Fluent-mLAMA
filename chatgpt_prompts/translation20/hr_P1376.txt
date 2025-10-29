@@ -1,0 +1,106 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Brisbane is the capital of Queensland .
+        Subject translation: Brisbane
+        Object translation: Queensland
+        Translation: Brisbane je glavni grad Queenslanda.
+        
+        Source sentence: Cagliari is the capital of Sardinia .
+        Subject translation: Cagliari
+        Object translation: Sardinija
+        Translation: Cagliari je glavni grad Sardinije.
+        
+        Source sentence: Bandar Seri Begawan is the capital of Brunei .
+        Subject translation: Bandar Seri Begawan
+        Object translation: Brunej
+        Translation: Bandar Seri Begawan je glavni grad Bruneja.
+        
+        Source sentence: Canberra is the capital of Australia .
+        Subject translation: Canberra
+        Object translation: Australija
+        Translation: Canberra je glavni grad Australije.
+        
+        Source sentence: Apia is the capital of Samoa .
+        Subject translation: Apia
+        Object translation: Samoa
+        Translation: Apia je glavni grad Samoe.
+        
+        Source sentence: Nanjing is the capital of Taiwan .
+        Subject translation: Nanjing
+        Object translation: Republika Kina
+        Translation: Nanjing je glavni grad Republike Kine.
+        
+        Source sentence: Harare is the capital of Zimbabwe .
+        Subject translation: Harare
+        Object translation: Zimbabve
+        Translation: Harare je glavni grad Zimbabvea.
+        
+        Source sentence: Manila is the capital of Philippines .
+        Subject translation: Manila
+        Object translation: Filipini
+        Translation: Manila je glavni grad Filipina.
+        
+        Source sentence: Topeka is the capital of Kansas .
+        Subject translation: Topeka
+        Object translation: Kansas
+        Translation: Topeka je glavni grad Kansasa.
+        
+        Source sentence: Ljubljana is the capital of Slovenia .
+        Subject translation: Ljubljana
+        Object translation: Slovenija
+        Translation: Ljubljana je glavni grad Slovenije.
+        
+        Source sentence: Addis Ababa is the capital of Ethiopia .
+        Subject translation: Adis Abeba
+        Object translation: Etiopija
+        Translation: Adis Abeba je glavni grad Etiopije.
+        
+        Source sentence: Yogyakarta is the capital of Indonesia .
+        Subject translation: Yogyakarta
+        Object translation: Indonezija
+        Translation: Yogyakarta je glavni grad Indonezije.
+        
+        Source sentence: Chengdu is the capital of Sichuan .
+        Subject translation: Chengdu
+        Object translation: Sečuan
+        Translation: Chengdu je glavni grad Sečuana.
+        
+        Source sentence: Hartford is the capital of Connecticut .
+        Subject translation: Hartford, Connecticut
+        Object translation: Connecticut
+        Translation: Hartford, Connecticut je glavni grad Connecticuta.
+        
+        Source sentence: Winnipeg is the capital of Manitoba .
+        Subject translation: Winnipeg
+        Object translation: Manitoba
+        Translation: Winnipeg je glavni grad Manitobe.
+        
+        Source sentence: Copenhagen is the capital of Denmark .
+        Subject translation: Kopenhagen
+        Object translation: Danska
+        Translation: Kopenhagen je glavni grad Danske.
+        
+        Source sentence: Rabat is the capital of Morocco .
+        Subject translation: Rabat
+        Object translation: Maroko
+        Translation: Rabat je glavni grad Maroka.
+        
+        Source sentence: Toronto is the capital of Ontario .
+        Subject translation: Toronto
+        Object translation: Ontario
+        Translation: Toronto je glavni grad Ontarija.
+        
+        Source sentence: Kampala is the capital of Uganda .
+        Subject translation: Kampala
+        Object translation: Uganda
+        Translation: Kampala je glavni grad Ugande.
+        
+        Source sentence: Tirana is the capital of Albania .
+        Subject translation: Tirana
+        Object translation: Albanija
+        Translation: Tirana je glavni grad Albanije.
+        

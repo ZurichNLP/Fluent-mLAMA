@@ -1,0 +1,106 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Anita Berber died in Berlin .
+        Subject translation: Anita Berber
+        Object translation: Berlín
+        Translation: Anita Berber zemřela v Berlíně.
+        
+        Source sentence: Peter Parler died in Prague .
+        Subject translation: Petr Parléř
+        Object translation: Praha
+        Translation: Petr Parléř zemřel v Praze.
+        
+        Source sentence: Christian Rohlfs died in Hagen .
+        Subject translation: Christian Rohlfs
+        Object translation: Hagen
+        Translation: Christian Rohlfs zemřel v Hagenu .
+        
+        Source sentence: Lucian Freud died in London .
+        Subject translation: Lucian Freud
+        Object translation: Londýn
+        Translation: Lucian Freud zemřel v Londýně.
+        
+        Source sentence: Bartolomeo Ammannati died in Florence .
+        Subject translation: Bartolomeo Ammannati
+        Object translation: Florencie
+        Translation: Bartolomeo Ammannati zemřel ve Florencii.
+        
+        Source sentence: Dick Bruna died in Utrecht .
+        Subject translation: Dick Bruna
+        Object translation: Utrecht
+        Translation: Dick Bruna zemřel v Utrechtu.
+        
+        Source sentence: Juan Prim, 1st Marquis of los Castillejos died in Madrid .
+        Subject translation: Juan Prim
+        Object translation: Madrid
+        Translation: Juan Prim zemřel v Madridu.
+        
+        Source sentence: Claus Schenk Graf von Stauffenberg died in Berlin .
+        Subject translation: Claus Schenk von Stauffenberg
+        Object translation: Berlín
+        Translation: Claus Schenk von Stauffenberg zemřel v Berlíně.
+        
+        Source sentence: Saint Margaret of Scotland died in Edinburgh .
+        Subject translation: Markéta Skotská
+        Object translation: Edinburgh
+        Translation: Markéta Skotská zemřela v Edinburghu.
+        
+        Source sentence: Jean-Baptiste Joseph Delambre died in Paris .
+        Subject translation: Jean-Baptiste Joseph Delambre
+        Object translation: Paříž
+        Translation:  Jean-Baptiste Joseph Delambre zemřel v Paříži.
+        
+        Source sentence: Antonio Solario died in Naples .
+        Subject translation: Antonio Solario
+        Object translation: Neapol
+        Translation: Antonio Solario zemřel v Neapoli.
+        
+        Source sentence: Frankie Knuckles died in Chicago .
+        Subject translation: Frankie Knuckles
+        Object translation: Chicago
+        Translation: Frankie Knuckles zemřel v Chicagu.
+        
+        Source sentence: Ctesibius died in Alexandria .
+        Subject translation: Ktesibios
+        Object translation: Alexandrie
+        Translation: Ktesibios zemřel v Alexandrii.
+        
+        Source sentence: Henry Pickering Bowditch died in Boston .
+        Subject translation: Henry Pickering Bowditch
+        Object translation: Boston
+        Translation: Henry Pickering Bowditch zemřel v Bostonu.
+        
+        Source sentence: Pachomius the Great died in Egypt .
+        Subject translation: Pachomios
+        Object translation: Egypt
+        Translation: Pachomios zemřel v Egyptě.
+        
+        Source sentence: Giannina Arangi-Lombardi died in Milan .
+        Subject translation: Giannina Arangi-Lombardi
+        Object translation: Milán
+        Translation:  Giannina Arangi-Lombardi zemřela v Miláně.
+        
+        Source sentence: Ulisse Aldrovandi died in Bologna .
+        Subject translation: Ulisse Aldrovandi
+        Object translation: Bologna
+        Translation: Ulisse Aldrovandi zemřel v Bologni.
+        
+        Source sentence: Agnieszka Osiecka died in Warsaw .
+        Subject translation: Agnieszka Osiecka
+        Object translation: Varšava
+        Translation: Agnieszka Osiecka zemřela ve Varšavě.
+        
+        Source sentence: Nur Muhammad Taraki died in Kabul .
+        Subject translation: Núr Mohammad Tarakí
+        Object translation: Kábul
+        Translation: Núr Mohammad Tarakí zemřel v Kábulu.
+        
+        Source sentence: Adam Friedrich Oeser died in Leipzig .
+        Subject translation: Adam Friedrich Oeser
+        Object translation: Lipsko
+        Translation:  Adam Friedrich Oeser zemřel v Lipsku.
+        

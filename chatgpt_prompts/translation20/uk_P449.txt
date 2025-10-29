@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The New Normal was originally aired on NBC .
+        Subject translation: Нова норма
+        Object translation: NBC
+        Translation: Нова норма вперше транслювалася на NBC.
+        
+        Source sentence: The Wild Thornberrys was originally aired on Nickelodeon .
+        Subject translation: Дика сімейка Тонберів
+        Object translation: Nickelodeon
+        Translation: Дика сімейка Тонберів вперше транслювалася на Nickelodeon.
+        
+        Source sentence: Meet the Press with Chuck Todd was originally aired on NBC .
+        Subject translation: Meet the Press
+        Object translation: NBC
+        Translation: Meet the Press вперше транслювався на NBC.
+        
+        Source sentence: Guiding Light was originally aired on CBS .
+        Subject translation: Дороговказне світло
+        Object translation: CBS
+        Translation: Дороговказне світло вперше транслювалося на CBS.
+        
+        Source sentence: Hey Arnold! was originally aired on Nickelodeon .
+        Subject translation: Гей
+        Object translation: Nickelodeon
+        Translation: «Гей» вперше транслювався на Nickelodeon.
+        
+        Source sentence: The Good Wife was originally aired on CBS .
+        Subject translation: Гарна дружина
+        Object translation: CBS
+        Translation: Гарна дружина вперше транслювалася на CBS.
+        
+        Source sentence: The Angry Beavers was originally aired on Nickelodeon .
+        Subject translation: Злюки бобри
+        Object translation: Nickelodeon
+        Translation: Злюки бобри вперше транслювалися на Nickelodeon.
+        
+        Source sentence: Revolution was originally aired on NBC .
+        Subject translation: Революція
+        Object translation: NBC
+        Translation: Революція вперше транслювалася на NBC.
+        
+        Source sentence: Danny Phantom was originally aired on Nickelodeon .
+        Subject translation: Денні-Фантон
+        Object translation: Nickelodeon
+        Translation: Денні-Фантон вперше транслювався на Nickelodeon.
+        
+        Source sentence: The Smurfs was originally aired on NBC .
+        Subject translation: Смурфи
+        Object translation: NBC
+        Translation: Смурфи вперше транслювалися на NBC.
+        
+        Source sentence: Ray Donovan was originally aired on Showtime .
+        Subject translation: Рей Донован
+        Object translation: Showtime
+        Translation: Рей Донован вперше транслювався на Showtime.
+        
+        Source sentence: Criminal Minds was originally aired on CBS .
+        Subject translation: Криміналісти: мислити як злочинець
+        Object translation: CBS
+        Translation: «Криміналісти: мислити як злочинець» вперше транслювався на CBS.
+        
+        Source sentence: Just Shoot Me! was originally aired on NBC .
+        Subject translation: Журнал мод
+        Object translation: NBC
+        Translation: Журнал мод вперше транслювався на NBC.
+        
+        Source sentence: Boardwalk Empire was originally aired on HBO .
+        Subject translation: Підпільна імперія
+        Object translation: HBO
+        Translation: Підпільна імперія вперше транслювалася на HBO.
+        
+        Source sentence: Freaks and Geeks was originally aired on NBC .
+        Subject translation: Диваки і навіжені
+        Object translation: NBC
+        Translation: Диваки і навіжені вперше транслювалися на NBC.
+        
+        Source sentence: The Pretender was originally aired on NBC .
+        Subject translation: Імітатор
+        Object translation: NBC
+        Translation: Імітатор вперше транслювався на NBC.
+        
+        Source sentence: Victorious was originally aired on Nickelodeon .
+        Subject translation: Вікторія-переможниця
+        Object translation: Nickelodeon
+        Translation: Вікторія-переможниця вперше транслювалася на Nickelodeon.
+        
+        Source sentence: The Leftovers was originally aired on HBO .
+        Subject translation: Залишені (телесеріал)
+        Object translation: HBO
+        Translation: Залишені (телесеріал) вперше транслювався на HBO.
+        
+        Source sentence: The Benny Hill Show was originally aired on British Broadcasting Corporation .
+        Subject translation: Шоу Бенні Гілла
+        Object translation: BBC
+        Translation: Шоу Бенні Гілла вперше транслювалося на BBC.
+        
+        Source sentence: Silicon Valley was originally aired on HBO .
+        Subject translation: Кремнієва долина
+        Object translation: HBO
+        Translation: Кремнієва долина вперше транслювалася на HBO.
+        

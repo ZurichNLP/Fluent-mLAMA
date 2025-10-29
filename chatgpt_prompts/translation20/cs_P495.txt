@@ -1,0 +1,106 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: La Soupe aux choux was created in France .
+        Subject translation: Zelňačka
+        Object translation: Francie
+        Translation: Zelňačka vznikla ve Francii .
+        
+        Source sentence: Portuguese cuisine was created in Portugal .
+        Subject translation: Portugalská kuchyně
+        Object translation: Portugalsko
+        Translation: Portugalská kuchyně vznikla v Portugalsku.
+        
+        Source sentence: empanada was created in Argentina .
+        Subject translation: Empanada
+        Object translation: Argentina
+        Translation: Empanada vznikla v Argentině.
+        
+        Source sentence: pesto was created in Italy .
+        Subject translation: pesto
+        Object translation: Itálie
+        Translation: Pesto vzniklo v Itálii.
+        
+        Source sentence: Tilsit cheese was created in Switzerland .
+        Subject translation: Tylžský sýr
+        Object translation: Švýcarsko
+        Translation: Tylžský sýr vznikl ve Švýcarsku.
+        
+        Source sentence: El Espectador was created in Colombia .
+        Subject translation: El Espectador
+        Object translation: Kolumbie
+        Translation: El Espectador vznikl v Kolumbii.
+        
+        Source sentence: Le Concert was created in Belgium .
+        Subject translation: Koncert
+        Object translation: Belgie
+        Translation: Koncert vznikl v Belgii.
+        
+        Source sentence: The Strypes was created in Ireland .
+        Subject translation: The Strypes
+        Object translation: Irsko
+        Translation: The Strypes vznikla v Irsku.
+        
+        Source sentence: AC4 was created in Sweden .
+        Subject translation: AC4
+        Object translation: Švédsko
+        Translation: AC4 vznikl ve Švédsku.
+        
+        Source sentence: Amaury Sport Organisation was created in France .
+        Subject translation: Amaury Sport Organisation
+        Object translation: Francie
+        Translation: Amaury Sport Organisation vznikla ve Francii.
+        
+        Source sentence: Yo soy Betty, la fea was created in Colombia .
+        Subject translation: Ošklivka Betty
+        Object translation: Kolumbie
+        Translation: Ošklivka Betty vznikla v Kolumbii.
+        
+        Source sentence: T-1 Hatsutaka was created in Japan .
+        Subject translation: Fuji T-1
+        Object translation: Japonsko
+        Translation: Fuji T-1 vznikl v Japonsku.
+        
+        Source sentence: Mad Max Beyond Thunderdome was created in Australia .
+        Subject translation: Šílený Max a Dóm hromu
+        Object translation: Austrálie
+        Translation: Šílený Max a Dóm hromu vznikl v Austrálii.
+        
+        Source sentence: Death Note was created in Japan .
+        Subject translation: Death Note
+        Object translation: Japonsko
+        Translation: Death Note vznikl v Japonsku.
+        
+        Source sentence: guacamole was created in Mexico .
+        Subject translation: guacamole
+        Object translation: Mexiko
+        Translation: Guacamole vzniklo v Mexiku.
+        
+        Source sentence: association football was created in England .
+        Subject translation: fotbal
+        Object translation: Anglie
+        Translation: fotbal vznikl v Anglii.
+        
+        Source sentence: Orphan Black was created in Canada .
+        Subject translation: Orphan Black
+        Object translation: Kanada
+        Translation: Orphan Black vznikl v Kanadě.
+        
+        Source sentence: Rollo and the Spirit of the Woods was created in Finland .
+        Subject translation: Rölli a lesní duch
+        Object translation: Finsko
+        Translation: Rölli a lesní duch vznikl ve Finsku.
+        
+        Source sentence: pretzel was created in Germany .
+        Subject translation: preclík
+        Object translation: Německo
+        Translation: Preclík vznikl v Německu.
+        
+        Source sentence: 9K720 Iskander was created in Russia .
+        Subject translation: Iskander
+        Object translation: Rusko
+        Translation: Iskander vznikl v Rusku.
+        

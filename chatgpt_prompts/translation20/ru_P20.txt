@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Ngawang Lobsang Gyatso died in Tibet .
+        Subject translation: Далай-лама V
+        Object translation: Тибет
+        Translation: Далай-лама V умер в Тибете.
+        
+        Source sentence: Aloysia Weber died in Salzburg .
+        Subject translation: Алоизия Вебер
+        Object translation: Зальцбург
+        Translation: Алоизия Вебер умерла в Зальцбурге.
+        
+        Source sentence: Anna Magdalena Bach died in Leipzig .
+        Subject translation: Анна Магдалена Бах
+        Object translation: Лейпциг
+        Translation: Анна Магдалена Бах умерла в Лейпциге.
+        
+        Source sentence: Alexander Andreyevich Baranov died in Java .
+        Subject translation: Александр Андреевич Баранов
+        Object translation: Ява
+        Translation:  Александр Андреевич Баранов умер на Яве.
+        
+        Source sentence: Prince Franz de Paula of Liechtenstein died in Vienna .
+        Subject translation: Франц де Паула Лихтенштейн
+        Object translation: Вена
+        Translation: Франц де Паула Лихтенштейн умер в Вене.
+        
+        Source sentence: Abu'l-Faraj ibn al-Jawzi died in Baghdad .
+        Subject translation: Абу-ль-Фарадж ибн аль-Джаузи
+        Object translation: Багдад
+        Translation: Абу-ль-Фарадж ибн аль-Джаузи умер в Багдаде.
+        
+        Source sentence: Andor Lilienthal died in Budapest .
+        Subject translation: Лилиенталь, Андрэ Арнольдович
+        Object translation: Будапешт
+        Translation: Лилиенталь, Андрэ Арнольдович умер в Будапеште.
+        
+        Source sentence: Anatole de Monzie died in Paris .
+        Subject translation: Монзи, Анатоль де
+        Object translation: Париж
+        Translation: Монзи, Анатоль де умер в Париже.
+        
+        Source sentence: Refik Koraltan died in Istanbul .
+        Subject translation: Коралтан, Рефик
+        Object translation: Стамбул
+        Translation: Коралтан, Рефик умер в Стамбуле.
+        
+        Source sentence: Hugo Lederer died in Berlin .
+        Subject translation: Гуго Ледерер
+        Object translation: Берлин
+        Translation: Гуго Ледерер умер в Берлине.
+        
+        Source sentence: Annette Kolb died in Munich .
+        Subject translation: Кольб, Аннетта
+        Object translation: Мюнхен
+        Translation: Кольб, Аннетта умерла в Мюнхене.
+        
+        Source sentence: Innocent XI died in Rome .
+        Subject translation: Иннокентий XI
+        Object translation: Рим
+        Translation: Иннокентий XI умер в Риме.
+        
+        Source sentence: Claudio Coello died in Madrid .
+        Subject translation: Коэльо, Клаудио
+        Object translation: Мадрид
+        Translation: Коэльо, Клаудио умер в Мадриде.
+        
+        Source sentence: Alphonse Pyramus de Candolle died in Geneva .
+        Subject translation: Альфонс Декандоль
+        Object translation: Женева
+        Translation: Альфонс Декандоль умер в Женеве.
+        
+        Source sentence: Stephen Leacock died in Toronto .
+        Subject translation: Ликок, Стивен Батлер
+        Object translation: Торонто
+        Translation: Ликок, Стивен Батлер умер в Торонто.
+        
+        Source sentence: Tino di Camaino died in Naples .
+        Subject translation: Тино ди Камаино
+        Object translation: Неаполь
+        Translation: Тино ди Камаино умер в Неаполе.
+        
+        Source sentence: Dafydd ab Owain Gwynedd died in Kingdom of England .
+        Subject translation: Давид I ап Оуайн
+        Object translation: Королевство Англия
+        Translation: Давид I ап Оуайн умер в Королевстве Англии.
+        
+        Source sentence: Giovanni Pastrone died in Turin .
+        Subject translation: Пастроне, Джованни
+        Object translation: Турин
+        Translation: Пастроне, Джованни умер в Турине.
+        
+        Source sentence: Nicolas Jenson died in Venice .
+        Subject translation: Жансон, Николя
+        Object translation: Венеция
+        Translation: Жансон, Николя умер в Венеции.
+        
+        Source sentence: Anna Morandi Manzolini died in Bologna .
+        Subject translation: Манзолини, Анна Моранди
+        Object translation: Болонья
+        Translation: Манзолини, Анна Моранди умерла в Болонье.
+        

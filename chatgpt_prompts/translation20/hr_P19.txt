@@ -1,0 +1,111 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Bodin Issara was born in Bangkok .
+        Subject translation: Bodin Issara
+        Object translation: Bangkok
+        Translation: Bodin Issara je rođen u Bangkoku.
+        
+        Source sentence: Emiliano Chamorro Vargas was born in Nicaragua .
+        Subject translation: Emiliano Chamorro Vargas
+        Object translation: Nikaragva
+        Translation: Emiliano Chamorro Vargas je rođen u Nikaragvi.
+        
+        Source sentence: Charles II of Spain was born in Madrid .
+        Subject translation: Karlo II., španjolski kralj
+        Object translation: Madrid
+        Translation: Karlo II., španjolski kralj je rođen u Madridu.
+        
+        Source sentence: Geoffrey Hinsliff was born in Leeds .
+        Subject translation: Geoffrey Hinsliff
+        Object translation: Leeds
+        Translation: Geoffrey Hinsliff je rođen u Leedsu.
+        
+        Source sentence: David Harrower was born in Edinburgh .
+        Subject translation: David Harrower
+        Object translation: Edinburgh
+        Translation: David Harrower je rođen u Edinburgu.
+        
+        Source sentence: Alfred Adler was born in Vienna .
+        Subject translation: Alfred Adler
+        Object translation: Beč
+        Translation: Alfred Adler je rođen u Beču.
+        
+        Source sentence: DJ Drama was born in Philadelphia .
+        Subject translation: DJ Drama
+        Object translation: Philadelphia
+        Translation: DJ Drama je rođen u Philadelphiji.
+        
+        Source sentence: Aisha was born in Mecca .
+        Subject translation: Ajša
+        Object translation: Meka
+        Translation: Ajša je rođena u Meki.
+        
+        Source sentence: Enrico Caruso was born in Naples .
+        Subject translation: Enrico Caruso
+        Object translation: Napulj
+        Translation: Enrico Caruso je rođen u Napulju.
+        
+        Source sentence: Konrad Adenauer was born in Cologne .
+        Subject translation: Konrad Adenauer
+        Object translation: Köln
+        Translation: Konrad Adenauer je rođen u Kölnu.
+        
+        Source sentence: Lindy Hemming was born in Wales .
+        Subject translation: Lindy Hemming
+        Object translation: Wales
+        Translation: Lindy Hemming je rođena u Walesu.
+        
+        Source sentence: Adela of Normandy was born in Normandy .
+        Subject translation: Adela Normanska
+        Object translation: Normandija
+        Translation: Adela Normanska je rođena u Normandiji.
+        
+        Source sentence: David Coulthard was born in Scotland .
+        Subject translation: David Coulthard
+        Object translation: Škotska
+        Translation: David Coulthard je rođen u Škotskoj.
+        
+        Source sentence: Ali Campbell was born in Birmingham .
+        Subject translation: Ali Campbell
+        Object translation: Birmingham
+        Translation: Ali Campbell je rođena u Birminghamu.
+        
+        Source sentence: Jacqueline Beer was born in Paris .
+        Subject translation: Jacqueline Beer
+        Object translation: Pariz
+        Translation: Jacqueline Beer je rođena u Parizu.
+        
+        Source sentence: Sonja Biserko was born in Belgrade .
+        Subject translation: Sonja Biserko
+        Object translation: Beograd
+        Translation: Sonja Biserko je rođena u Beogradu.
+        
+        Source sentence: Sergey Lavrov was born in Moscow .
+        Subject translation: Sergej Lavrov
+        Object translation: Moskva
+        Translation: Sergej Lavrov je rođen u Moskvi.
+        
+        Source sentence: Henry Van de Velde was born in Antwerp .
+        Subject translation: Henry van de Velde
+        Object translation: Antwerpen
+        Translation: Henry Van de Velde je rođen u Antwerpenu.
+        
+        Source sentence: Blanca Li was born in Granada .
+        Subject translation: Blanca Li
+        Object translation: Granada
+        Translation: Blanca Li je rođena u Granadi.
+        
+        Source sentence: Leo V the Armenian was born in Armenia .
+        Subject translation: Leon V. Armenac
+        Object translation: Armenija
+        Translation: Leon V. Armenac je rođen u Armeniji.
+
+        Source sentence: Roy Orbison was born in Vernon .
+        Subject translation: Roy Orbison
+        Object translation: Vernon (Teksas)
+        Translation: Roy Orbison je rođen u Vernonu (Teksas).
+        

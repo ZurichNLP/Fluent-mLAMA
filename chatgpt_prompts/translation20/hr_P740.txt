@@ -1,0 +1,106 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Sam Cooke was founded in Chicago .
+        Subject translation: Sam Cooke
+        Object translation: Chicago
+        Translation: Sam Cooke je osnovan u Chicagu.
+        
+        Source sentence: Lhasa de Sela was founded in Mexico .
+        Subject translation: Lhasa de Sela
+        Object translation: Meksiko
+        Translation: Lhasa de Sela je osnovana u Meksiku.
+        
+        Source sentence: Nikon was founded in Tokyo .
+        Subject translation: Nikon
+        Object translation: Tokio
+        Translation: Nikon je osnovan u Tokiju.
+        
+        Source sentence: Daniel Diges was founded in Spain .
+        Subject translation: Daniel Diges
+        Object translation: Španjolska
+        Translation: Daniel Diges je osnovan u Španjolskoj.
+        
+        Source sentence: SK Slavia Prague was founded in Prague .
+        Subject translation: Slavia Prag
+        Object translation: Prag
+        Translation: Slavia Prag je osnovan u Pragu.
+        
+        Source sentence: Drowning Pool was founded in Dallas .
+        Subject translation: Drowning Pool
+        Object translation: Dallas, Teksas
+        Translation: Drowning Pool je osnovan u Dallasu, Teksas.
+        
+        Source sentence: Institut de Droit International was founded in Ghent .
+        Subject translation: Institut za međunarodno pravo
+        Object translation: Gent
+        Translation: Institut za međunarodno pravo je osnovan u Gentu.
+        
+        Source sentence: Alice in Chains was founded in Seattle .
+        Subject translation: Alice in Chains
+        Object translation: Seattle
+        Translation: Alice in Chains je osnovana u Seattleu.
+        
+        Source sentence: Swedish East India Company was founded in Gothenburg .
+        Subject translation: Švedska Istočnoindijska kompanija
+        Object translation: Göteborg
+        Translation: Švedska Istočnoindijska kompanija je osnovana u Göteborgu.
+        
+        Source sentence: Stevie Wonder was founded in Detroit .
+        Subject translation: Stevie Wonder
+        Object translation: Detroit, Michigan
+        Translation: Stevie Wonder je osnovan u Detroitu, Michigan.
+        
+        Source sentence: Marks & Spencer was founded in Leeds .
+        Subject translation: Marks & Spencer
+        Object translation: Leeds
+        Translation: Marks & Spencer je osnovan u Leedsu.
+        
+        Source sentence: Rammstein was founded in Berlin .
+        Subject translation: Rammstein
+        Object translation: Berlin
+        Translation: Rammstein je osnovan u Berlinu.
+        
+        Source sentence: Arch Enemy was founded in Sweden .
+        Subject translation: Arch Enemy
+        Object translation: Švedska
+        Translation: Arch Enemy je osnovan u Švedskoj.
+        
+        Source sentence: Duran Duran was founded in Birmingham .
+        Subject translation: Duran Duran
+        Object translation: Birmingham
+        Translation: Duran Duran je osnovan u Birminghamu.
+        
+        Source sentence: Organized Noize was founded in Atlanta .
+        Subject translation: Organized Noize
+        Object translation: Atlanta
+        Translation: Organized Noize je osnovan u Atlanti.
+        
+        Source sentence: Alien Ant Farm was founded in Riverside .
+        Subject translation: Alien Ant Farm
+        Object translation: Riverside, Kalifornija
+        Translation: Alien Ant Farm je osnovana u Riversideu, Kalifornija.
+        
+        Source sentence: Cool & Dre was founded in Miami .
+        Subject translation: Cool & Dre
+        Object translation: Miami, Florida
+        Translation: Cool & Dre je osnovan u Miamiju.
+        
+        Source sentence: Lenovo was founded in Beijing .
+        Subject translation: Lenovo
+        Object translation: Peking
+        Translation: Lenovo je osnovan u Pekingu.
+        
+        Source sentence: Ciara was founded in Atlanta .
+        Subject translation: Ciara
+        Object translation: Atlanta
+        Translation: Ciara je osnovana u Atlanti.
+        
+        Source sentence: The Agonist was founded in Montreal .
+        Subject translation: The Agonist
+        Object translation: Montréal
+        Translation: The Agonist je osnovan u Montrealu.
+        

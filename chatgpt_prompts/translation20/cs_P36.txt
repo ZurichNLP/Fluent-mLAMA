@@ -1,0 +1,110 @@
+	You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: The capital of British North America is London .
+        Subject translation: Britská Severní Amerika
+        Object translation: Londýn
+        Translation: Hlavním městem Britské Severní Ameriky je Londýn.
+        
+        Source sentence: The capital of County Wexford is Wexford .
+        Subject translation: Hrabství Wexford
+        Object translation: Wexford
+        Translation: Hlavním městem hrabství Wexford je Wexford.
+        
+        Source sentence: The capital of Iran is Tehran .
+        Subject translation: Írán
+        Object translation: Teherán
+        Translation: Hlavním městem Íránu je Teherán.
+        
+        Source sentence: The capital of Liguria is Genoa .
+        Subject translation: Ligurie
+        Object translation: Janov
+        Translation: Hlavním městem Ligurie je Janov.
+        
+        Source sentence: The capital of King County is Seattle .
+        Subject translation: King County
+        Object translation: Seattle
+        Translation: Hlavním městem King County je Seattle.
+        
+        Source sentence: The capital of Kingdom of Ireland is Dublin .
+        Subject translation: Irské království
+        Object translation: Dublin
+        Translation: Hlavním městem Irského království je Dublin.
+        
+        Source sentence: The capital of Brussels region is Brussels .
+        Subject translation: Bruselský region
+        Object translation: Brusel
+        Translation: Hlavním městem Bruselského regionu je Brusel.
+        
+        Source sentence: The capital of Commonwealth of the Philippines is Manila .
+        Subject translation: Filipínské společenství
+        Object translation: Manila
+        Translation: Hlavním městem Filipínského společenství je Manila.
+        
+        Source sentence: The capital of Kingdom of Hanover is Hanover .
+        Subject translation: Hannoverské království
+        Object translation: Hannover
+        Translation: Hlavním městem Hannoverského království je Hannover.
+        
+        Source sentence: The capital of Province of Siena is Siena .
+        Subject translation: Provincie Siena
+        Object translation: Siena
+        Translation: Hlavním městem provincie Siena je Siena.
+        
+        Source sentence: The capital of Batman Province is Batman .
+        Subject translation: Batman
+        Object translation: Batman
+        Translation: Hlavním městem Batmana je Batman.
+        
+        Source sentence: The capital of Bosnia Eyalet is Sarajevo .
+        Subject translation: Ejálet Bosna
+        Object translation: Sarajevo
+        Translation: Hlavním městem Ejáletu Bosna je Sarajevo.
+        
+        Source sentence: The capital of Bosnia and Herzegovina is Sarajevo .
+        Subject translation: Bosna a Hercegovina
+        Object translation: Sarajevo
+        Translation: Hlavním městem Bosny a Hercegoviny je Sarajevo.
+        
+        Source sentence: The capital of Antwerp is Antwerp .
+        Subject translation: Antverpy
+        Object translation: Antverpy
+        Translation: Hlavním městem Antverp jsou Antverpy.
+        
+        Source sentence: The capital of West Germany is Bonn .
+        Subject translation: Západní Německo
+        Object translation: Bonn
+        Translation: Hlavním městem Západního Německa je Bonn.
+        
+        Source sentence: The capital of Holy Roman Empire is Vienna .
+        Subject translation: Svatá říše římská
+        Object translation: Vídeň
+        Translation: Hlavním městem Svaté říše římské je Vídeň.
+        
+        Source sentence: The capital of Copenhagen Municipality is Copenhagen .
+        Subject translation: Kodaň
+        Object translation: Kodaň
+        Translation: Hlavním městem Kodaně je Kodaň.
+        
+        Source sentence: The capital of Second Polish Republic is Warsaw .
+        Subject translation: Druhá Polská republika
+        Object translation: Varšava
+        Translation: Hlavním městem Druhé Polské republiky je Varšava.
+        
+        Source sentence: The capital of Cache County is Logan .
+        Subject translation: Cache County
+        Object translation: Logan
+        Translation: Hlavním městem Cache County je Logan.
+        
+        Source sentence: The capital of Latvia is Riga .
+        Subject translation: Lotyšsko
+        Object translation: Riga
+        Translation: Hlavním městem Lotyšska je Riga.
+        
+        Source sentence: The capital of Baku Governorate is Baku .
+        Subject translation: Bakuská gubernie
+        Object translation: Baku
+        Translation: Hlavním městem Bakuské gubernie je Baku.

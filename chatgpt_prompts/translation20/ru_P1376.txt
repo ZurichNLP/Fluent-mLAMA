@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Oxford is the capital of Oxfordshire .
+        Subject translation: Оксфорд
+        Object translation: Оксфордшир
+        Translation: Оксфорд — столица Оксфордшира.
+        
+        Source sentence: Chandigarh is the capital of Punjab .
+        Subject translation: Чандигарх
+        Object translation: Пенджаб
+        Translation: Чандигарх — столица Пенджаба.
+        
+        Source sentence: Lima is the capital of Peru .
+        Subject translation: Лима
+        Object translation: Перу
+        Translation: Лима — столица Перу.
+        
+        Source sentence: Denver is the capital of Colorado .
+        Subject translation: Денвер
+        Object translation: Колорадо
+        Translation: Денвер — столица Колорадо.
+        
+        Source sentence: Yogyakarta is the capital of Indonesia .
+        Subject translation: Джокьякарта
+        Object translation: Индонезия
+        Translation: Джокьякарта — столица Индонезии.
+        
+        Source sentence: Chengdu is the capital of Sichuan .
+        Subject translation: Чэнду
+        Object translation: Сычуань
+        Translation: Чэнду — столица Сычуани.
+        
+        Source sentence: Podgorica is the capital of Montenegro .
+        Subject translation: Подгорица
+        Object translation: Черногория
+        Translation: Подгорица — столица Черногории.
+        
+        Source sentence: Berlin is the capital of Germany .
+        Subject translation: Берлин
+        Object translation: Германия
+        Translation: Берлин — столица Германии.
+        
+        Source sentence: Ottawa is the capital of Canada .
+        Subject translation: Оттава
+        Object translation: Канада
+        Translation: Оттава — столица Канады.
+        
+        Source sentence: Vientiane is the capital of Laos .
+        Subject translation: Вьентьян
+        Object translation: Лаос
+        Translation: Вьентьян — столица Лаоса.
+        
+        Source sentence: Doha is the capital of Qatar .
+        Subject translation: Доха
+        Object translation: Катар
+        Translation: Доха — столица Катара.
+        
+        Source sentence: Bertoua is the capital of East Region .
+        Subject translation: Бертуа
+        Object translation: Восточный регион
+        Translation: Бертуа — столица Восточного региона.
+        
+        Source sentence: Patna is the capital of Bihar .
+        Subject translation: Патна
+        Object translation: Бихар
+        Translation: Патна — столица Бихара.
+        
+        Source sentence: Nashville is the capital of Tennessee .
+        Subject translation: Нашвилл
+        Object translation: Теннесси
+        Translation: Нашвилл — столица Теннесси.
+        
+        Source sentence: Baghdad is the capital of Iraq .
+        Subject translation: Багдад
+        Object translation: Ирак
+        Translation: Багдад — столица Ирака.
+        
+        Source sentence: Tokyo is the capital of Japan .
+        Subject translation: Токио
+        Object translation: Япония
+        Translation: Токио — столица Японии.
+        
+        Source sentence: Suva is the capital of Fiji .
+        Subject translation: Сува
+        Object translation: Фиджи
+        Translation: Сува — столица Фиджи.
+        
+        Source sentence: Montevideo is the capital of Uruguay .
+        Subject translation: Монтевидео
+        Object translation: Уругвай
+        Translation: Монтевидео — столица Уругвая.
+        
+        Source sentence: Leicester is the capital of Leicestershire .
+        Subject translation: Лестер
+        Object translation: Лестершир
+        Translation: Лестер — столица Лестершира.
+        
+        Source sentence: Munich is the capital of Munich .
+        Subject translation: Мюнхен
+        Object translation: Мюнхен
+        Translation: Мюнхен — столица Мюнхена.
+        

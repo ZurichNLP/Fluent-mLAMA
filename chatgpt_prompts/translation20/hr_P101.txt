@@ -1,0 +1,106 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Frank Wilczek works in the field of physics .
+        Subject translation: Frank Anthony Wilczek
+        Object translation: fizika
+        Translation: Frank Anthony Wilczek radi na području fizike.
+        
+        Source sentence: James Franck works in the field of physics .
+        Subject translation: James Franck
+        Object translation: fizika
+        Translation: James Franck radi na području fizike.
+        
+        Source sentence: Johan Huizinga works in the field of history .
+        Subject translation: Johan Huizinga
+        Object translation: povijest
+        Translation: Johan Huizinga radi na području povijesti.
+        
+        Source sentence: Paul Broca works in the field of anatomy .
+        Subject translation: Paul Broca
+        Object translation: Anatomija
+        Translation: Paul Broca radi na području anatomije.
+        
+        Source sentence: Anatoly Fomenko works in the field of topology .
+        Subject translation: Anatolij Fomenko
+        Object translation: Topologija
+        Translation: Anatolij Fomenko radi na području topologije.
+        
+        Source sentence: Max Weber works in the field of sociology .
+        Subject translation: Max Weber
+        Object translation: Sociologija
+        Translation: Max Weber radi na području sociologije.
+        
+        Source sentence: Archimedes works in the field of geometry .
+        Subject translation: Arhimed
+        Object translation: Geometrija
+        Translation: Arhimed radi na području geometrije.
+        
+        Source sentence: Regiomontanus works in the field of mathematics .
+        Subject translation: Regiomontanus
+        Object translation: matematika
+        Translation: Regiomontanus radi na području matematike.
+        
+        Source sentence: Alfred Kinsey works in the field of biology .
+        Subject translation: Alfred Kinsey
+        Object translation: biologija
+        Translation: Alfred Kinsey radi na području biologije.
+        
+        Source sentence: Walther Meissner works in the field of physics .
+        Subject translation: Walther Meissner
+        Object translation: fizika
+        Translation: Walther Meissner radi na području fizike.
+        
+        Source sentence: Marie Curie works in the field of chemistry .
+        Subject translation: Maria Skłodowska-Curie
+        Object translation: kemija
+        Translation: Maria Skłodowska-Curie radi na području kemije.
+        
+        Source sentence: Heinrich Schliemann works in the field of archaeology .
+        Subject translation: Heinrich Schliemann
+        Object translation: Arheologija
+        Translation: Heinrich Schliemann radi na području arheologije.
+        
+        Source sentence: Franz Reuleaux works in the field of mechanics .
+        Subject translation: Franz Reuleaux
+        Object translation: mehanika
+        Translation: Franz Reuleaux radi na području mehanike.
+        
+        Source sentence: Hermann von Helmholtz works in the field of psychology .
+        Subject translation: Hermann von Helmholtz
+        Object translation: Psihologija
+        Translation: Hermann von Helmholtz radi na području psihologije.
+        
+        Source sentence: Anaxagoras works in the field of philosophy .
+        Subject translation: Anaksagora
+        Object translation: filozofija
+        Translation: Anaksagora radi na području filozofije.
+        
+        Source sentence: Akira Toriyama works in the field of manga .
+        Subject translation: Akira Toriyama
+        Object translation: Manga
+        Translation: Akira Toriyama radi na području mange.
+        
+        Source sentence: Robert Bunsen works in the field of chemistry .
+        Subject translation: Robert Wilhelm Bunsen
+        Object translation: kemija
+        Translation: Robert Wilhelm Bunsen radi na području kemije.
+        
+        Source sentence: Robert A. Millikan works in the field of physics .
+        Subject translation: Robert Andrews Millikan
+        Object translation: fizika
+        Translation: Robert Andrews Millikan radi na području fizike.
+        
+        Source sentence: Gerardus Mercator works in the field of geography .
+        Subject translation: Gerardus Mercator
+        Object translation: geografija
+        Translation: Gerardus Mercator radi na području geografije.
+        
+        Source sentence: Adam Carolla works in the field of comedian .
+        Subject translation: Adam Carolla
+        Object translation: komičar
+        Translation: Adam Carolla radi na području komičara.
+        

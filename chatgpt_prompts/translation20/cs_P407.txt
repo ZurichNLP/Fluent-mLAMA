@@ -1,0 +1,105 @@
+        You are a professional English-Czech translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Czech. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Human Touch was written in English .
+        Subject translation: Human Touch
+        Object translation: angličtina
+        Translation: Human Touch byl napsán v angličtině.
+        
+        Source sentence: Hungarian Wikipedia was written in Hungarian .
+        Subject translation: Maďarská Wikipedie
+        Object translation: maďarština
+        Translation: Maďarská Wikipedie byla napsána v maďarštině.
+        
+        Source sentence: The Cossacks was written in Russian .
+        Subject translation: Kozáci
+        Object translation: ruština
+        Translation: Kozáci byli napsáni v ruštině.
+        
+        Source sentence: The Cherry Orchard was written in Russian .
+        Subject translation: Višňový sad
+        Object translation: ruština
+        Translation: Višňový sad byl napsán v ruštině.
+        
+        Source sentence: HaOlam HaZeh was written in Hebrew .
+        Subject translation: Ha-Olam ha-ze
+        Object translation: hebrejština
+        Translation: Ha-Olam ha-ze byl napsán v hebrejštině.
+        
+        Source sentence: Myfanwy was written in Welsh .
+        Subject translation: Myfanwy
+        Object translation: velština
+        Translation: Myfanwy byl napsán ve velštině.
+        
+        Source sentence: A New Morning was written in English .
+        Subject translation: A New Morning
+        Object translation: angličtina
+        Translation: A New Morning byl napsán v angličtině.
+        
+        Source sentence: Die Tageszeitung was written in German .
+        Subject translation: die tageszeitung
+        Object translation: němčina
+        Translation:  Die Tageszeitung byl napsán v němčině.
+        
+        Source sentence: The Strand Magazine was written in English .
+        Subject translation: Strand Magazine
+        Object translation: angličtina
+        Translation: Strand Magazine byl napsán v angličtině.
+        
+        Source sentence: Eugene Onegin was written in Russian .
+        Subject translation: Evžen Oněgin
+        Object translation: ruština
+        Translation: Evžen Oněgin byl napsán v ruštině.
+        
+        Source sentence: Ian was written in English .
+        Subject translation: Ian
+        Object translation: angličtina
+        Translation: Ian byl napsán v angličtině.
+        
+        Source sentence: The Lamb Lies Down on Broadway was written in English .
+        Subject translation: The Lamb Lies Down on Broadway
+        Object translation: angličtina
+        Translation: The Lamb Lies Down on Broadway byl napsán v angličtině.
+        
+        Source sentence: New Traditionalists was written in English .
+        Subject translation: New Traditionalists
+        Object translation: angličtina
+        Translation: New Traditionalists byl napsán v angličtině.
+        
+        Source sentence: Rock and Roll Music was written in English .
+        Subject translation: Rock and Roll Music
+        Object translation: angličtina
+        Translation: Rock and Roll Music byl napsán v angličtině.
+        
+        Source sentence: Pink Flag was written in English .
+        Subject translation: Pink Flag
+        Object translation: angličtina
+        Translation: Pink Flag byl napsán v angličtině.
+        
+        Source sentence: London Calling was written in English .
+        Subject translation: London Calling
+        Object translation: angličtina
+        Translation: London Calling byl napsán v angličtině.
+        
+        Source sentence: Tencent QQ was written in Chinese .
+        Subject translation: Tencent QQ
+        Object translation: čínština
+        Translation: Tencent QQ byl napsán v čínštině.
+        
+        Source sentence: Jeong was written in Korean .
+        Subject translation: Čong
+        Object translation: korejština
+        Translation: Čong byl napsán v korejštině.
+        
+        Source sentence: Planet Caravan was written in English .
+        Subject translation: Planet Caravan
+        Object translation: angličtina
+        Translation: Planet Caravan byl napsán v angličtině.
+        
+        Source sentence: Swedish Wikipedia was written in Swedish .
+        Subject translation: švédská Wikipedie
+        Object translation: švédština
+        Translation: Švédská Wikipedie byla napsána ve švédštině.

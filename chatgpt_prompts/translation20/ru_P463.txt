@@ -1,0 +1,106 @@
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Slovak Football Association is a member of FIFA .
+        Subject translation: Словацкий футбольный союз
+        Object translation: ФИФА
+        Translation: Словацкий футбольный союз является членом ФИФА.
+        
+        Source sentence: Northern Mariana Islands Football Association is a member of FIFA .
+        Subject translation: Футбольная ассоциация Северных Марианских островов
+        Object translation: ФИФА
+        Translation: Футбольная ассоциация Северных Марианских островов является членом ФИФА.
+        
+        Source sentence: Canada men's national soccer team is a member of FIFA .
+        Subject translation: сборная Канады по футболу
+        Object translation: ФИФА
+        Translation: Сборная Канады по футболу является членом ФИФА.
+        
+        Source sentence: Geoff Rickly is a member of Thursday .
+        Subject translation: Рикли, Джефф
+        Object translation: Thursday
+        Translation: Рикли, Джефф является членом Thursday.
+        
+        Source sentence: Swedish Football Association is a member of FIFA .
+        Subject translation: Шведский футбольный союз
+        Object translation: ФИФА
+        Translation: Шведский футбольный союз является членом ФИФА.
+        
+        Source sentence: Moroccan Football Federation is a member of FIFA .
+        Subject translation: Королевская марокканская футбольная федерация
+        Object translation: ФИФА
+        Translation: Королевская марокканская футбольная федерация является членом ФИФА.
+        
+        Source sentence: Canada is a member of NATO .
+        Subject translation: Канада
+        Object translation: Организация Североатлантического договора
+        Translation: Канада является членом Организации Североатлантического договора.
+        
+        Source sentence: Football Association of the Czech Republic is a member of FIFA .
+        Subject translation: Футбольная ассоциация Чехии
+        Object translation: ФИФА
+        Translation: Футбольная ассоциация Чехии является членом ФИФА.
+        
+        Source sentence: Croatia is a member of NATO .
+        Subject translation: Хорватия
+        Object translation: Организация Североатлантического договора
+        Translation: Хорватия является членом Организации Североатлантического договора.
+        
+        Source sentence: National Football Federation of Guatemala is a member of FIFA .
+        Subject translation: Национальная федерация футбола Гватемалы
+        Object translation: ФИФА
+        Translation: Национальная федерация футбола Гватемалы является членом ФИФА.
+        
+        Source sentence: Jeff Hanneman is a member of Slayer .
+        Subject translation: Джефф Ханнеман
+        Object translation: Slayer
+        Translation: Джефф Ханнеман является членом Slayer.
+        
+        Source sentence: Italy is a member of UNESCO .
+        Subject translation: Италия
+        Object translation: ЮНЕСКО
+        Translation: Италия является членом ЮНЕСКО.
+        
+        Source sentence: Royal Spanish Football Federation is a member of FIFA .
+        Subject translation: Королевская испанская футбольная федерация
+        Object translation: ФИФА
+        Translation: Королевская испанская футбольная федерация является членом ФИФА.
+        
+        Source sentence: Nizar Rayan is a member of Hamas .
+        Subject translation: Райан, Низар
+        Object translation: ХАМАС
+        Translation: Райан, Низар является членом ХАМАС.
+        
+        Source sentence: Ismail Haniyeh is a member of Hamas .
+        Subject translation: Хания, Исмаил
+        Object translation: ХАМАС
+        Translation: Хания, Исмаил является членом ХАМАС.
+        
+        Source sentence: Royal Belgian Football Association is a member of FIFA .
+        Subject translation: Королевская бельгийская футбольная ассоциация
+        Object translation: ФИФА
+        Translation: Королевская бельгийская футбольная ассоциация является членом ФИФА.
+        
+        Source sentence: Nate Ruess is a member of Fun .
+        Subject translation: Нейт Рюсс
+        Object translation: Fun
+        Translation: Нейт Рюсс является членом Fun.
+        
+        Source sentence: Romanian Football Federation is a member of FIFA .
+        Subject translation: Федерация футбола Румынии
+        Object translation: ФИФА
+        Translation: Федерация футбола Румынии является членом ФИФА.
+        
+        Source sentence: Jessica Jones is a member of Avengers .
+        Subject translation: Джессика Джонс
+        Object translation: Мстители
+        Translation: Джессика Джонс является членом Мстителей.
+        
+        Source sentence: Solomon Islands Football Federation is a member of FIFA .
+        Subject translation: Футбольная федерация Соломоновых Островов
+        Object translation: ФИФА
+        Translation: Футбольная федерация Соломоновых Островов является членом ФИФА.
+        

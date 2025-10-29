@@ -1,0 +1,56 @@
+        You are a professional English-Croatian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Croatian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: David Hatch works for British Broadcasting Corporation .
+        Subject translation: David Hatch
+        Object translation: BBC
+        Translation: David Hatch radi na BBC-u.
+        
+        Source sentence: Irina Bokova works for UNESCO .
+        Subject translation: Irina Bokova
+        Object translation: UNESCO
+        Translation: Irina Bokova radi u UNESCO-u.
+        
+        Source sentence: David M. Thompson works for British Broadcasting Corporation .
+        Subject translation: David M. Thompson
+        Object translation: BBC
+        Translation: David M. Thompson radi na BBC-u.
+        
+        Source sentence: Steve Jobs works for Apple Inc. .
+        Subject translation: Steve Jobs
+        Object translation: Apple Inc.
+        Translation: Steve Jobs radi u Apple Inc.
+        
+        Source sentence: Jack Pease, 1st Baron Gainford works for British Broadcasting Corporation .
+        Subject translation: Jack Pease
+        Object translation: BBC
+        Translation: Jack Pease radi na BBC-u.
+        
+        Source sentence: Ronnie Waldman works for British Broadcasting Corporation .
+        Subject translation: Ronnie Waldman
+        Object translation: BBC
+        Translation: Ronnie Waldman radi na BBC-u.
+        
+        Source sentence: Charles Simonyi works for Microsoft .
+        Subject translation: Charles Simonyi
+        Object translation: Microsoft
+        Translation: Charles Simonyi radi u Microsoftu.
+        
+        Source sentence: Paul G. Allen works for Microsoft .
+        Subject translation: Paul Allen
+        Object translation: Microsoft
+        Translation: Paul Allen radi u Microsoftu.
+        
+        Source sentence: Willy Brandt works for Germany .
+        Subject translation: Willy Brandt
+        Object translation: Njemačka
+        Translation: Willy Brandt radi u Njemačkoj.
+
+        Source sentence: Heinrich Rohrer works for IBM .
+        Subject translation: Heinrich Rohrer
+        Object translation: IBM
+        Translation: Heinrich Rohrer radi u IBM-u.
+        

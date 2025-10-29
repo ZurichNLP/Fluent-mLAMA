@@ -1,0 +1,106 @@
+        You are a professional English-Ukrainian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Ukrainian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Bruce Springsteen works in the field of musician .
+        Subject translation: Брюс Спринстін
+        Object translation: музикант
+        Translation: Брюс Спрінгстін працює в галузі музиканта.
+        
+        Source sentence: Johann Christian Polycarp Erxleben works in the field of physics .
+        Subject translation: Йоган Хрістіан Еркслебен
+        Object translation: фізика
+        Translation: Йоган Хрістіан Еркслебен працює в галузі фізики.
+        
+        Source sentence: Matt Groening works in the field of cartoonist .
+        Subject translation: Метт Ґрейнінґ
+        Object translation: автор коміксів
+        Translation: Метт Ґрейнінґ працює в галузі автора коміксів.
+        
+        Source sentence: Jonas Jablonskis works in the field of linguistics .
+        Subject translation: Йонас Яблонскіс
+        Object translation: мовознавство
+        Translation: Йонас Яблонскіс працює в галузі мовознавства.
+        
+        Source sentence: Eric Maskin works in the field of economist .
+        Subject translation: Ерік Мескін
+        Object translation: економіст
+        Translation: Ерік Мескін працює в галузі економіста.
+        
+        Source sentence: Max Dehn works in the field of topology .
+        Subject translation: Макс Ден
+        Object translation: Топологія
+        Translation: Макс Ден працює в галузі топології.
+        
+        Source sentence: Max Weber works in the field of economics .
+        Subject translation: Макс Вебер
+        Object translation: економіка
+        Translation: Макс Вебер працює в галузі економіки.
+        
+        Source sentence: Isaac Barrow works in the field of mathematics .
+        Subject translation: Ісаак Барроу
+        Object translation: математика
+        Translation: Ісаак Барроу працює в галузі математики.
+        
+        Source sentence: Anders Celsius works in the field of astronomy .
+        Subject translation: Андерс Цельсій
+        Object translation: астрономія
+        Translation: Андерс Цельсій працює в галузі астрономії.
+        
+        Source sentence: Jan Mikulicz-Radecki works in the field of surgery .
+        Subject translation: Ян Мікулич-Радецький
+        Object translation: хірургія
+        Translation: Ян Мікуліч-Радецький працює в галузі хірургії.
+        
+        Source sentence: Sima Qian works in the field of history .
+        Subject translation: Сима Цянь
+        Object translation: історія
+        Translation: Сима Цянь працює в галузі історії.
+        
+        Source sentence: Arthur Leonard Schawlow works in the field of physicist .
+        Subject translation: Артур Леонард Шавлов
+        Object translation: фізик
+        Translation: Артур Леонард Шавлов працює в галузі фізика.
+        
+        Source sentence: Euclid works in the field of geometry .
+        Subject translation: Евклід
+        Object translation: геометрія
+        Translation: Евклід працює в галузі геометрії.
+        
+        Source sentence: Robert Bigelow works in the field of hotel .
+        Subject translation: Роберт Бігелоу
+        Object translation: готель
+        Translation: Роберт Бігелоу працює в галузі готелів.
+        
+        Source sentence: Karl Marx works in the field of philosophy .
+        Subject translation: Карл Маркс
+        Object translation: філософія
+        Translation: Карл Маркс працює в галузі філософії.
+        
+        Source sentence: Jean Pierre Flourens works in the field of physiology .
+        Subject translation: Жан-П'єр Флуранс
+        Object translation: фізіологія
+        Translation: Жан-П'єр Флуранс працює в галузі фізіології.
+        
+        Source sentence: Hermann von Helmholtz works in the field of psychology .
+        Subject translation: Герман фон Гельмгольц
+        Object translation: психологія
+        Translation: Герман фон Гельмгольц працює в галузі психології.
+        
+        Source sentence: William Crookes works in the field of chemistry .
+        Subject translation: Вільям Крукс
+        Object translation: хімія
+        Translation: Вільям Крукс працює в галузі хімії.
+        
+        Source sentence: Charles Darwin works in the field of geology .
+        Subject translation: Чарлз Дарвін
+        Object translation: геологія
+        Translation: Чарльз Дарвін працює в галузі геології.
+        
+        Source sentence: Adonis works in the field of hunting .
+        Subject translation: Адоніс
+        Object translation: полювання
+        Translation: Адоніс працює в галузі полювання.
+        

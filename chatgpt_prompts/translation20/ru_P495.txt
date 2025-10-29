@@ -1,0 +1,106 @@
+
+        You are a professional English-Russian translator. 
+        You are given the English sentences about subjects and objects. You are also given translations of subjects and objects separately. 
+        You need to translate full sentences to Russian. When translating, you have to use the translated subjects and objects. 
+        Pay special attention to grammatical agreement between the words in the translated sentences.
+        When translating, follow the examples:
+        
+        Source sentence: Tridev was created in India .
+        Subject translation: Трое разгневанных мужчин
+        Object translation: Индия
+        Translation: «Трое разгневанных мужчин» был создан в Индии.
+        
+        Source sentence: Finntroll was created in Finland .
+        Subject translation: Finntroll
+        Object translation: Финляндия
+        Translation: Finntroll был создан в Финляндии.
+        
+        Source sentence: Tulpan was created in Russia .
+        Subject translation: Тюльпан
+        Object translation: Россия
+        Translation: «Тюльпан» был создан в России.
+        
+        Source sentence: T-1 Hatsutaka was created in Japan .
+        Subject translation: Fuji T-1
+        Object translation: Япония
+        Translation: Fuji T-1 был создан в Японии.
+        
+        Source sentence: Bitter Moon was created in France .
+        Subject translation: Горькая луна
+        Object translation: Франция
+        Translation: «Горькая луна» была создана во Франции.
+        
+        Source sentence: Blindman was created in Italy .
+        Subject translation: Слепой
+        Object translation: Италия
+        Translation: «Слепой» был создан в Италии.
+        
+        Source sentence: Wiener schnitzel was created in Austria .
+        Subject translation: Венский шницель
+        Object translation: Австрия
+        Translation: Венский шницель был создан в Австрии.
+        
+        Source sentence: gelato was created in Italy .
+        Subject translation: Джелато
+        Object translation: Италия
+        Translation: Джелато было создано в Италии.
+        
+        Source sentence: sarangi was created in India .
+        Subject translation: саранги
+        Object translation: Индия
+        Translation: Саранги был создан в Индии.
+        
+        Source sentence: Mirror, Mirror II was created in Australia .
+        Subject translation: Зеркало, зеркало 2
+        Object translation: Австралия
+        Translation: «Зеркало, зеркало 2» было создано в Австралии.
+        
+        Source sentence: antipasto was created in Italy .
+        Subject translation: антипасто
+        Object translation: Италия
+        Translation: Антипасто было создано в Италии.
+        
+        Source sentence: La fanciulla del West was created in Italy .
+        Subject translation: Девушка с Запада
+        Object translation: Италия
+        Translation: «Девушка с Запада» была создана в Италии.
+        
+        Source sentence: SR 88 was created in Singapore .
+        Subject translation: SR-88
+        Object translation: Сингапур
+        Translation: SR-88 был создан в Сингапуре.
+        
+        Source sentence: Gyllene Tider was created in Sweden .
+        Subject translation: Gyllene Tider
+        Object translation: Швеция
+        Translation: Gyllene Tider была создана в Швеции.
+        
+        Source sentence: 9K720 Iskander was created in Russia .
+        Subject translation: Искандер
+        Object translation: Россия
+        Translation: Искандер был создан в России.
+        
+        Source sentence: The Last Hunter was created in Italy .
+        Subject translation: Последний охотник
+        Object translation: Италия
+        Translation: «Последний охотник» был создан в Италии.
+        
+        Source sentence: Samurai Pizza Cats was created in Japan .
+        Subject translation: Samurai Pizza Cats
+        Object translation: Япония
+        Translation: Samurai Pizza Cats была создана в Японии.
+        
+        Source sentence: Bezimienni bohaterowie was created in Poland .
+        Subject translation: Безымянные герои
+        Object translation: Польша
+        Translation: «Безымянные герои» были созданы в Польше.
+        
+        Source sentence: La Promesse was created in Belgium .
+        Subject translation: Обещание
+        Object translation: Бельгия
+        Translation: «Обещание» было создано в Бельгии.
+        
+        Source sentence: Jagriti was created in India .
+        Subject translation: Пробуждение
+        Object translation: Индия
+        Translation: «Пробуждение» было создано в Индии.
