@@ -48,4 +48,13 @@ Codes and data:
 * [`graphs`](graphs) - folder with all generated graphs
 * [`tables`](tables) - folder with all generated LaTeX tables.
 
+## Acknowledgments
+
+This research was funded by NCCR Evolving Language, Swiss National Science Foundation Agreement 51NF40\_180888. 
+We also thank the following people for helping with the preparation of the few-shot prompts and qualitative analysis of the larger sample of languages: 
+* Yulia Alpaieva (Charles University) for Ukrainian, 
+* Michelle Wastl (UZH) for Croatian, 
+* Nam Luu (University of the Basque Country) for Vietnamese, 
+* Sophia Conrad (UZH) for Danish, 
+* Polina Nalsedskova (HSE University) for Indonesian.
 
