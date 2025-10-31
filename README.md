@@ -33,9 +33,19 @@ We are doing it in a following manner:
 
 Codes and data:
 * [`processor.py`](processor.py) - module used for prompting an LLM.
-* [`script.py`](script.py) - python script to run evaluation (for a given language and a range of relations).
+* [`script.py`](script.py) - python script to run evaluation (for a given language and a range of relations). For example: `python script.py -l ru -r P101,P103,P108,P127,P1376,P159,P19,P20,P36,P364,P407,P449,P463,P495,P740`
 * [`stats`](stats) - resulting data with the ranks and log-probabilities of the objects
   * * [`stats_wide`](stats_wide) - distributions for the mode where aliases are counted as correct objects
 
 ## 3. Evaluation, Graphs and Tables
+
+Finally, we do a statistical analysis of the results. You can find all descriptions and discussion about it in the paper; here we are just providing all source codes.
+
+Codes and data:
+* [`stats.py`](stats.py) - class with most graphs and tables visualization
+* [`grammeval.py`](grammareval.py) - additional class which compares the QE qualitvy (approximation of fluency) with the increas in fact retrieval.
+* [`statistics.ipynb`](statistics.ipynb) - notebook which shows generation of every table and its reference to the paper.
+* [`graphs`](graphs) - folder with all generated graphs
+* [`tables`](tables) - folder with all generated LaTeX tables.
+
 
